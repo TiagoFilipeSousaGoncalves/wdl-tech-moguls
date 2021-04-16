@@ -1,0 +1,3385 @@
+,County_of_Origin,Period,AgeClassDescription,unemployed_number
+0,abrantes,Sep-19 to Feb-20,15-24,168
+1,aguiar da beira,Sep-19 to Feb-20,15-24,16
+2,alandroal,Sep-19 to Feb-20,15-24,25
+3,albergaria-a-velha,Sep-19 to Feb-20,15-24,69
+4,albufeira,Sep-19 to Feb-20,15-24,306
+5,alcanena,Sep-19 to Feb-20,15-24,30
+6,alcobaça,Sep-19 to Feb-20,15-24,135
+7,alcochete,Sep-19 to Feb-20,15-24,31
+8,alcoutim,Sep-19 to Feb-20,15-24,5
+9,alcácer do sal,Sep-19 to Feb-20,15-24,33
+10,alenquer,Sep-19 to Feb-20,15-24,97
+11,alentejo,Sep-19 to Feb-20,15-24,2180
+12,alfândega da fé,Sep-19 to Feb-20,15-24,22
+13,alijó,Sep-19 to Feb-20,15-24,38
+14,aljezur,Sep-19 to Feb-20,15-24,15
+15,aljustrel,Sep-19 to Feb-20,15-24,39
+16,almada,Sep-19 to Feb-20,15-24,322
+17,almeida,Sep-19 to Feb-20,15-24,15
+18,almeirim,Sep-19 to Feb-20,15-24,59
+19,almodôvar,Sep-19 to Feb-20,15-24,16
+20,alpiarça,Sep-19 to Feb-20,15-24,18
+21,alter do chão,Sep-19 to Feb-20,15-24,19
+22,alvaiázere,Sep-19 to Feb-20,15-24,20
+23,alvito,Sep-19 to Feb-20,15-24,14
+24,amadora,Sep-19 to Feb-20,15-24,390
+25,amarante,Sep-19 to Feb-20,15-24,298
+26,amares,Sep-19 to Feb-20,15-24,68
+27,anadia,Sep-19 to Feb-20,15-24,59
+28,ansião,Sep-19 to Feb-20,15-24,34
+29,arcos de valdevez,Sep-19 to Feb-20,15-24,51
+30,arganil,Sep-19 to Feb-20,15-24,42
+31,armamar,Sep-19 to Feb-20,15-24,34
+32,arouca,Sep-19 to Feb-20,15-24,63
+33,arraiolos,Sep-19 to Feb-20,15-24,15
+34,arronches,Sep-19 to Feb-20,15-24,6
+35,arruda dos vinhos,Sep-19 to Feb-20,15-24,17
+36,aveiro,Sep-19 to Feb-20,15-24,236
+37,avis,Sep-19 to Feb-20,15-24,23
+38,azambuja,Sep-19 to Feb-20,15-24,49
+39,baião,Sep-19 to Feb-20,15-24,121
+40,barcelos,Sep-19 to Feb-20,15-24,307
+41,barrancos,Sep-19 to Feb-20,15-24,16
+42,barreiro,Sep-19 to Feb-20,15-24,270
+43,batalha,Sep-19 to Feb-20,15-24,39
+44,beja,Sep-19 to Feb-20,15-24,174
+45,belmonte,Sep-19 to Feb-20,15-24,22
+46,benavente,Sep-19 to Feb-20,15-24,131
+47,bombarral,Sep-19 to Feb-20,15-24,16
+48,borba,Sep-19 to Feb-20,15-24,35
+49,boticas,Sep-19 to Feb-20,15-24,13
+50,braga,Sep-19 to Feb-20,15-24,643
+51,bragança,Sep-19 to Feb-20,15-24,119
+52,cabeceiras de basto,Sep-19 to Feb-20,15-24,107
+53,cadaval,Sep-19 to Feb-20,15-24,28
+54,caldas da rainha,Sep-19 to Feb-20,15-24,132
+55,caminha,Sep-19 to Feb-20,15-24,27
+56,campo maior,Sep-19 to Feb-20,15-24,55
+57,cantanhede,Sep-19 to Feb-20,15-24,86
+58,carrazeda de ansiães,Sep-19 to Feb-20,15-24,28
+59,carregal do sal,Sep-19 to Feb-20,15-24,35
+60,cartaxo,Sep-19 to Feb-20,15-24,43
+61,cascais,Sep-19 to Feb-20,15-24,469
+62,castanheira de pera,Sep-19 to Feb-20,15-24,9
+63,castelo branco,Sep-19 to Feb-20,15-24,153
+64,castelo de paiva,Sep-19 to Feb-20,15-24,93
+65,castelo de vide,Sep-19 to Feb-20,15-24,8
+66,castro daire,Sep-19 to Feb-20,15-24,92
+67,castro marim,Sep-19 to Feb-20,15-24,18
+68,castro verde,Sep-19 to Feb-20,15-24,24
+69,celorico da beira,Sep-19 to Feb-20,15-24,23
+70,celorico de basto,Sep-19 to Feb-20,15-24,72
+71,centro,Sep-19 to Feb-20,15-24,5621
+72,chamusca,Sep-19 to Feb-20,15-24,19
+73,chaves,Sep-19 to Feb-20,15-24,152
+74,cinfães,Sep-19 to Feb-20,15-24,82
+75,coimbra,Sep-19 to Feb-20,15-24,447
+76,condeixa-a-nova,Sep-19 to Feb-20,15-24,48
+77,constância,Sep-19 to Feb-20,15-24,20
+78,coruche,Sep-19 to Feb-20,15-24,76
+79,covilhã,Sep-19 to Feb-20,15-24,171
+80,crato,Sep-19 to Feb-20,15-24,19
+81,cuba,Sep-19 to Feb-20,15-24,32
+82,elvas,Sep-19 to Feb-20,15-24,167
+83,entroncamento,Sep-19 to Feb-20,15-24,59
+84,espinho,Sep-19 to Feb-20,15-24,126
+85,esposende,Sep-19 to Feb-20,15-24,72
+86,estarreja,Sep-19 to Feb-20,15-24,92
+87,estremoz,Sep-19 to Feb-20,15-24,59
+88,fafe,Sep-19 to Feb-20,15-24,227
+89,faro,Sep-19 to Feb-20,15-24,169
+90,felgueiras,Sep-19 to Feb-20,15-24,254
+91,ferreira do alentejo,Sep-19 to Feb-20,15-24,22
+92,ferreira do zêzere,Sep-19 to Feb-20,15-24,22
+93,figueira da foz,Sep-19 to Feb-20,15-24,249
+94,figueira de castelo rodrigo,Sep-19 to Feb-20,15-24,30
+95,figueiró dos vinhos,Sep-19 to Feb-20,15-24,32
+96,fornos de algodres,Sep-19 to Feb-20,15-24,36
+97,freixo espada à cinta,Sep-19 to Feb-20,15-24,35
+98,fronteira,Sep-19 to Feb-20,15-24,18
+99,fundão,Sep-19 to Feb-20,15-24,88
+100,gavião,Sep-19 to Feb-20,15-24,18
+101,golegã,Sep-19 to Feb-20,15-24,6
+102,gondomar,Sep-19 to Feb-20,15-24,683
+103,gouveia,Sep-19 to Feb-20,15-24,69
+104,grândola,Sep-19 to Feb-20,15-24,32
+105,guarda,Sep-19 to Feb-20,15-24,154
+106,guimarães,Sep-19 to Feb-20,15-24,578
+107,góis,Sep-19 to Feb-20,15-24,24
+108,idanha-a-nova,Sep-19 to Feb-20,15-24,34
+109,lagoa,Sep-19 to Feb-20,15-24,122
+110,lagos,Sep-19 to Feb-20,15-24,118
+111,lamego,Sep-19 to Feb-20,15-24,166
+112,leiria,Sep-19 to Feb-20,15-24,326
+113,lisboa,Sep-19 to Feb-20,15-24,1132
+114,lisboa vt,Sep-19 to Feb-20,15-24,8363
+115,loulé,Sep-19 to Feb-20,15-24,244
+116,loures,Sep-19 to Feb-20,15-24,464
+117,lourinhã,Sep-19 to Feb-20,15-24,70
+118,lousada,Sep-19 to Feb-20,15-24,198
+119,lousã,Sep-19 to Feb-20,15-24,71
+120,macedo de cavaleiros,Sep-19 to Feb-20,15-24,73
+121,mafra,Sep-19 to Feb-20,15-24,107
+122,maia,Sep-19 to Feb-20,15-24,356
+123,mangualde,Sep-19 to Feb-20,15-24,79
+124,manteigas,Sep-19 to Feb-20,15-24,6
+125,marco de canaveses,Sep-19 to Feb-20,15-24,320
+126,marinha grande,Sep-19 to Feb-20,15-24,168
+127,marvão,Sep-19 to Feb-20,15-24,6
+128,matosinhos,Sep-19 to Feb-20,15-24,483
+129,mação,Sep-19 to Feb-20,15-24,18
+130,mealhada,Sep-19 to Feb-20,15-24,41
+131,meda,Sep-19 to Feb-20,15-24,11
+132,melgaço,Sep-19 to Feb-20,15-24,20
+133,mesão frio,Sep-19 to Feb-20,15-24,23
+134,mira,Sep-19 to Feb-20,15-24,31
+135,miranda do corvo,Sep-19 to Feb-20,15-24,43
+136,miranda do douro,Sep-19 to Feb-20,15-24,19
+137,mirandela,Sep-19 to Feb-20,15-24,109
+138,mogadouro,Sep-19 to Feb-20,15-24,29
+139,moimenta da beira,Sep-19 to Feb-20,15-24,98
+140,moita,Sep-19 to Feb-20,15-24,228
+141,monchique,Sep-19 to Feb-20,15-24,13
+142,mondim de basto,Sep-19 to Feb-20,15-24,31
+143,monforte,Sep-19 to Feb-20,15-24,31
+144,montalegre,Sep-19 to Feb-20,15-24,21
+145,montemor-o-novo,Sep-19 to Feb-20,15-24,42
+146,montemor-o-velho,Sep-19 to Feb-20,15-24,77
+147,montijo,Sep-19 to Feb-20,15-24,182
+148,monção,Sep-19 to Feb-20,15-24,25
+149,mora,Sep-19 to Feb-20,15-24,9
+150,mortágua,Sep-19 to Feb-20,15-24,18
+151,moura,Sep-19 to Feb-20,15-24,158
+152,mourão,Sep-19 to Feb-20,15-24,22
+153,murtosa,Sep-19 to Feb-20,15-24,22
+154,murça,Sep-19 to Feb-20,15-24,22
+155,mértola,Sep-19 to Feb-20,15-24,20
+156,nazaré,Sep-19 to Feb-20,15-24,39
+157,nelas,Sep-19 to Feb-20,15-24,46
+158,nisa,Sep-19 to Feb-20,15-24,30
+159,norte,Sep-19 to Feb-20,15-24,12885
+160,odemira,Sep-19 to Feb-20,15-24,82
+161,odivelas,Sep-19 to Feb-20,15-24,209
+162,oeiras,Sep-19 to Feb-20,15-24,230
+163,oleiros,Sep-19 to Feb-20,15-24,11
+164,olhão,Sep-19 to Feb-20,15-24,122
+165,oliveira de azeméis,Sep-19 to Feb-20,15-24,157
+166,oliveira de frades,Sep-19 to Feb-20,15-24,45
+167,oliveira do bairro,Sep-19 to Feb-20,15-24,85
+168,oliveira do hospital,Sep-19 to Feb-20,15-24,86
+169,ourique,Sep-19 to Feb-20,15-24,19
+170,ourém,Sep-19 to Feb-20,15-24,89
+171,ovar,Sep-19 to Feb-20,15-24,206
+172,palmela,Sep-19 to Feb-20,15-24,118
+173,pampilhosa da serra,Sep-19 to Feb-20,15-24,9
+174,paredes,Sep-19 to Feb-20,15-24,333
+175,paredes de coura,Sep-19 to Feb-20,15-24,22
+176,paços de ferreira,Sep-19 to Feb-20,15-24,231
+177,pedrógão grande,Sep-19 to Feb-20,15-24,12
+178,penacova,Sep-19 to Feb-20,15-24,27
+179,penafiel,Sep-19 to Feb-20,15-24,300
+180,penalva do castelo,Sep-19 to Feb-20,15-24,25
+181,penamacor,Sep-19 to Feb-20,15-24,18
+182,penedono,Sep-19 to Feb-20,15-24,13
+183,penela,Sep-19 to Feb-20,15-24,10
+184,peniche,Sep-19 to Feb-20,15-24,79
+185,peso da régua,Sep-19 to Feb-20,15-24,105
+186,pinhel,Sep-19 to Feb-20,15-24,26
+187,pombal,Sep-19 to Feb-20,15-24,133
+188,ponte da barca,Sep-19 to Feb-20,15-24,29
+189,ponte de lima,Sep-19 to Feb-20,15-24,77
+190,ponte de sôr,Sep-19 to Feb-20,15-24,77
+191,portalegre,Sep-19 to Feb-20,15-24,81
+192,portel,Sep-19 to Feb-20,15-24,36
+193,portimão,Sep-19 to Feb-20,15-24,321
+194,porto,Sep-19 to Feb-20,15-24,636
+195,porto de mós,Sep-19 to Feb-20,15-24,58
+196,proença-a-nova,Sep-19 to Feb-20,15-24,11
+197,póvoa de lanhoso,Sep-19 to Feb-20,15-24,84
+198,póvoa de varzim,Sep-19 to Feb-20,15-24,226
+199,redondo,Sep-19 to Feb-20,15-24,29
+200,reguengos de monsaraz,Sep-19 to Feb-20,15-24,59
+201,resende,Sep-19 to Feb-20,15-24,67
+202,ribeira de pena,Sep-19 to Feb-20,15-24,32
+203,rio maior,Sep-19 to Feb-20,15-24,36
+204,sabrosa,Sep-19 to Feb-20,15-24,37
+205,sabugal,Sep-19 to Feb-20,15-24,33
+206,salvaterra de magos,Sep-19 to Feb-20,15-24,103
+207,santa comba dão,Sep-19 to Feb-20,15-24,44
+208,santa maria da feira,Sep-19 to Feb-20,15-24,439
+209,santa marta de penaguião,Sep-19 to Feb-20,15-24,33
+210,santarém,Sep-19 to Feb-20,15-24,136
+211,santiago do cacém,Sep-19 to Feb-20,15-24,66
+212,santo tirso,Sep-19 to Feb-20,15-24,227
+213,sardoal,Sep-19 to Feb-20,15-24,22
+214,seia,Sep-19 to Feb-20,15-24,99
+215,seixal,Sep-19 to Feb-20,15-24,435
+216,sernancelhe,Sep-19 to Feb-20,15-24,31
+217,serpa,Sep-19 to Feb-20,15-24,84
+218,sertã,Sep-19 to Feb-20,15-24,61
+219,sesimbra,Sep-19 to Feb-20,15-24,106
+220,setúbal,Sep-19 to Feb-20,15-24,386
+221,sever do vouga,Sep-19 to Feb-20,15-24,28
+222,silves,Sep-19 to Feb-20,15-24,122
+223,sines,Sep-19 to Feb-20,15-24,60
+224,sintra,Sep-19 to Feb-20,15-24,677
+225,sobral monte agraço,Sep-19 to Feb-20,15-24,19
+226,soure,Sep-19 to Feb-20,15-24,49
+227,sousel,Sep-19 to Feb-20,15-24,28
+228,sátão,Sep-19 to Feb-20,15-24,54
+229,são brás de alportel,Sep-19 to Feb-20,15-24,15
+230,são joão da madeira,Sep-19 to Feb-20,15-24,67
+231,são joão da pesqueira,Sep-19 to Feb-20,15-24,29
+232,são pedro do sul,Sep-19 to Feb-20,15-24,90
+233,tabuaço,Sep-19 to Feb-20,15-24,44
+234,tarouca,Sep-19 to Feb-20,15-24,56
+235,tavira,Sep-19 to Feb-20,15-24,45
+236,terras de bouro,Sep-19 to Feb-20,15-24,33
+237,tomar,Sep-19 to Feb-20,15-24,122
+238,tondela,Sep-19 to Feb-20,15-24,69
+239,torre de moncorvo,Sep-19 to Feb-20,15-24,37
+240,torres novas,Sep-19 to Feb-20,15-24,96
+241,torres vedras,Sep-19 to Feb-20,15-24,212
+242,trancoso,Sep-19 to Feb-20,15-24,32
+243,trofa,Sep-19 to Feb-20,15-24,102
+244,tábua,Sep-19 to Feb-20,15-24,51
+245,vagos,Sep-19 to Feb-20,15-24,57
+246,vale de cambra,Sep-19 to Feb-20,15-24,39
+247,valença,Sep-19 to Feb-20,15-24,43
+248,valongo,Sep-19 to Feb-20,15-24,340
+249,valpaços,Sep-19 to Feb-20,15-24,51
+250,vendas novas,Sep-19 to Feb-20,15-24,36
+251,viana do alentejo,Sep-19 to Feb-20,15-24,26
+252,viana do castelo,Sep-19 to Feb-20,15-24,178
+253,vidigueira,Sep-19 to Feb-20,15-24,30
+254,vieira do minho,Sep-19 to Feb-20,15-24,66
+255,vila de rei,Sep-19 to Feb-20,15-24,6
+256,vila do bispo,Sep-19 to Feb-20,15-24,17
+257,vila do conde,Sep-19 to Feb-20,15-24,227
+258,vila flor,Sep-19 to Feb-20,15-24,26
+259,vila franca de xira,Sep-19 to Feb-20,15-24,307
+260,vila nova da barquinha,Sep-19 to Feb-20,15-24,24
+261,vila nova de cerveira,Sep-19 to Feb-20,15-24,16
+262,vila nova de famalicão,Sep-19 to Feb-20,15-24,440
+263,vila nova de foz côa,Sep-19 to Feb-20,15-24,22
+264,vila nova de gaia,Sep-19 to Feb-20,15-24,1058
+265,vila nova de paiva,Sep-19 to Feb-20,15-24,34
+266,vila nova de poiares,Sep-19 to Feb-20,15-24,30
+267,vila pouca de aguiar,Sep-19 to Feb-20,15-24,44
+268,vila real,Sep-19 to Feb-20,15-24,258
+269,vila real de santo antónio,Sep-19 to Feb-20,15-24,65
+270,vila velha de rodão,Sep-19 to Feb-20,15-24,12
+271,vila verde,Sep-19 to Feb-20,15-24,151
+272,vila viçosa,Sep-19 to Feb-20,15-24,46
+273,vimioso,Sep-19 to Feb-20,15-24,19
+274,vinhais,Sep-19 to Feb-20,15-24,36
+275,viseu,Sep-19 to Feb-20,15-24,468
+276,vizela,Sep-19 to Feb-20,15-24,80
+277,vouzela,Sep-19 to Feb-20,15-24,45
+278,águeda,Sep-19 to Feb-20,15-24,140
+279,évora,Sep-19 to Feb-20,15-24,210
+280,ílhavo,Sep-19 to Feb-20,15-24,129
+281,óbidos,Sep-19 to Feb-20,15-24,20
+282,abrantes,Sep-20 to Jan-21,15-24,160
+283,aguiar da beira,Sep-20 to Jan-21,15-24,17
+284,alandroal,Sep-20 to Jan-21,15-24,23
+285,albergaria-a-velha,Sep-20 to Jan-21,15-24,98
+286,albufeira,Sep-20 to Jan-21,15-24,568
+287,alcanena,Sep-20 to Jan-21,15-24,39
+288,alcobaça,Sep-20 to Jan-21,15-24,199
+289,alcochete,Sep-20 to Jan-21,15-24,59
+290,alcoutim,Sep-20 to Jan-21,15-24,5
+291,alcácer do sal,Sep-20 to Jan-21,15-24,47
+292,alenquer,Sep-20 to Jan-21,15-24,191
+293,alentejo,Sep-20 to Jan-21,15-24,2560
+294,alfândega da fé,Sep-20 to Jan-21,15-24,24
+295,alijó,Sep-20 to Jan-21,15-24,53
+296,aljezur,Sep-20 to Jan-21,15-24,25
+297,aljustrel,Sep-20 to Jan-21,15-24,48
+298,almada,Sep-20 to Jan-21,15-24,630
+299,almeida,Sep-20 to Jan-21,15-24,14
+300,almeirim,Sep-20 to Jan-21,15-24,65
+301,almodôvar,Sep-20 to Jan-21,15-24,36
+302,alpiarça,Sep-20 to Jan-21,15-24,22
+303,alter do chão,Sep-20 to Jan-21,15-24,19
+304,alvaiázere,Sep-20 to Jan-21,15-24,24
+305,alvito,Sep-20 to Jan-21,15-24,13
+306,amadora,Sep-20 to Jan-21,15-24,884
+307,amarante,Sep-20 to Jan-21,15-24,359
+308,amares,Sep-20 to Jan-21,15-24,71
+309,anadia,Sep-20 to Jan-21,15-24,84
+310,ansião,Sep-20 to Jan-21,15-24,36
+311,arcos de valdevez,Sep-20 to Jan-21,15-24,59
+312,arganil,Sep-20 to Jan-21,15-24,57
+313,armamar,Sep-20 to Jan-21,15-24,23
+314,arouca,Sep-20 to Jan-21,15-24,93
+315,arraiolos,Sep-20 to Jan-21,15-24,20
+316,arronches,Sep-20 to Jan-21,15-24,11
+317,arruda dos vinhos,Sep-20 to Jan-21,15-24,38
+318,aveiro,Sep-20 to Jan-21,15-24,314
+319,avis,Sep-20 to Jan-21,15-24,37
+320,azambuja,Sep-20 to Jan-21,15-24,79
+321,baião,Sep-20 to Jan-21,15-24,147
+322,barcelos,Sep-20 to Jan-21,15-24,347
+323,barrancos,Sep-20 to Jan-21,15-24,23
+324,barreiro,Sep-20 to Jan-21,15-24,405
+325,batalha,Sep-20 to Jan-21,15-24,53
+326,beja,Sep-20 to Jan-21,15-24,203
+327,belmonte,Sep-20 to Jan-21,15-24,24
+328,benavente,Sep-20 to Jan-21,15-24,142
+329,bombarral,Sep-20 to Jan-21,15-24,39
+330,borba,Sep-20 to Jan-21,15-24,46
+331,boticas,Sep-20 to Jan-21,15-24,16
+332,braga,Sep-20 to Jan-21,15-24,860
+333,bragança,Sep-20 to Jan-21,15-24,129
+334,cabeceiras de basto,Sep-20 to Jan-21,15-24,116
+335,cadaval,Sep-20 to Jan-21,15-24,43
+336,caldas da rainha,Sep-20 to Jan-21,15-24,211
+337,caminha,Sep-20 to Jan-21,15-24,33
+338,campo maior,Sep-20 to Jan-21,15-24,67
+339,cantanhede,Sep-20 to Jan-21,15-24,132
+340,carrazeda de ansiães,Sep-20 to Jan-21,15-24,23
+341,carregal do sal,Sep-20 to Jan-21,15-24,34
+342,cartaxo,Sep-20 to Jan-21,15-24,64
+343,cascais,Sep-20 to Jan-21,15-24,848
+344,castanheira de pera,Sep-20 to Jan-21,15-24,16
+345,castelo branco,Sep-20 to Jan-21,15-24,175
+346,castelo de paiva,Sep-20 to Jan-21,15-24,121
+347,castelo de vide,Sep-20 to Jan-21,15-24,14
+348,castro daire,Sep-20 to Jan-21,15-24,83
+349,castro marim,Sep-20 to Jan-21,15-24,32
+350,castro verde,Sep-20 to Jan-21,15-24,44
+351,celorico da beira,Sep-20 to Jan-21,15-24,28
+352,celorico de basto,Sep-20 to Jan-21,15-24,105
+353,centro,Sep-20 to Jan-21,15-24,6687
+354,chamusca,Sep-20 to Jan-21,15-24,24
+355,chaves,Sep-20 to Jan-21,15-24,159
+356,cinfães,Sep-20 to Jan-21,15-24,122
+357,coimbra,Sep-20 to Jan-21,15-24,568
+358,condeixa-a-nova,Sep-20 to Jan-21,15-24,53
+359,constância,Sep-20 to Jan-21,15-24,18
+360,coruche,Sep-20 to Jan-21,15-24,73
+361,covilhã,Sep-20 to Jan-21,15-24,245
+362,crato,Sep-20 to Jan-21,15-24,18
+363,cuba,Sep-20 to Jan-21,15-24,30
+364,elvas,Sep-20 to Jan-21,15-24,142
+365,entroncamento,Sep-20 to Jan-21,15-24,72
+366,espinho,Sep-20 to Jan-21,15-24,178
+367,esposende,Sep-20 to Jan-21,15-24,84
+368,estarreja,Sep-20 to Jan-21,15-24,122
+369,estremoz,Sep-20 to Jan-21,15-24,71
+370,fafe,Sep-20 to Jan-21,15-24,269
+371,faro,Sep-20 to Jan-21,15-24,358
+372,felgueiras,Sep-20 to Jan-21,15-24,361
+373,ferreira do alentejo,Sep-20 to Jan-21,15-24,25
+374,ferreira do zêzere,Sep-20 to Jan-21,15-24,23
+375,figueira da foz,Sep-20 to Jan-21,15-24,290
+376,figueira de castelo rodrigo,Sep-20 to Jan-21,15-24,35
+377,figueiró dos vinhos,Sep-20 to Jan-21,15-24,18
+378,fornos de algodres,Sep-20 to Jan-21,15-24,20
+379,freixo espada à cinta,Sep-20 to Jan-21,15-24,33
+380,fronteira,Sep-20 to Jan-21,15-24,16
+381,fundão,Sep-20 to Jan-21,15-24,115
+382,gavião,Sep-20 to Jan-21,15-24,10
+383,golegã,Sep-20 to Jan-21,15-24,17
+384,gondomar,Sep-20 to Jan-21,15-24,1130
+385,gouveia,Sep-20 to Jan-21,15-24,65
+386,grândola,Sep-20 to Jan-21,15-24,30
+387,guarda,Sep-20 to Jan-21,15-24,180
+388,guimarães,Sep-20 to Jan-21,15-24,679
+389,góis,Sep-20 to Jan-21,15-24,23
+390,idanha-a-nova,Sep-20 to Jan-21,15-24,32
+391,lagoa,Sep-20 to Jan-21,15-24,167
+392,lagos,Sep-20 to Jan-21,15-24,199
+393,lamego,Sep-20 to Jan-21,15-24,195
+394,leiria,Sep-20 to Jan-21,15-24,468
+395,lisboa,Sep-20 to Jan-21,15-24,2280
+396,lisboa vt,Sep-20 to Jan-21,15-24,15194
+397,loulé,Sep-20 to Jan-21,15-24,491
+398,loures,Sep-20 to Jan-21,15-24,955
+399,lourinhã,Sep-20 to Jan-21,15-24,98
+400,lousada,Sep-20 to Jan-21,15-24,258
+401,lousã,Sep-20 to Jan-21,15-24,90
+402,macedo de cavaleiros,Sep-20 to Jan-21,15-24,82
+403,mafra,Sep-20 to Jan-21,15-24,222
+404,maia,Sep-20 to Jan-21,15-24,601
+405,mangualde,Sep-20 to Jan-21,15-24,75
+406,manteigas,Sep-20 to Jan-21,15-24,12
+407,marco de canaveses,Sep-20 to Jan-21,15-24,421
+408,marinha grande,Sep-20 to Jan-21,15-24,183
+409,marvão,Sep-20 to Jan-21,15-24,11
+410,matosinhos,Sep-20 to Jan-21,15-24,729
+411,mação,Sep-20 to Jan-21,15-24,29
+412,mealhada,Sep-20 to Jan-21,15-24,55
+413,meda,Sep-20 to Jan-21,15-24,14
+414,melgaço,Sep-20 to Jan-21,15-24,20
+415,mesão frio,Sep-20 to Jan-21,15-24,27
+416,mira,Sep-20 to Jan-21,15-24,40
+417,miranda do corvo,Sep-20 to Jan-21,15-24,56
+418,miranda do douro,Sep-20 to Jan-21,15-24,23
+419,mirandela,Sep-20 to Jan-21,15-24,107
+420,mogadouro,Sep-20 to Jan-21,15-24,31
+421,moimenta da beira,Sep-20 to Jan-21,15-24,93
+422,moita,Sep-20 to Jan-21,15-24,352
+423,monchique,Sep-20 to Jan-21,15-24,15
+424,mondim de basto,Sep-20 to Jan-21,15-24,46
+425,monforte,Sep-20 to Jan-21,15-24,29
+426,montalegre,Sep-20 to Jan-21,15-24,35
+427,montemor-o-novo,Sep-20 to Jan-21,15-24,35
+428,montemor-o-velho,Sep-20 to Jan-21,15-24,97
+429,montijo,Sep-20 to Jan-21,15-24,251
+430,monção,Sep-20 to Jan-21,15-24,46
+431,mora,Sep-20 to Jan-21,15-24,14
+432,mortágua,Sep-20 to Jan-21,15-24,28
+433,moura,Sep-20 to Jan-21,15-24,216
+434,mourão,Sep-20 to Jan-21,15-24,19
+435,murtosa,Sep-20 to Jan-21,15-24,26
+436,murça,Sep-20 to Jan-21,15-24,21
+437,mértola,Sep-20 to Jan-21,15-24,17
+438,nazaré,Sep-20 to Jan-21,15-24,70
+439,nelas,Sep-20 to Jan-21,15-24,56
+440,nisa,Sep-20 to Jan-21,15-24,36
+441,norte,Sep-20 to Jan-21,15-24,17671
+442,odemira,Sep-20 to Jan-21,15-24,124
+443,odivelas,Sep-20 to Jan-21,15-24,684
+444,oeiras,Sep-20 to Jan-21,15-24,530
+445,oleiros,Sep-20 to Jan-21,15-24,13
+446,olhão,Sep-20 to Jan-21,15-24,224
+447,oliveira de azeméis,Sep-20 to Jan-21,15-24,270
+448,oliveira de frades,Sep-20 to Jan-21,15-24,48
+449,oliveira do bairro,Sep-20 to Jan-21,15-24,98
+450,oliveira do hospital,Sep-20 to Jan-21,15-24,110
+451,ourique,Sep-20 to Jan-21,15-24,21
+452,ourém,Sep-20 to Jan-21,15-24,154
+453,ovar,Sep-20 to Jan-21,15-24,243
+454,palmela,Sep-20 to Jan-21,15-24,207
+455,pampilhosa da serra,Sep-20 to Jan-21,15-24,15
+456,paredes,Sep-20 to Jan-21,15-24,454
+457,paredes de coura,Sep-20 to Jan-21,15-24,41
+458,paços de ferreira,Sep-20 to Jan-21,15-24,306
+459,pedrógão grande,Sep-20 to Jan-21,15-24,13
+460,penacova,Sep-20 to Jan-21,15-24,36
+461,penafiel,Sep-20 to Jan-21,15-24,384
+462,penalva do castelo,Sep-20 to Jan-21,15-24,19
+463,penamacor,Sep-20 to Jan-21,15-24,15
+464,penedono,Sep-20 to Jan-21,15-24,18
+465,penela,Sep-20 to Jan-21,15-24,15
+466,peniche,Sep-20 to Jan-21,15-24,111
+467,peso da régua,Sep-20 to Jan-21,15-24,101
+468,pinhel,Sep-20 to Jan-21,15-24,23
+469,pombal,Sep-20 to Jan-21,15-24,186
+470,ponte da barca,Sep-20 to Jan-21,15-24,42
+471,ponte de lima,Sep-20 to Jan-21,15-24,131
+472,ponte de sôr,Sep-20 to Jan-21,15-24,64
+473,portalegre,Sep-20 to Jan-21,15-24,87
+474,portel,Sep-20 to Jan-21,15-24,41
+475,portimão,Sep-20 to Jan-21,15-24,458
+476,porto,Sep-20 to Jan-21,15-24,1016
+477,porto de mós,Sep-20 to Jan-21,15-24,77
+478,proença-a-nova,Sep-20 to Jan-21,15-24,14
+479,póvoa de lanhoso,Sep-20 to Jan-21,15-24,98
+480,póvoa de varzim,Sep-20 to Jan-21,15-24,285
+481,redondo,Sep-20 to Jan-21,15-24,35
+482,reguengos de monsaraz,Sep-20 to Jan-21,15-24,60
+483,resende,Sep-20 to Jan-21,15-24,87
+484,ribeira de pena,Sep-20 to Jan-21,15-24,35
+485,rio maior,Sep-20 to Jan-21,15-24,55
+486,sabrosa,Sep-20 to Jan-21,15-24,27
+487,sabugal,Sep-20 to Jan-21,15-24,27
+488,salvaterra de magos,Sep-20 to Jan-21,15-24,95
+489,santa comba dão,Sep-20 to Jan-21,15-24,32
+490,santa maria da feira,Sep-20 to Jan-21,15-24,670
+491,santa marta de penaguião,Sep-20 to Jan-21,15-24,35
+492,santarém,Sep-20 to Jan-21,15-24,173
+493,santiago do cacém,Sep-20 to Jan-21,15-24,74
+494,santo tirso,Sep-20 to Jan-21,15-24,306
+495,sardoal,Sep-20 to Jan-21,15-24,19
+496,seia,Sep-20 to Jan-21,15-24,79
+497,seixal,Sep-20 to Jan-21,15-24,727
+498,sernancelhe,Sep-20 to Jan-21,15-24,40
+499,serpa,Sep-20 to Jan-21,15-24,87
+500,sertã,Sep-20 to Jan-21,15-24,83
+501,sesimbra,Sep-20 to Jan-21,15-24,164
+502,setúbal,Sep-20 to Jan-21,15-24,566
+503,sever do vouga,Sep-20 to Jan-21,15-24,25
+504,silves,Sep-20 to Jan-21,15-24,233
+505,sines,Sep-20 to Jan-21,15-24,73
+506,sintra,Sep-20 to Jan-21,15-24,1733
+507,sobral monte agraço,Sep-20 to Jan-21,15-24,25
+508,soure,Sep-20 to Jan-21,15-24,52
+509,sousel,Sep-20 to Jan-21,15-24,20
+510,sátão,Sep-20 to Jan-21,15-24,48
+511,são brás de alportel,Sep-20 to Jan-21,15-24,30
+512,são joão da madeira,Sep-20 to Jan-21,15-24,122
+513,são joão da pesqueira,Sep-20 to Jan-21,15-24,38
+514,são pedro do sul,Sep-20 to Jan-21,15-24,88
+515,tabuaço,Sep-20 to Jan-21,15-24,51
+516,tarouca,Sep-20 to Jan-21,15-24,64
+517,tavira,Sep-20 to Jan-21,15-24,95
+518,terras de bouro,Sep-20 to Jan-21,15-24,31
+519,tomar,Sep-20 to Jan-21,15-24,141
+520,tondela,Sep-20 to Jan-21,15-24,72
+521,torre de moncorvo,Sep-20 to Jan-21,15-24,42
+522,torres novas,Sep-20 to Jan-21,15-24,97
+523,torres vedras,Sep-20 to Jan-21,15-24,300
+524,trancoso,Sep-20 to Jan-21,15-24,36
+525,trofa,Sep-20 to Jan-21,15-24,153
+526,tábua,Sep-20 to Jan-21,15-24,63
+527,vagos,Sep-20 to Jan-21,15-24,78
+528,vale de cambra,Sep-20 to Jan-21,15-24,40
+529,valença,Sep-20 to Jan-21,15-24,64
+530,valongo,Sep-20 to Jan-21,15-24,490
+531,valpaços,Sep-20 to Jan-21,15-24,56
+532,vendas novas,Sep-20 to Jan-21,15-24,53
+533,viana do alentejo,Sep-20 to Jan-21,15-24,42
+534,viana do castelo,Sep-20 to Jan-21,15-24,262
+535,vidigueira,Sep-20 to Jan-21,15-24,44
+536,vieira do minho,Sep-20 to Jan-21,15-24,79
+537,vila de rei,Sep-20 to Jan-21,15-24,10
+538,vila do bispo,Sep-20 to Jan-21,15-24,25
+539,vila do conde,Sep-20 to Jan-21,15-24,327
+540,vila flor,Sep-20 to Jan-21,15-24,29
+541,vila franca de xira,Sep-20 to Jan-21,15-24,634
+542,vila nova da barquinha,Sep-20 to Jan-21,15-24,34
+543,vila nova de cerveira,Sep-20 to Jan-21,15-24,31
+544,vila nova de famalicão,Sep-20 to Jan-21,15-24,647
+545,vila nova de foz côa,Sep-20 to Jan-21,15-24,25
+546,vila nova de gaia,Sep-20 to Jan-21,15-24,1789
+547,vila nova de paiva,Sep-20 to Jan-21,15-24,32
+548,vila nova de poiares,Sep-20 to Jan-21,15-24,43
+549,vila pouca de aguiar,Sep-20 to Jan-21,15-24,45
+550,vila real,Sep-20 to Jan-21,15-24,234
+551,vila real de santo antónio,Sep-20 to Jan-21,15-24,119
+552,vila velha de rodão,Sep-20 to Jan-21,15-24,10
+553,vila verde,Sep-20 to Jan-21,15-24,214
+554,vila viçosa,Sep-20 to Jan-21,15-24,37
+555,vimioso,Sep-20 to Jan-21,15-24,14
+556,vinhais,Sep-20 to Jan-21,15-24,27
+557,viseu,Sep-20 to Jan-21,15-24,500
+558,vizela,Sep-20 to Jan-21,15-24,88
+559,vouzela,Sep-20 to Jan-21,15-24,40
+560,águeda,Sep-20 to Jan-21,15-24,166
+561,évora,Sep-20 to Jan-21,15-24,308
+562,ílhavo,Sep-20 to Jan-21,15-24,186
+563,óbidos,Sep-20 to Jan-21,15-24,32
+564,abrantes,Sep-19 to Feb-20,25-34,278
+565,aguiar da beira,Sep-19 to Feb-20,25-34,26
+566,alandroal,Sep-19 to Feb-20,25-34,22
+567,albergaria-a-velha,Sep-19 to Feb-20,25-34,99
+568,albufeira,Sep-19 to Feb-20,25-34,830
+569,alcanena,Sep-19 to Feb-20,25-34,43
+570,alcobaça,Sep-19 to Feb-20,25-34,180
+571,alcochete,Sep-19 to Feb-20,25-34,74
+572,alcoutim,Sep-19 to Feb-20,25-34,3
+573,alcácer do sal,Sep-19 to Feb-20,25-34,34
+574,alenquer,Sep-19 to Feb-20,25-34,195
+575,alentejo,Sep-19 to Feb-20,25-34,3116
+576,alfândega da fé,Sep-19 to Feb-20,25-34,37
+577,alijó,Sep-19 to Feb-20,25-34,95
+578,aljezur,Sep-19 to Feb-20,25-34,32
+579,aljustrel,Sep-19 to Feb-20,25-34,54
+580,almada,Sep-19 to Feb-20,25-34,890
+581,almeida,Sep-19 to Feb-20,25-34,36
+582,almeirim,Sep-19 to Feb-20,25-34,97
+583,almodôvar,Sep-19 to Feb-20,25-34,25
+584,alpiarça,Sep-19 to Feb-20,25-34,24
+585,alter do chão,Sep-19 to Feb-20,25-34,28
+586,alvaiázere,Sep-19 to Feb-20,25-34,26
+587,alvito,Sep-19 to Feb-20,25-34,10
+588,amadora,Sep-19 to Feb-20,25-34,868
+589,amarante,Sep-19 to Feb-20,25-34,355
+590,amares,Sep-19 to Feb-20,25-34,86
+591,anadia,Sep-19 to Feb-20,25-34,87
+592,ansião,Sep-19 to Feb-20,25-34,35
+593,arcos de valdevez,Sep-19 to Feb-20,25-34,59
+594,arganil,Sep-19 to Feb-20,25-34,55
+595,armamar,Sep-19 to Feb-20,25-34,43
+596,arouca,Sep-19 to Feb-20,25-34,70
+597,arraiolos,Sep-19 to Feb-20,25-34,25
+598,arronches,Sep-19 to Feb-20,25-34,12
+599,arruda dos vinhos,Sep-19 to Feb-20,25-34,44
+600,aveiro,Sep-19 to Feb-20,25-34,469
+601,avis,Sep-19 to Feb-20,25-34,28
+602,azambuja,Sep-19 to Feb-20,25-34,85
+603,baião,Sep-19 to Feb-20,25-34,155
+604,barcelos,Sep-19 to Feb-20,25-34,390
+605,barrancos,Sep-19 to Feb-20,25-34,13
+606,barreiro,Sep-19 to Feb-20,25-34,509
+607,batalha,Sep-19 to Feb-20,25-34,38
+608,beja,Sep-19 to Feb-20,25-34,222
+609,belmonte,Sep-19 to Feb-20,25-34,39
+610,benavente,Sep-19 to Feb-20,25-34,197
+611,bombarral,Sep-19 to Feb-20,25-34,34
+612,borba,Sep-19 to Feb-20,25-34,42
+613,boticas,Sep-19 to Feb-20,25-34,22
+614,braga,Sep-19 to Feb-20,25-34,1207
+615,bragança,Sep-19 to Feb-20,25-34,222
+616,cabeceiras de basto,Sep-19 to Feb-20,25-34,111
+617,cadaval,Sep-19 to Feb-20,25-34,36
+618,caldas da rainha,Sep-19 to Feb-20,25-34,204
+619,caminha,Sep-19 to Feb-20,25-34,62
+620,campo maior,Sep-19 to Feb-20,25-34,88
+621,cantanhede,Sep-19 to Feb-20,25-34,123
+622,carrazeda de ansiães,Sep-19 to Feb-20,25-34,37
+623,carregal do sal,Sep-19 to Feb-20,25-34,42
+624,cartaxo,Sep-19 to Feb-20,25-34,90
+625,cascais,Sep-19 to Feb-20,25-34,840
+626,castanheira de pera,Sep-19 to Feb-20,25-34,15
+627,castelo branco,Sep-19 to Feb-20,25-34,275
+628,castelo de paiva,Sep-19 to Feb-20,25-34,72
+629,castelo de vide,Sep-19 to Feb-20,25-34,12
+630,castro daire,Sep-19 to Feb-20,25-34,104
+631,castro marim,Sep-19 to Feb-20,25-34,35
+632,castro verde,Sep-19 to Feb-20,25-34,37
+633,celorico da beira,Sep-19 to Feb-20,25-34,50
+634,celorico de basto,Sep-19 to Feb-20,25-34,89
+635,centro,Sep-19 to Feb-20,25-34,8020
+636,chamusca,Sep-19 to Feb-20,25-34,32
+637,chaves,Sep-19 to Feb-20,25-34,264
+638,cinfães,Sep-19 to Feb-20,25-34,103
+639,coimbra,Sep-19 to Feb-20,25-34,813
+640,condeixa-a-nova,Sep-19 to Feb-20,25-34,55
+641,constância,Sep-19 to Feb-20,25-34,31
+642,coruche,Sep-19 to Feb-20,25-34,110
+643,covilhã,Sep-19 to Feb-20,25-34,258
+644,crato,Sep-19 to Feb-20,25-34,24
+645,cuba,Sep-19 to Feb-20,25-34,37
+646,elvas,Sep-19 to Feb-20,25-34,236
+647,entroncamento,Sep-19 to Feb-20,25-34,108
+648,espinho,Sep-19 to Feb-20,25-34,199
+649,esposende,Sep-19 to Feb-20,25-34,116
+650,estarreja,Sep-19 to Feb-20,25-34,153
+651,estremoz,Sep-19 to Feb-20,25-34,78
+652,fafe,Sep-19 to Feb-20,25-34,311
+653,faro,Sep-19 to Feb-20,25-34,356
+654,felgueiras,Sep-19 to Feb-20,25-34,308
+655,ferreira do alentejo,Sep-19 to Feb-20,25-34,55
+656,ferreira do zêzere,Sep-19 to Feb-20,25-34,28
+657,figueira da foz,Sep-19 to Feb-20,25-34,329
+658,figueira de castelo rodrigo,Sep-19 to Feb-20,25-34,47
+659,figueiró dos vinhos,Sep-19 to Feb-20,25-34,28
+660,fornos de algodres,Sep-19 to Feb-20,25-34,23
+661,freixo espada à cinta,Sep-19 to Feb-20,25-34,41
+662,fronteira,Sep-19 to Feb-20,25-34,21
+663,fundão,Sep-19 to Feb-20,25-34,105
+664,gavião,Sep-19 to Feb-20,25-34,13
+665,golegã,Sep-19 to Feb-20,25-34,17
+666,gondomar,Sep-19 to Feb-20,25-34,1113
+667,gouveia,Sep-19 to Feb-20,25-34,73
+668,grândola,Sep-19 to Feb-20,25-34,62
+669,guarda,Sep-19 to Feb-20,25-34,249
+670,guimarães,Sep-19 to Feb-20,25-34,797
+671,góis,Sep-19 to Feb-20,25-34,13
+672,idanha-a-nova,Sep-19 to Feb-20,25-34,54
+673,lagoa,Sep-19 to Feb-20,25-34,208
+674,lagos,Sep-19 to Feb-20,25-34,231
+675,lamego,Sep-19 to Feb-20,25-34,272
+676,leiria,Sep-19 to Feb-20,25-34,505
+677,lisboa,Sep-19 to Feb-20,25-34,2869
+678,lisboa vt,Sep-19 to Feb-20,25-34,16861
+679,loulé,Sep-19 to Feb-20,25-34,571
+680,loures,Sep-19 to Feb-20,25-34,1035
+681,lourinhã,Sep-19 to Feb-20,25-34,99
+682,lousada,Sep-19 to Feb-20,25-34,213
+683,lousã,Sep-19 to Feb-20,25-34,81
+684,macedo de cavaleiros,Sep-19 to Feb-20,25-34,104
+685,mafra,Sep-19 to Feb-20,25-34,194
+686,maia,Sep-19 to Feb-20,25-34,634
+687,mangualde,Sep-19 to Feb-20,25-34,94
+688,manteigas,Sep-19 to Feb-20,25-34,10
+689,marco de canaveses,Sep-19 to Feb-20,25-34,388
+690,marinha grande,Sep-19 to Feb-20,25-34,220
+691,marvão,Sep-19 to Feb-20,25-34,10
+692,matosinhos,Sep-19 to Feb-20,25-34,987
+693,mação,Sep-19 to Feb-20,25-34,25
+694,mealhada,Sep-19 to Feb-20,25-34,65
+695,meda,Sep-19 to Feb-20,25-34,10
+696,melgaço,Sep-19 to Feb-20,25-34,25
+697,mesão frio,Sep-19 to Feb-20,25-34,42
+698,mira,Sep-19 to Feb-20,25-34,60
+699,miranda do corvo,Sep-19 to Feb-20,25-34,51
+700,miranda do douro,Sep-19 to Feb-20,25-34,32
+701,mirandela,Sep-19 to Feb-20,25-34,176
+702,mogadouro,Sep-19 to Feb-20,25-34,44
+703,moimenta da beira,Sep-19 to Feb-20,25-34,114
+704,moita,Sep-19 to Feb-20,25-34,471
+705,monchique,Sep-19 to Feb-20,25-34,17
+706,mondim de basto,Sep-19 to Feb-20,25-34,41
+707,monforte,Sep-19 to Feb-20,25-34,52
+708,montalegre,Sep-19 to Feb-20,25-34,35
+709,montemor-o-novo,Sep-19 to Feb-20,25-34,55
+710,montemor-o-velho,Sep-19 to Feb-20,25-34,112
+711,montijo,Sep-19 to Feb-20,25-34,382
+712,monção,Sep-19 to Feb-20,25-34,44
+713,mora,Sep-19 to Feb-20,25-34,13
+714,mortágua,Sep-19 to Feb-20,25-34,27
+715,moura,Sep-19 to Feb-20,25-34,180
+716,mourão,Sep-19 to Feb-20,25-34,39
+717,murtosa,Sep-19 to Feb-20,25-34,53
+718,murça,Sep-19 to Feb-20,25-34,43
+719,mértola,Sep-19 to Feb-20,25-34,30
+720,nazaré,Sep-19 to Feb-20,25-34,55
+721,nelas,Sep-19 to Feb-20,25-34,59
+722,nisa,Sep-19 to Feb-20,25-34,28
+723,norte,Sep-19 to Feb-20,25-34,20421
+724,odemira,Sep-19 to Feb-20,25-34,226
+725,odivelas,Sep-19 to Feb-20,25-34,552
+726,oeiras,Sep-19 to Feb-20,25-34,569
+727,oleiros,Sep-19 to Feb-20,25-34,10
+728,olhão,Sep-19 to Feb-20,25-34,239
+729,oliveira de azeméis,Sep-19 to Feb-20,25-34,217
+730,oliveira de frades,Sep-19 to Feb-20,25-34,63
+731,oliveira do bairro,Sep-19 to Feb-20,25-34,100
+732,oliveira do hospital,Sep-19 to Feb-20,25-34,117
+733,ourique,Sep-19 to Feb-20,25-34,21
+734,ourém,Sep-19 to Feb-20,25-34,111
+735,ovar,Sep-19 to Feb-20,25-34,310
+736,palmela,Sep-19 to Feb-20,25-34,234
+737,pampilhosa da serra,Sep-19 to Feb-20,25-34,9
+738,paredes,Sep-19 to Feb-20,25-34,467
+739,paredes de coura,Sep-19 to Feb-20,25-34,26
+740,paços de ferreira,Sep-19 to Feb-20,25-34,266
+741,pedrógão grande,Sep-19 to Feb-20,25-34,12
+742,penacova,Sep-19 to Feb-20,25-34,33
+743,penafiel,Sep-19 to Feb-20,25-34,379
+744,penalva do castelo,Sep-19 to Feb-20,25-34,27
+745,penamacor,Sep-19 to Feb-20,25-34,20
+746,penedono,Sep-19 to Feb-20,25-34,17
+747,penela,Sep-19 to Feb-20,25-34,17
+748,peniche,Sep-19 to Feb-20,25-34,161
+749,peso da régua,Sep-19 to Feb-20,25-34,185
+750,pinhel,Sep-19 to Feb-20,25-34,33
+751,pombal,Sep-19 to Feb-20,25-34,176
+752,ponte da barca,Sep-19 to Feb-20,25-34,34
+753,ponte de lima,Sep-19 to Feb-20,25-34,85
+754,ponte de sôr,Sep-19 to Feb-20,25-34,92
+755,portalegre,Sep-19 to Feb-20,25-34,113
+756,portel,Sep-19 to Feb-20,25-34,37
+757,portimão,Sep-19 to Feb-20,25-34,607
+758,porto,Sep-19 to Feb-20,25-34,1789
+759,porto de mós,Sep-19 to Feb-20,25-34,69
+760,proença-a-nova,Sep-19 to Feb-20,25-34,21
+761,póvoa de lanhoso,Sep-19 to Feb-20,25-34,114
+762,póvoa de varzim,Sep-19 to Feb-20,25-34,353
+763,redondo,Sep-19 to Feb-20,25-34,41
+764,reguengos de monsaraz,Sep-19 to Feb-20,25-34,87
+765,resende,Sep-19 to Feb-20,25-34,82
+766,ribeira de pena,Sep-19 to Feb-20,25-34,41
+767,rio maior,Sep-19 to Feb-20,25-34,67
+768,sabrosa,Sep-19 to Feb-20,25-34,35
+769,sabugal,Sep-19 to Feb-20,25-34,57
+770,salvaterra de magos,Sep-19 to Feb-20,25-34,124
+771,santa comba dão,Sep-19 to Feb-20,25-34,53
+772,santa maria da feira,Sep-19 to Feb-20,25-34,697
+773,santa marta de penaguião,Sep-19 to Feb-20,25-34,65
+774,santarém,Sep-19 to Feb-20,25-34,219
+775,santiago do cacém,Sep-19 to Feb-20,25-34,122
+776,santo tirso,Sep-19 to Feb-20,25-34,316
+777,sardoal,Sep-19 to Feb-20,25-34,19
+778,seia,Sep-19 to Feb-20,25-34,119
+779,seixal,Sep-19 to Feb-20,25-34,846
+780,sernancelhe,Sep-19 to Feb-20,25-34,27
+781,serpa,Sep-19 to Feb-20,25-34,145
+782,sertã,Sep-19 to Feb-20,25-34,71
+783,sesimbra,Sep-19 to Feb-20,25-34,209
+784,setúbal,Sep-19 to Feb-20,25-34,709
+785,sever do vouga,Sep-19 to Feb-20,25-34,43
+786,silves,Sep-19 to Feb-20,25-34,288
+787,sines,Sep-19 to Feb-20,25-34,98
+788,sintra,Sep-19 to Feb-20,25-34,1555
+789,sobral monte agraço,Sep-19 to Feb-20,25-34,31
+790,soure,Sep-19 to Feb-20,25-34,70
+791,sousel,Sep-19 to Feb-20,25-34,32
+792,sátão,Sep-19 to Feb-20,25-34,81
+793,são brás de alportel,Sep-19 to Feb-20,25-34,43
+794,são joão da madeira,Sep-19 to Feb-20,25-34,107
+795,são joão da pesqueira,Sep-19 to Feb-20,25-34,38
+796,são pedro do sul,Sep-19 to Feb-20,25-34,89
+797,tabuaço,Sep-19 to Feb-20,25-34,63
+798,tarouca,Sep-19 to Feb-20,25-34,76
+799,tavira,Sep-19 to Feb-20,25-34,116
+800,terras de bouro,Sep-19 to Feb-20,25-34,51
+801,tomar,Sep-19 to Feb-20,25-34,139
+802,tondela,Sep-19 to Feb-20,25-34,87
+803,torre de moncorvo,Sep-19 to Feb-20,25-34,64
+804,torres novas,Sep-19 to Feb-20,25-34,138
+805,torres vedras,Sep-19 to Feb-20,25-34,309
+806,trancoso,Sep-19 to Feb-20,25-34,41
+807,trofa,Sep-19 to Feb-20,25-34,173
+808,tábua,Sep-19 to Feb-20,25-34,57
+809,vagos,Sep-19 to Feb-20,25-34,97
+810,vale de cambra,Sep-19 to Feb-20,25-34,54
+811,valença,Sep-19 to Feb-20,25-34,66
+812,valongo,Sep-19 to Feb-20,25-34,564
+813,valpaços,Sep-19 to Feb-20,25-34,82
+814,vendas novas,Sep-19 to Feb-20,25-34,40
+815,viana do alentejo,Sep-19 to Feb-20,25-34,37
+816,viana do castelo,Sep-19 to Feb-20,25-34,294
+817,vidigueira,Sep-19 to Feb-20,25-34,50
+818,vieira do minho,Sep-19 to Feb-20,25-34,86
+819,vila de rei,Sep-19 to Feb-20,25-34,10
+820,vila do bispo,Sep-19 to Feb-20,25-34,42
+821,vila do conde,Sep-19 to Feb-20,25-34,388
+822,vila flor,Sep-19 to Feb-20,25-34,44
+823,vila franca de xira,Sep-19 to Feb-20,25-34,571
+824,vila nova da barquinha,Sep-19 to Feb-20,25-34,31
+825,vila nova de cerveira,Sep-19 to Feb-20,25-34,26
+826,vila nova de famalicão,Sep-19 to Feb-20,25-34,568
+827,vila nova de foz côa,Sep-19 to Feb-20,25-34,33
+828,vila nova de gaia,Sep-19 to Feb-20,25-34,2003
+829,vila nova de paiva,Sep-19 to Feb-20,25-34,43
+830,vila nova de poiares,Sep-19 to Feb-20,25-34,24
+831,vila pouca de aguiar,Sep-19 to Feb-20,25-34,58
+832,vila real,Sep-19 to Feb-20,25-34,420
+833,vila real de santo antónio,Sep-19 to Feb-20,25-34,131
+834,vila velha de rodão,Sep-19 to Feb-20,25-34,9
+835,vila verde,Sep-19 to Feb-20,25-34,217
+836,vila viçosa,Sep-19 to Feb-20,25-34,39
+837,vimioso,Sep-19 to Feb-20,25-34,15
+838,vinhais,Sep-19 to Feb-20,25-34,41
+839,viseu,Sep-19 to Feb-20,25-34,554
+840,vizela,Sep-19 to Feb-20,25-34,100
+841,vouzela,Sep-19 to Feb-20,25-34,54
+842,águeda,Sep-19 to Feb-20,25-34,195
+843,évora,Sep-19 to Feb-20,25-34,333
+844,ílhavo,Sep-19 to Feb-20,25-34,235
+845,óbidos,Sep-19 to Feb-20,25-34,24
+846,abrantes,Sep-20 to Jan-21,25-34,283
+847,aguiar da beira,Sep-20 to Jan-21,25-34,19
+848,alandroal,Sep-20 to Jan-21,25-34,8
+849,albergaria-a-velha,Sep-20 to Jan-21,25-34,138
+850,albufeira,Sep-20 to Jan-21,25-34,1517
+851,alcanena,Sep-20 to Jan-21,25-34,48
+852,alcobaça,Sep-20 to Jan-21,25-34,269
+853,alcochete,Sep-20 to Jan-21,25-34,113
+854,alcoutim,Sep-20 to Jan-21,25-34,6
+855,alcácer do sal,Sep-20 to Jan-21,25-34,55
+856,alenquer,Sep-20 to Jan-21,25-34,365
+857,alentejo,Sep-20 to Jan-21,25-34,3765
+858,alfândega da fé,Sep-20 to Jan-21,25-34,30
+859,alijó,Sep-20 to Jan-21,25-34,104
+860,aljezur,Sep-20 to Jan-21,25-34,54
+861,aljustrel,Sep-20 to Jan-21,25-34,61
+862,almada,Sep-20 to Jan-21,25-34,1592
+863,almeida,Sep-20 to Jan-21,25-34,39
+864,almeirim,Sep-20 to Jan-21,25-34,123
+865,almodôvar,Sep-20 to Jan-21,25-34,33
+866,alpiarça,Sep-20 to Jan-21,25-34,29
+867,alter do chão,Sep-20 to Jan-21,25-34,31
+868,alvaiázere,Sep-20 to Jan-21,25-34,23
+869,alvito,Sep-20 to Jan-21,25-34,19
+870,amadora,Sep-20 to Jan-21,25-34,1933
+871,amarante,Sep-20 to Jan-21,25-34,445
+872,amares,Sep-20 to Jan-21,25-34,120
+873,anadia,Sep-20 to Jan-21,25-34,114
+874,ansião,Sep-20 to Jan-21,25-34,45
+875,arcos de valdevez,Sep-20 to Jan-21,25-34,98
+876,arganil,Sep-20 to Jan-21,25-34,60
+877,armamar,Sep-20 to Jan-21,25-34,43
+878,arouca,Sep-20 to Jan-21,25-34,103
+879,arraiolos,Sep-20 to Jan-21,25-34,26
+880,arronches,Sep-20 to Jan-21,25-34,9
+881,arruda dos vinhos,Sep-20 to Jan-21,25-34,58
+882,aveiro,Sep-20 to Jan-21,25-34,579
+883,avis,Sep-20 to Jan-21,25-34,37
+884,azambuja,Sep-20 to Jan-21,25-34,109
+885,baião,Sep-20 to Jan-21,25-34,201
+886,barcelos,Sep-20 to Jan-21,25-34,522
+887,barrancos,Sep-20 to Jan-21,25-34,11
+888,barreiro,Sep-20 to Jan-21,25-34,801
+889,batalha,Sep-20 to Jan-21,25-34,56
+890,beja,Sep-20 to Jan-21,25-34,242
+891,belmonte,Sep-20 to Jan-21,25-34,39
+892,benavente,Sep-20 to Jan-21,25-34,261
+893,bombarral,Sep-20 to Jan-21,25-34,69
+894,borba,Sep-20 to Jan-21,25-34,46
+895,boticas,Sep-20 to Jan-21,25-34,38
+896,braga,Sep-20 to Jan-21,25-34,1587
+897,bragança,Sep-20 to Jan-21,25-34,239
+898,cabeceiras de basto,Sep-20 to Jan-21,25-34,127
+899,cadaval,Sep-20 to Jan-21,25-34,62
+900,caldas da rainha,Sep-20 to Jan-21,25-34,372
+901,caminha,Sep-20 to Jan-21,25-34,96
+902,campo maior,Sep-20 to Jan-21,25-34,103
+903,cantanhede,Sep-20 to Jan-21,25-34,158
+904,carrazeda de ansiães,Sep-20 to Jan-21,25-34,41
+905,carregal do sal,Sep-20 to Jan-21,25-34,42
+906,cartaxo,Sep-20 to Jan-21,25-34,137
+907,cascais,Sep-20 to Jan-21,25-34,1566
+908,castanheira de pera,Sep-20 to Jan-21,25-34,18
+909,castelo branco,Sep-20 to Jan-21,25-34,299
+910,castelo de paiva,Sep-20 to Jan-21,25-34,117
+911,castelo de vide,Sep-20 to Jan-21,25-34,17
+912,castro daire,Sep-20 to Jan-21,25-34,97
+913,castro marim,Sep-20 to Jan-21,25-34,57
+914,castro verde,Sep-20 to Jan-21,25-34,59
+915,celorico da beira,Sep-20 to Jan-21,25-34,56
+916,celorico de basto,Sep-20 to Jan-21,25-34,118
+917,centro,Sep-20 to Jan-21,25-34,10149
+918,chamusca,Sep-20 to Jan-21,25-34,30
+919,chaves,Sep-20 to Jan-21,25-34,272
+920,cinfães,Sep-20 to Jan-21,25-34,155
+921,coimbra,Sep-20 to Jan-21,25-34,1063
+922,condeixa-a-nova,Sep-20 to Jan-21,25-34,81
+923,constância,Sep-20 to Jan-21,25-34,28
+924,coruche,Sep-20 to Jan-21,25-34,133
+925,covilhã,Sep-20 to Jan-21,25-34,381
+926,crato,Sep-20 to Jan-21,25-34,26
+927,cuba,Sep-20 to Jan-21,25-34,36
+928,elvas,Sep-20 to Jan-21,25-34,223
+929,entroncamento,Sep-20 to Jan-21,25-34,131
+930,espinho,Sep-20 to Jan-21,25-34,262
+931,esposende,Sep-20 to Jan-21,25-34,151
+932,estarreja,Sep-20 to Jan-21,25-34,198
+933,estremoz,Sep-20 to Jan-21,25-34,98
+934,fafe,Sep-20 to Jan-21,25-34,388
+935,faro,Sep-20 to Jan-21,25-34,723
+936,felgueiras,Sep-20 to Jan-21,25-34,478
+937,ferreira do alentejo,Sep-20 to Jan-21,25-34,58
+938,ferreira do zêzere,Sep-20 to Jan-21,25-34,32
+939,figueira da foz,Sep-20 to Jan-21,25-34,456
+940,figueira de castelo rodrigo,Sep-20 to Jan-21,25-34,45
+941,figueiró dos vinhos,Sep-20 to Jan-21,25-34,30
+942,fornos de algodres,Sep-20 to Jan-21,25-34,27
+943,freixo espada à cinta,Sep-20 to Jan-21,25-34,41
+944,fronteira,Sep-20 to Jan-21,25-34,23
+945,fundão,Sep-20 to Jan-21,25-34,134
+946,gavião,Sep-20 to Jan-21,25-34,14
+947,golegã,Sep-20 to Jan-21,25-34,22
+948,gondomar,Sep-20 to Jan-21,25-34,1650
+949,gouveia,Sep-20 to Jan-21,25-34,99
+950,grândola,Sep-20 to Jan-21,25-34,58
+951,guarda,Sep-20 to Jan-21,25-34,247
+952,guimarães,Sep-20 to Jan-21,25-34,1133
+953,góis,Sep-20 to Jan-21,25-34,22
+954,idanha-a-nova,Sep-20 to Jan-21,25-34,59
+955,lagoa,Sep-20 to Jan-21,25-34,307
+956,lagos,Sep-20 to Jan-21,25-34,406
+957,lamego,Sep-20 to Jan-21,25-34,294
+958,leiria,Sep-20 to Jan-21,25-34,791
+959,lisboa,Sep-20 to Jan-21,25-34,5663
+960,lisboa vt,Sep-20 to Jan-21,25-34,30664
+961,loulé,Sep-20 to Jan-21,25-34,1122
+962,loures,Sep-20 to Jan-21,25-34,2022
+963,lourinhã,Sep-20 to Jan-21,25-34,163
+964,lousada,Sep-20 to Jan-21,25-34,308
+965,lousã,Sep-20 to Jan-21,25-34,111
+966,macedo de cavaleiros,Sep-20 to Jan-21,25-34,104
+967,mafra,Sep-20 to Jan-21,25-34,400
+968,maia,Sep-20 to Jan-21,25-34,980
+969,mangualde,Sep-20 to Jan-21,25-34,110
+970,manteigas,Sep-20 to Jan-21,25-34,13
+971,marco de canaveses,Sep-20 to Jan-21,25-34,466
+972,marinha grande,Sep-20 to Jan-21,25-34,333
+973,marvão,Sep-20 to Jan-21,25-34,18
+974,matosinhos,Sep-20 to Jan-21,25-34,1450
+975,mação,Sep-20 to Jan-21,25-34,24
+976,mealhada,Sep-20 to Jan-21,25-34,79
+977,meda,Sep-20 to Jan-21,25-34,22
+978,melgaço,Sep-20 to Jan-21,25-34,39
+979,mesão frio,Sep-20 to Jan-21,25-34,36
+980,mira,Sep-20 to Jan-21,25-34,68
+981,miranda do corvo,Sep-20 to Jan-21,25-34,59
+982,miranda do douro,Sep-20 to Jan-21,25-34,34
+983,mirandela,Sep-20 to Jan-21,25-34,188
+984,mogadouro,Sep-20 to Jan-21,25-34,35
+985,moimenta da beira,Sep-20 to Jan-21,25-34,125
+986,moita,Sep-20 to Jan-21,25-34,734
+987,monchique,Sep-20 to Jan-21,25-34,29
+988,mondim de basto,Sep-20 to Jan-21,25-34,46
+989,monforte,Sep-20 to Jan-21,25-34,45
+990,montalegre,Sep-20 to Jan-21,25-34,35
+991,montemor-o-novo,Sep-20 to Jan-21,25-34,63
+992,montemor-o-velho,Sep-20 to Jan-21,25-34,157
+993,montijo,Sep-20 to Jan-21,25-34,534
+994,monção,Sep-20 to Jan-21,25-34,86
+995,mora,Sep-20 to Jan-21,25-34,15
+996,mortágua,Sep-20 to Jan-21,25-34,25
+997,moura,Sep-20 to Jan-21,25-34,200
+998,mourão,Sep-20 to Jan-21,25-34,38
+999,murtosa,Sep-20 to Jan-21,25-34,56
+1000,murça,Sep-20 to Jan-21,25-34,39
+1001,mértola,Sep-20 to Jan-21,25-34,36
+1002,nazaré,Sep-20 to Jan-21,25-34,102
+1003,nelas,Sep-20 to Jan-21,25-34,84
+1004,nisa,Sep-20 to Jan-21,25-34,32
+1005,norte,Sep-20 to Jan-21,25-34,28232
+1006,odemira,Sep-20 to Jan-21,25-34,429
+1007,odivelas,Sep-20 to Jan-21,25-34,1400
+1008,oeiras,Sep-20 to Jan-21,25-34,1158
+1009,oleiros,Sep-20 to Jan-21,25-34,14
+1010,olhão,Sep-20 to Jan-21,25-34,429
+1011,oliveira de azeméis,Sep-20 to Jan-21,25-34,393
+1012,oliveira de frades,Sep-20 to Jan-21,25-34,68
+1013,oliveira do bairro,Sep-20 to Jan-21,25-34,127
+1014,oliveira do hospital,Sep-20 to Jan-21,25-34,133
+1015,ourique,Sep-20 to Jan-21,25-34,20
+1016,ourém,Sep-20 to Jan-21,25-34,174
+1017,ovar,Sep-20 to Jan-21,25-34,384
+1018,palmela,Sep-20 to Jan-21,25-34,398
+1019,pampilhosa da serra,Sep-20 to Jan-21,25-34,9
+1020,paredes,Sep-20 to Jan-21,25-34,611
+1021,paredes de coura,Sep-20 to Jan-21,25-34,45
+1022,paços de ferreira,Sep-20 to Jan-21,25-34,358
+1023,pedrógão grande,Sep-20 to Jan-21,25-34,17
+1024,penacova,Sep-20 to Jan-21,25-34,47
+1025,penafiel,Sep-20 to Jan-21,25-34,542
+1026,penalva do castelo,Sep-20 to Jan-21,25-34,38
+1027,penamacor,Sep-20 to Jan-21,25-34,22
+1028,penedono,Sep-20 to Jan-21,25-34,17
+1029,penela,Sep-20 to Jan-21,25-34,15
+1030,peniche,Sep-20 to Jan-21,25-34,252
+1031,peso da régua,Sep-20 to Jan-21,25-34,204
+1032,pinhel,Sep-20 to Jan-21,25-34,35
+1033,pombal,Sep-20 to Jan-21,25-34,210
+1034,ponte da barca,Sep-20 to Jan-21,25-34,52
+1035,ponte de lima,Sep-20 to Jan-21,25-34,167
+1036,ponte de sôr,Sep-20 to Jan-21,25-34,70
+1037,portalegre,Sep-20 to Jan-21,25-34,125
+1038,portel,Sep-20 to Jan-21,25-34,53
+1039,portimão,Sep-20 to Jan-21,25-34,965
+1040,porto,Sep-20 to Jan-21,25-34,2651
+1041,porto de mós,Sep-20 to Jan-21,25-34,103
+1042,proença-a-nova,Sep-20 to Jan-21,25-34,29
+1043,póvoa de lanhoso,Sep-20 to Jan-21,25-34,161
+1044,póvoa de varzim,Sep-20 to Jan-21,25-34,446
+1045,redondo,Sep-20 to Jan-21,25-34,52
+1046,reguengos de monsaraz,Sep-20 to Jan-21,25-34,110
+1047,resende,Sep-20 to Jan-21,25-34,100
+1048,ribeira de pena,Sep-20 to Jan-21,25-34,50
+1049,rio maior,Sep-20 to Jan-21,25-34,83
+1050,sabrosa,Sep-20 to Jan-21,25-34,38
+1051,sabugal,Sep-20 to Jan-21,25-34,55
+1052,salvaterra de magos,Sep-20 to Jan-21,25-34,129
+1053,santa comba dão,Sep-20 to Jan-21,25-34,59
+1054,santa maria da feira,Sep-20 to Jan-21,25-34,946
+1055,santa marta de penaguião,Sep-20 to Jan-21,25-34,66
+1056,santarém,Sep-20 to Jan-21,25-34,284
+1057,santiago do cacém,Sep-20 to Jan-21,25-34,140
+1058,santo tirso,Sep-20 to Jan-21,25-34,412
+1059,sardoal,Sep-20 to Jan-21,25-34,24
+1060,seia,Sep-20 to Jan-21,25-34,116
+1061,seixal,Sep-20 to Jan-21,25-34,1467
+1062,sernancelhe,Sep-20 to Jan-21,25-34,34
+1063,serpa,Sep-20 to Jan-21,25-34,134
+1064,sertã,Sep-20 to Jan-21,25-34,82
+1065,sesimbra,Sep-20 to Jan-21,25-34,292
+1066,setúbal,Sep-20 to Jan-21,25-34,1055
+1067,sever do vouga,Sep-20 to Jan-21,25-34,43
+1068,silves,Sep-20 to Jan-21,25-34,505
+1069,sines,Sep-20 to Jan-21,25-34,140
+1070,sintra,Sep-20 to Jan-21,25-34,3475
+1071,sobral monte agraço,Sep-20 to Jan-21,25-34,54
+1072,soure,Sep-20 to Jan-21,25-34,84
+1073,sousel,Sep-20 to Jan-21,25-34,36
+1074,sátão,Sep-20 to Jan-21,25-34,74
+1075,são brás de alportel,Sep-20 to Jan-21,25-34,71
+1076,são joão da madeira,Sep-20 to Jan-21,25-34,186
+1077,são joão da pesqueira,Sep-20 to Jan-21,25-34,39
+1078,são pedro do sul,Sep-20 to Jan-21,25-34,113
+1079,tabuaço,Sep-20 to Jan-21,25-34,58
+1080,tarouca,Sep-20 to Jan-21,25-34,71
+1081,tavira,Sep-20 to Jan-21,25-34,218
+1082,terras de bouro,Sep-20 to Jan-21,25-34,48
+1083,tomar,Sep-20 to Jan-21,25-34,187
+1084,tondela,Sep-20 to Jan-21,25-34,121
+1085,torre de moncorvo,Sep-20 to Jan-21,25-34,68
+1086,torres novas,Sep-20 to Jan-21,25-34,141
+1087,torres vedras,Sep-20 to Jan-21,25-34,508
+1088,trancoso,Sep-20 to Jan-21,25-34,27
+1089,trofa,Sep-20 to Jan-21,25-34,235
+1090,tábua,Sep-20 to Jan-21,25-34,63
+1091,vagos,Sep-20 to Jan-21,25-34,140
+1092,vale de cambra,Sep-20 to Jan-21,25-34,81
+1093,valença,Sep-20 to Jan-21,25-34,106
+1094,valongo,Sep-20 to Jan-21,25-34,817
+1095,valpaços,Sep-20 to Jan-21,25-34,77
+1096,vendas novas,Sep-20 to Jan-21,25-34,60
+1097,viana do alentejo,Sep-20 to Jan-21,25-34,43
+1098,viana do castelo,Sep-20 to Jan-21,25-34,487
+1099,vidigueira,Sep-20 to Jan-21,25-34,62
+1100,vieira do minho,Sep-20 to Jan-21,25-34,82
+1101,vila de rei,Sep-20 to Jan-21,25-34,15
+1102,vila do bispo,Sep-20 to Jan-21,25-34,74
+1103,vila do conde,Sep-20 to Jan-21,25-34,531
+1104,vila flor,Sep-20 to Jan-21,25-34,47
+1105,vila franca de xira,Sep-20 to Jan-21,25-34,1161
+1106,vila nova da barquinha,Sep-20 to Jan-21,25-34,43
+1107,vila nova de cerveira,Sep-20 to Jan-21,25-34,53
+1108,vila nova de famalicão,Sep-20 to Jan-21,25-34,831
+1109,vila nova de foz côa,Sep-20 to Jan-21,25-34,43
+1110,vila nova de gaia,Sep-20 to Jan-21,25-34,3174
+1111,vila nova de paiva,Sep-20 to Jan-21,25-34,40
+1112,vila nova de poiares,Sep-20 to Jan-21,25-34,45
+1113,vila pouca de aguiar,Sep-20 to Jan-21,25-34,70
+1114,vila real,Sep-20 to Jan-21,25-34,470
+1115,vila real de santo antónio,Sep-20 to Jan-21,25-34,238
+1116,vila velha de rodão,Sep-20 to Jan-21,25-34,9
+1117,vila verde,Sep-20 to Jan-21,25-34,280
+1118,vila viçosa,Sep-20 to Jan-21,25-34,40
+1119,vimioso,Sep-20 to Jan-21,25-34,20
+1120,vinhais,Sep-20 to Jan-21,25-34,40
+1121,viseu,Sep-20 to Jan-21,25-34,716
+1122,vizela,Sep-20 to Jan-21,25-34,167
+1123,vouzela,Sep-20 to Jan-21,25-34,67
+1124,águeda,Sep-20 to Jan-21,25-34,257
+1125,évora,Sep-20 to Jan-21,25-34,492
+1126,ílhavo,Sep-20 to Jan-21,25-34,309
+1127,óbidos,Sep-20 to Jan-21,25-34,54
+1128,abrantes,Sep-19 to Feb-20,35-44,582
+1129,aguiar da beira,Sep-19 to Feb-20,35-44,43
+1130,alandroal,Sep-19 to Feb-20,35-44,72
+1131,albergaria-a-velha,Sep-19 to Feb-20,35-44,204
+1132,albufeira,Sep-19 to Feb-20,35-44,1278
+1133,alcanena,Sep-19 to Feb-20,35-44,84
+1134,alcobaça,Sep-19 to Feb-20,35-44,348
+1135,alcochete,Sep-19 to Feb-20,35-44,187
+1136,alcoutim,Sep-19 to Feb-20,35-44,11
+1137,alcácer do sal,Sep-19 to Feb-20,35-44,89
+1138,alenquer,Sep-19 to Feb-20,35-44,476
+1139,alentejo,Sep-19 to Feb-20,35-44,6180
+1140,alfândega da fé,Sep-19 to Feb-20,35-44,75
+1141,alijó,Sep-19 to Feb-20,35-44,211
+1142,aljezur,Sep-19 to Feb-20,35-44,71
+1143,aljustrel,Sep-19 to Feb-20,35-44,96
+1144,almada,Sep-19 to Feb-20,35-44,2220
+1145,almeida,Sep-19 to Feb-20,35-44,36
+1146,almeirim,Sep-19 to Feb-20,35-44,222
+1147,almodôvar,Sep-19 to Feb-20,35-44,71
+1148,alpiarça,Sep-19 to Feb-20,35-44,53
+1149,alter do chão,Sep-19 to Feb-20,35-44,50
+1150,alvaiázere,Sep-19 to Feb-20,35-44,41
+1151,alvito,Sep-19 to Feb-20,35-44,24
+1152,amadora,Sep-19 to Feb-20,35-44,1686
+1153,amarante,Sep-19 to Feb-20,35-44,782
+1154,amares,Sep-19 to Feb-20,35-44,196
+1155,anadia,Sep-19 to Feb-20,35-44,175
+1156,ansião,Sep-19 to Feb-20,35-44,82
+1157,arcos de valdevez,Sep-19 to Feb-20,35-44,161
+1158,arganil,Sep-19 to Feb-20,35-44,121
+1159,armamar,Sep-19 to Feb-20,35-44,89
+1160,arouca,Sep-19 to Feb-20,35-44,167
+1161,arraiolos,Sep-19 to Feb-20,35-44,49
+1162,arronches,Sep-19 to Feb-20,35-44,28
+1163,arruda dos vinhos,Sep-19 to Feb-20,35-44,118
+1164,aveiro,Sep-19 to Feb-20,35-44,994
+1165,avis,Sep-19 to Feb-20,35-44,47
+1166,azambuja,Sep-19 to Feb-20,35-44,190
+1167,baião,Sep-19 to Feb-20,35-44,412
+1168,barcelos,Sep-19 to Feb-20,35-44,790
+1169,barrancos,Sep-19 to Feb-20,35-44,44
+1170,barreiro,Sep-19 to Feb-20,35-44,1225
+1171,batalha,Sep-19 to Feb-20,35-44,97
+1172,beja,Sep-19 to Feb-20,35-44,455
+1173,belmonte,Sep-19 to Feb-20,35-44,80
+1174,benavente,Sep-19 to Feb-20,35-44,376
+1175,bombarral,Sep-19 to Feb-20,35-44,87
+1176,borba,Sep-19 to Feb-20,35-44,87
+1177,boticas,Sep-19 to Feb-20,35-44,48
+1178,braga,Sep-19 to Feb-20,35-44,2721
+1179,bragança,Sep-19 to Feb-20,35-44,364
+1180,cabeceiras de basto,Sep-19 to Feb-20,35-44,291
+1181,cadaval,Sep-19 to Feb-20,35-44,92
+1182,caldas da rainha,Sep-19 to Feb-20,35-44,451
+1183,caminha,Sep-19 to Feb-20,35-44,124
+1184,campo maior,Sep-19 to Feb-20,35-44,160
+1185,cantanhede,Sep-19 to Feb-20,35-44,270
+1186,carrazeda de ansiães,Sep-19 to Feb-20,35-44,84
+1187,carregal do sal,Sep-19 to Feb-20,35-44,80
+1188,cartaxo,Sep-19 to Feb-20,35-44,209
+1189,cascais,Sep-19 to Feb-20,35-44,2479
+1190,castanheira de pera,Sep-19 to Feb-20,35-44,24
+1191,castelo branco,Sep-19 to Feb-20,35-44,548
+1192,castelo de paiva,Sep-19 to Feb-20,35-44,228
+1193,castelo de vide,Sep-19 to Feb-20,35-44,21
+1194,castro daire,Sep-19 to Feb-20,35-44,204
+1195,castro marim,Sep-19 to Feb-20,35-44,63
+1196,castro verde,Sep-19 to Feb-20,35-44,69
+1197,celorico da beira,Sep-19 to Feb-20,35-44,75
+1198,celorico de basto,Sep-19 to Feb-20,35-44,265
+1199,centro,Sep-19 to Feb-20,35-44,16687
+1200,chamusca,Sep-19 to Feb-20,35-44,73
+1201,chaves,Sep-19 to Feb-20,35-44,527
+1202,cinfães,Sep-19 to Feb-20,35-44,332
+1203,coimbra,Sep-19 to Feb-20,35-44,1579
+1204,condeixa-a-nova,Sep-19 to Feb-20,35-44,145
+1205,constância,Sep-19 to Feb-20,35-44,51
+1206,coruche,Sep-19 to Feb-20,35-44,216
+1207,covilhã,Sep-19 to Feb-20,35-44,467
+1208,crato,Sep-19 to Feb-20,35-44,40
+1209,cuba,Sep-19 to Feb-20,35-44,71
+1210,elvas,Sep-19 to Feb-20,35-44,419
+1211,entroncamento,Sep-19 to Feb-20,35-44,192
+1212,espinho,Sep-19 to Feb-20,35-44,569
+1213,esposende,Sep-19 to Feb-20,35-44,244
+1214,estarreja,Sep-19 to Feb-20,35-44,275
+1215,estremoz,Sep-19 to Feb-20,35-44,121
+1216,fafe,Sep-19 to Feb-20,35-44,645
+1217,faro,Sep-19 to Feb-20,35-44,578
+1218,felgueiras,Sep-19 to Feb-20,35-44,637
+1219,ferreira do alentejo,Sep-19 to Feb-20,35-44,94
+1220,ferreira do zêzere,Sep-19 to Feb-20,35-44,49
+1221,figueira da foz,Sep-19 to Feb-20,35-44,869
+1222,figueira de castelo rodrigo,Sep-19 to Feb-20,35-44,67
+1223,figueiró dos vinhos,Sep-19 to Feb-20,35-44,71
+1224,fornos de algodres,Sep-19 to Feb-20,35-44,50
+1225,freixo espada à cinta,Sep-19 to Feb-20,35-44,82
+1226,fronteira,Sep-19 to Feb-20,35-44,46
+1227,fundão,Sep-19 to Feb-20,35-44,260
+1228,gavião,Sep-19 to Feb-20,35-44,33
+1229,golegã,Sep-19 to Feb-20,35-44,35
+1230,gondomar,Sep-19 to Feb-20,35-44,2517
+1231,gouveia,Sep-19 to Feb-20,35-44,163
+1232,grândola,Sep-19 to Feb-20,35-44,127
+1233,guarda,Sep-19 to Feb-20,35-44,494
+1234,guimarães,Sep-19 to Feb-20,35-44,2101
+1235,góis,Sep-19 to Feb-20,35-44,46
+1236,idanha-a-nova,Sep-19 to Feb-20,35-44,124
+1237,lagoa,Sep-19 to Feb-20,35-44,425
+1238,lagos,Sep-19 to Feb-20,35-44,554
+1239,lamego,Sep-19 to Feb-20,35-44,737
+1240,leiria,Sep-19 to Feb-20,35-44,1007
+1241,lisboa,Sep-19 to Feb-20,35-44,6826
+1242,lisboa vt,Sep-19 to Feb-20,35-44,39702
+1243,loulé,Sep-19 to Feb-20,35-44,1009
+1244,loures,Sep-19 to Feb-20,35-44,2132
+1245,lourinhã,Sep-19 to Feb-20,35-44,247
+1246,lousada,Sep-19 to Feb-20,35-44,463
+1247,lousã,Sep-19 to Feb-20,35-44,200
+1248,macedo de cavaleiros,Sep-19 to Feb-20,35-44,228
+1249,mafra,Sep-19 to Feb-20,35-44,745
+1250,maia,Sep-19 to Feb-20,35-44,1640
+1251,mangualde,Sep-19 to Feb-20,35-44,216
+1252,manteigas,Sep-19 to Feb-20,35-44,25
+1253,marco de canaveses,Sep-19 to Feb-20,35-44,959
+1254,marinha grande,Sep-19 to Feb-20,35-44,504
+1255,marvão,Sep-19 to Feb-20,35-44,24
+1256,matosinhos,Sep-19 to Feb-20,35-44,2636
+1257,mação,Sep-19 to Feb-20,35-44,66
+1258,mealhada,Sep-19 to Feb-20,35-44,157
+1259,meda,Sep-19 to Feb-20,35-44,23
+1260,melgaço,Sep-19 to Feb-20,35-44,38
+1261,mesão frio,Sep-19 to Feb-20,35-44,109
+1262,mira,Sep-19 to Feb-20,35-44,143
+1263,miranda do corvo,Sep-19 to Feb-20,35-44,93
+1264,miranda do douro,Sep-19 to Feb-20,35-44,64
+1265,mirandela,Sep-19 to Feb-20,35-44,362
+1266,mogadouro,Sep-19 to Feb-20,35-44,122
+1267,moimenta da beira,Sep-19 to Feb-20,35-44,260
+1268,moita,Sep-19 to Feb-20,35-44,1024
+1269,monchique,Sep-19 to Feb-20,35-44,63
+1270,mondim de basto,Sep-19 to Feb-20,35-44,116
+1271,monforte,Sep-19 to Feb-20,35-44,68
+1272,montalegre,Sep-19 to Feb-20,35-44,106
+1273,montemor-o-novo,Sep-19 to Feb-20,35-44,119
+1274,montemor-o-velho,Sep-19 to Feb-20,35-44,239
+1275,montijo,Sep-19 to Feb-20,35-44,846
+1276,monção,Sep-19 to Feb-20,35-44,126
+1277,mora,Sep-19 to Feb-20,35-44,24
+1278,mortágua,Sep-19 to Feb-20,35-44,41
+1279,moura,Sep-19 to Feb-20,35-44,363
+1280,mourão,Sep-19 to Feb-20,35-44,74
+1281,murtosa,Sep-19 to Feb-20,35-44,87
+1282,murça,Sep-19 to Feb-20,35-44,141
+1283,mértola,Sep-19 to Feb-20,35-44,85
+1284,nazaré,Sep-19 to Feb-20,35-44,131
+1285,nelas,Sep-19 to Feb-20,35-44,149
+1286,nisa,Sep-19 to Feb-20,35-44,63
+1287,norte,Sep-19 to Feb-20,35-44,50719
+1288,odemira,Sep-19 to Feb-20,35-44,437
+1289,odivelas,Sep-19 to Feb-20,35-44,1349
+1290,oeiras,Sep-19 to Feb-20,35-44,1681
+1291,oleiros,Sep-19 to Feb-20,35-44,23
+1292,olhão,Sep-19 to Feb-20,35-44,409
+1293,oliveira de azeméis,Sep-19 to Feb-20,35-44,521
+1294,oliveira de frades,Sep-19 to Feb-20,35-44,133
+1295,oliveira do bairro,Sep-19 to Feb-20,35-44,190
+1296,oliveira do hospital,Sep-19 to Feb-20,35-44,237
+1297,ourique,Sep-19 to Feb-20,35-44,65
+1298,ourém,Sep-19 to Feb-20,35-44,219
+1299,ovar,Sep-19 to Feb-20,35-44,681
+1300,palmela,Sep-19 to Feb-20,35-44,646
+1301,pampilhosa da serra,Sep-19 to Feb-20,35-44,43
+1302,paredes,Sep-19 to Feb-20,35-44,1193
+1303,paredes de coura,Sep-19 to Feb-20,35-44,71
+1304,paços de ferreira,Sep-19 to Feb-20,35-44,602
+1305,pedrógão grande,Sep-19 to Feb-20,35-44,43
+1306,penacova,Sep-19 to Feb-20,35-44,70
+1307,penafiel,Sep-19 to Feb-20,35-44,934
+1308,penalva do castelo,Sep-19 to Feb-20,35-44,87
+1309,penamacor,Sep-19 to Feb-20,35-44,45
+1310,penedono,Sep-19 to Feb-20,35-44,35
+1311,penela,Sep-19 to Feb-20,35-44,26
+1312,peniche,Sep-19 to Feb-20,35-44,332
+1313,peso da régua,Sep-19 to Feb-20,35-44,422
+1314,pinhel,Sep-19 to Feb-20,35-44,53
+1315,pombal,Sep-19 to Feb-20,35-44,370
+1316,ponte da barca,Sep-19 to Feb-20,35-44,98
+1317,ponte de lima,Sep-19 to Feb-20,35-44,206
+1318,ponte de sôr,Sep-19 to Feb-20,35-44,173
+1319,portalegre,Sep-19 to Feb-20,35-44,234
+1320,portel,Sep-19 to Feb-20,35-44,68
+1321,portimão,Sep-19 to Feb-20,35-44,1252
+1322,porto,Sep-19 to Feb-20,35-44,4247
+1323,porto de mós,Sep-19 to Feb-20,35-44,140
+1324,proença-a-nova,Sep-19 to Feb-20,35-44,56
+1325,póvoa de lanhoso,Sep-19 to Feb-20,35-44,285
+1326,póvoa de varzim,Sep-19 to Feb-20,35-44,868
+1327,redondo,Sep-19 to Feb-20,35-44,73
+1328,reguengos de monsaraz,Sep-19 to Feb-20,35-44,147
+1329,resende,Sep-19 to Feb-20,35-44,216
+1330,ribeira de pena,Sep-19 to Feb-20,35-44,108
+1331,rio maior,Sep-19 to Feb-20,35-44,153
+1332,sabrosa,Sep-19 to Feb-20,35-44,98
+1333,sabugal,Sep-19 to Feb-20,35-44,97
+1334,salvaterra de magos,Sep-19 to Feb-20,35-44,323
+1335,santa comba dão,Sep-19 to Feb-20,35-44,105
+1336,santa maria da feira,Sep-19 to Feb-20,35-44,1758
+1337,santa marta de penaguião,Sep-19 to Feb-20,35-44,181
+1338,santarém,Sep-19 to Feb-20,35-44,538
+1339,santiago do cacém,Sep-19 to Feb-20,35-44,312
+1340,santo tirso,Sep-19 to Feb-20,35-44,936
+1341,sardoal,Sep-19 to Feb-20,35-44,56
+1342,seia,Sep-19 to Feb-20,35-44,216
+1343,seixal,Sep-19 to Feb-20,35-44,1789
+1344,sernancelhe,Sep-19 to Feb-20,35-44,61
+1345,serpa,Sep-19 to Feb-20,35-44,247
+1346,sertã,Sep-19 to Feb-20,35-44,170
+1347,sesimbra,Sep-19 to Feb-20,35-44,492
+1348,setúbal,Sep-19 to Feb-20,35-44,1568
+1349,sever do vouga,Sep-19 to Feb-20,35-44,77
+1350,silves,Sep-19 to Feb-20,35-44,560
+1351,sines,Sep-19 to Feb-20,35-44,241
+1352,sintra,Sep-19 to Feb-20,35-44,3666
+1353,sobral monte agraço,Sep-19 to Feb-20,35-44,85
+1354,soure,Sep-19 to Feb-20,35-44,144
+1355,sousel,Sep-19 to Feb-20,35-44,64
+1356,sátão,Sep-19 to Feb-20,35-44,151
+1357,são brás de alportel,Sep-19 to Feb-20,35-44,92
+1358,são joão da madeira,Sep-19 to Feb-20,35-44,297
+1359,são joão da pesqueira,Sep-19 to Feb-20,35-44,82
+1360,são pedro do sul,Sep-19 to Feb-20,35-44,190
+1361,tabuaço,Sep-19 to Feb-20,35-44,134
+1362,tarouca,Sep-19 to Feb-20,35-44,173
+1363,tavira,Sep-19 to Feb-20,35-44,252
+1364,terras de bouro,Sep-19 to Feb-20,35-44,112
+1365,tomar,Sep-19 to Feb-20,35-44,326
+1366,tondela,Sep-19 to Feb-20,35-44,196
+1367,torre de moncorvo,Sep-19 to Feb-20,35-44,113
+1368,torres novas,Sep-19 to Feb-20,35-44,283
+1369,torres vedras,Sep-19 to Feb-20,35-44,801
+1370,trancoso,Sep-19 to Feb-20,35-44,70
+1371,trofa,Sep-19 to Feb-20,35-44,414
+1372,tábua,Sep-19 to Feb-20,35-44,139
+1373,vagos,Sep-19 to Feb-20,35-44,180
+1374,vale de cambra,Sep-19 to Feb-20,35-44,158
+1375,valença,Sep-19 to Feb-20,35-44,148
+1376,valongo,Sep-19 to Feb-20,35-44,1589
+1377,valpaços,Sep-19 to Feb-20,35-44,186
+1378,vendas novas,Sep-19 to Feb-20,35-44,69
+1379,viana do alentejo,Sep-19 to Feb-20,35-44,76
+1380,viana do castelo,Sep-19 to Feb-20,35-44,662
+1381,vidigueira,Sep-19 to Feb-20,35-44,90
+1382,vieira do minho,Sep-19 to Feb-20,35-44,237
+1383,vila de rei,Sep-19 to Feb-20,35-44,20
+1384,vila do bispo,Sep-19 to Feb-20,35-44,83
+1385,vila do conde,Sep-19 to Feb-20,35-44,1037
+1386,vila flor,Sep-19 to Feb-20,35-44,114
+1387,vila franca de xira,Sep-19 to Feb-20,35-44,1331
+1388,vila nova da barquinha,Sep-19 to Feb-20,35-44,53
+1389,vila nova de cerveira,Sep-19 to Feb-20,35-44,81
+1390,vila nova de famalicão,Sep-19 to Feb-20,35-44,1359
+1391,vila nova de foz côa,Sep-19 to Feb-20,35-44,76
+1392,vila nova de gaia,Sep-19 to Feb-20,35-44,6083
+1393,vila nova de paiva,Sep-19 to Feb-20,35-44,80
+1394,vila nova de poiares,Sep-19 to Feb-20,35-44,63
+1395,vila pouca de aguiar,Sep-19 to Feb-20,35-44,170
+1396,vila real,Sep-19 to Feb-20,35-44,993
+1397,vila real de santo antónio,Sep-19 to Feb-20,35-44,281
+1398,vila velha de rodão,Sep-19 to Feb-20,35-44,21
+1399,vila verde,Sep-19 to Feb-20,35-44,457
+1400,vila viçosa,Sep-19 to Feb-20,35-44,99
+1401,vimioso,Sep-19 to Feb-20,35-44,43
+1402,vinhais,Sep-19 to Feb-20,35-44,103
+1403,viseu,Sep-19 to Feb-20,35-44,1208
+1404,vizela,Sep-19 to Feb-20,35-44,257
+1405,vouzela,Sep-19 to Feb-20,35-44,113
+1406,águeda,Sep-19 to Feb-20,35-44,350
+1407,évora,Sep-19 to Feb-20,35-44,636
+1408,ílhavo,Sep-19 to Feb-20,35-44,490
+1409,óbidos,Sep-19 to Feb-20,35-44,78
+1410,abrantes,Sep-20 to Jan-21,35-44,598
+1411,aguiar da beira,Sep-20 to Jan-21,35-44,50
+1412,alandroal,Sep-20 to Jan-21,35-44,70
+1413,albergaria-a-velha,Sep-20 to Jan-21,35-44,289
+1414,albufeira,Sep-20 to Jan-21,35-44,2285
+1415,alcanena,Sep-20 to Jan-21,35-44,113
+1416,alcobaça,Sep-20 to Jan-21,35-44,521
+1417,alcochete,Sep-20 to Jan-21,35-44,247
+1418,alcoutim,Sep-20 to Jan-21,35-44,16
+1419,alcácer do sal,Sep-20 to Jan-21,35-44,134
+1420,alenquer,Sep-20 to Jan-21,35-44,755
+1421,alentejo,Sep-20 to Jan-21,35-44,7498
+1422,alfândega da fé,Sep-20 to Jan-21,35-44,71
+1423,alijó,Sep-20 to Jan-21,35-44,228
+1424,aljezur,Sep-20 to Jan-21,35-44,85
+1425,aljustrel,Sep-20 to Jan-21,35-44,108
+1426,almada,Sep-20 to Jan-21,35-44,3017
+1427,almeida,Sep-20 to Jan-21,35-44,37
+1428,almeirim,Sep-20 to Jan-21,35-44,247
+1429,almodôvar,Sep-20 to Jan-21,35-44,96
+1430,alpiarça,Sep-20 to Jan-21,35-44,57
+1431,alter do chão,Sep-20 to Jan-21,35-44,52
+1432,alvaiázere,Sep-20 to Jan-21,35-44,38
+1433,alvito,Sep-20 to Jan-21,35-44,32
+1434,amadora,Sep-20 to Jan-21,35-44,2678
+1435,amarante,Sep-20 to Jan-21,35-44,946
+1436,amares,Sep-20 to Jan-21,35-44,257
+1437,anadia,Sep-20 to Jan-21,35-44,220
+1438,ansião,Sep-20 to Jan-21,35-44,84
+1439,arcos de valdevez,Sep-20 to Jan-21,35-44,216
+1440,arganil,Sep-20 to Jan-21,35-44,133
+1441,armamar,Sep-20 to Jan-21,35-44,92
+1442,arouca,Sep-20 to Jan-21,35-44,204
+1443,arraiolos,Sep-20 to Jan-21,35-44,70
+1444,arronches,Sep-20 to Jan-21,35-44,30
+1445,arruda dos vinhos,Sep-20 to Jan-21,35-44,175
+1446,aveiro,Sep-20 to Jan-21,35-44,1147
+1447,avis,Sep-20 to Jan-21,35-44,55
+1448,azambuja,Sep-20 to Jan-21,35-44,259
+1449,baião,Sep-20 to Jan-21,35-44,473
+1450,barcelos,Sep-20 to Jan-21,35-44,1021
+1451,barrancos,Sep-20 to Jan-21,35-44,40
+1452,barreiro,Sep-20 to Jan-21,35-44,1488
+1453,batalha,Sep-20 to Jan-21,35-44,149
+1454,beja,Sep-20 to Jan-21,35-44,551
+1455,belmonte,Sep-20 to Jan-21,35-44,101
+1456,benavente,Sep-20 to Jan-21,35-44,442
+1457,bombarral,Sep-20 to Jan-21,35-44,157
+1458,borba,Sep-20 to Jan-21,35-44,101
+1459,boticas,Sep-20 to Jan-21,35-44,55
+1460,braga,Sep-20 to Jan-21,35-44,3098
+1461,bragança,Sep-20 to Jan-21,35-44,368
+1462,cabeceiras de basto,Sep-20 to Jan-21,35-44,274
+1463,cadaval,Sep-20 to Jan-21,35-44,163
+1464,caldas da rainha,Sep-20 to Jan-21,35-44,734
+1465,caminha,Sep-20 to Jan-21,35-44,162
+1466,campo maior,Sep-20 to Jan-21,35-44,172
+1467,cantanhede,Sep-20 to Jan-21,35-44,349
+1468,carrazeda de ansiães,Sep-20 to Jan-21,35-44,100
+1469,carregal do sal,Sep-20 to Jan-21,35-44,111
+1470,cartaxo,Sep-20 to Jan-21,35-44,254
+1471,cascais,Sep-20 to Jan-21,35-44,3511
+1472,castanheira de pera,Sep-20 to Jan-21,35-44,25
+1473,castelo branco,Sep-20 to Jan-21,35-44,627
+1474,castelo de paiva,Sep-20 to Jan-21,35-44,296
+1475,castelo de vide,Sep-20 to Jan-21,35-44,20
+1476,castro daire,Sep-20 to Jan-21,35-44,212
+1477,castro marim,Sep-20 to Jan-21,35-44,107
+1478,castro verde,Sep-20 to Jan-21,35-44,103
+1479,celorico da beira,Sep-20 to Jan-21,35-44,90
+1480,celorico de basto,Sep-20 to Jan-21,35-44,306
+1481,centro,Sep-20 to Jan-21,35-44,19791
+1482,chamusca,Sep-20 to Jan-21,35-44,68
+1483,chaves,Sep-20 to Jan-21,35-44,503
+1484,cinfães,Sep-20 to Jan-21,35-44,433
+1485,coimbra,Sep-20 to Jan-21,35-44,1840
+1486,condeixa-a-nova,Sep-20 to Jan-21,35-44,160
+1487,constância,Sep-20 to Jan-21,35-44,59
+1488,coruche,Sep-20 to Jan-21,35-44,247
+1489,covilhã,Sep-20 to Jan-21,35-44,671
+1490,crato,Sep-20 to Jan-21,35-44,48
+1491,cuba,Sep-20 to Jan-21,35-44,79
+1492,elvas,Sep-20 to Jan-21,35-44,467
+1493,entroncamento,Sep-20 to Jan-21,35-44,246
+1494,espinho,Sep-20 to Jan-21,35-44,645
+1495,esposende,Sep-20 to Jan-21,35-44,293
+1496,estarreja,Sep-20 to Jan-21,35-44,327
+1497,estremoz,Sep-20 to Jan-21,35-44,154
+1498,fafe,Sep-20 to Jan-21,35-44,836
+1499,faro,Sep-20 to Jan-21,35-44,1094
+1500,felgueiras,Sep-20 to Jan-21,35-44,998
+1501,ferreira do alentejo,Sep-20 to Jan-21,35-44,93
+1502,ferreira do zêzere,Sep-20 to Jan-21,35-44,44
+1503,figueira da foz,Sep-20 to Jan-21,35-44,989
+1504,figueira de castelo rodrigo,Sep-20 to Jan-21,35-44,74
+1505,figueiró dos vinhos,Sep-20 to Jan-21,35-44,50
+1506,fornos de algodres,Sep-20 to Jan-21,35-44,51
+1507,freixo espada à cinta,Sep-20 to Jan-21,35-44,81
+1508,fronteira,Sep-20 to Jan-21,35-44,48
+1509,fundão,Sep-20 to Jan-21,35-44,314
+1510,gavião,Sep-20 to Jan-21,35-44,38
+1511,golegã,Sep-20 to Jan-21,35-44,45
+1512,gondomar,Sep-20 to Jan-21,35-44,3319
+1513,gouveia,Sep-20 to Jan-21,35-44,164
+1514,grândola,Sep-20 to Jan-21,35-44,142
+1515,guarda,Sep-20 to Jan-21,35-44,477
+1516,guimarães,Sep-20 to Jan-21,35-44,2746
+1517,góis,Sep-20 to Jan-21,35-44,43
+1518,idanha-a-nova,Sep-20 to Jan-21,35-44,143
+1519,lagoa,Sep-20 to Jan-21,35-44,626
+1520,lagos,Sep-20 to Jan-21,35-44,780
+1521,lamego,Sep-20 to Jan-21,35-44,717
+1522,leiria,Sep-20 to Jan-21,35-44,1490
+1523,lisboa,Sep-20 to Jan-21,35-44,9202
+1524,lisboa vt,Sep-20 to Jan-21,35-44,56641
+1525,loulé,Sep-20 to Jan-21,35-44,1931
+1526,loures,Sep-20 to Jan-21,35-44,3486
+1527,lourinhã,Sep-20 to Jan-21,35-44,346
+1528,lousada,Sep-20 to Jan-21,35-44,612
+1529,lousã,Sep-20 to Jan-21,35-44,237
+1530,macedo de cavaleiros,Sep-20 to Jan-21,35-44,195
+1531,mafra,Sep-20 to Jan-21,35-44,1055
+1532,maia,Sep-20 to Jan-21,35-44,2191
+1533,mangualde,Sep-20 to Jan-21,35-44,276
+1534,manteigas,Sep-20 to Jan-21,35-44,45
+1535,marco de canaveses,Sep-20 to Jan-21,35-44,1149
+1536,marinha grande,Sep-20 to Jan-21,35-44,728
+1537,marvão,Sep-20 to Jan-21,35-44,33
+1538,matosinhos,Sep-20 to Jan-21,35-44,3126
+1539,mação,Sep-20 to Jan-21,35-44,68
+1540,mealhada,Sep-20 to Jan-21,35-44,184
+1541,meda,Sep-20 to Jan-21,35-44,38
+1542,melgaço,Sep-20 to Jan-21,35-44,44
+1543,mesão frio,Sep-20 to Jan-21,35-44,106
+1544,mira,Sep-20 to Jan-21,35-44,145
+1545,miranda do corvo,Sep-20 to Jan-21,35-44,96
+1546,miranda do douro,Sep-20 to Jan-21,35-44,69
+1547,mirandela,Sep-20 to Jan-21,35-44,331
+1548,mogadouro,Sep-20 to Jan-21,35-44,111
+1549,moimenta da beira,Sep-20 to Jan-21,35-44,261
+1550,moita,Sep-20 to Jan-21,35-44,1316
+1551,monchique,Sep-20 to Jan-21,35-44,60
+1552,mondim de basto,Sep-20 to Jan-21,35-44,122
+1553,monforte,Sep-20 to Jan-21,35-44,74
+1554,montalegre,Sep-20 to Jan-21,35-44,92
+1555,montemor-o-novo,Sep-20 to Jan-21,35-44,138
+1556,montemor-o-velho,Sep-20 to Jan-21,35-44,272
+1557,montijo,Sep-20 to Jan-21,35-44,1083
+1558,monção,Sep-20 to Jan-21,35-44,182
+1559,mora,Sep-20 to Jan-21,35-44,31
+1560,mortágua,Sep-20 to Jan-21,35-44,53
+1561,moura,Sep-20 to Jan-21,35-44,370
+1562,mourão,Sep-20 to Jan-21,35-44,73
+1563,murtosa,Sep-20 to Jan-21,35-44,94
+1564,murça,Sep-20 to Jan-21,35-44,140
+1565,mértola,Sep-20 to Jan-21,35-44,94
+1566,nazaré,Sep-20 to Jan-21,35-44,210
+1567,nelas,Sep-20 to Jan-21,35-44,185
+1568,nisa,Sep-20 to Jan-21,35-44,72
+1569,norte,Sep-20 to Jan-21,35-44,61538
+1570,odemira,Sep-20 to Jan-21,35-44,654
+1571,odivelas,Sep-20 to Jan-21,35-44,2453
+1572,oeiras,Sep-20 to Jan-21,35-44,2505
+1573,oleiros,Sep-20 to Jan-21,35-44,22
+1574,olhão,Sep-20 to Jan-21,35-44,709
+1575,oliveira de azeméis,Sep-20 to Jan-21,35-44,714
+1576,oliveira de frades,Sep-20 to Jan-21,35-44,137
+1577,oliveira do bairro,Sep-20 to Jan-21,35-44,248
+1578,oliveira do hospital,Sep-20 to Jan-21,35-44,256
+1579,ourique,Sep-20 to Jan-21,35-44,71
+1580,ourém,Sep-20 to Jan-21,35-44,356
+1581,ovar,Sep-20 to Jan-21,35-44,815
+1582,palmela,Sep-20 to Jan-21,35-44,913
+1583,pampilhosa da serra,Sep-20 to Jan-21,35-44,32
+1584,paredes,Sep-20 to Jan-21,35-44,1495
+1585,paredes de coura,Sep-20 to Jan-21,35-44,107
+1586,paços de ferreira,Sep-20 to Jan-21,35-44,769
+1587,pedrógão grande,Sep-20 to Jan-21,35-44,40
+1588,penacova,Sep-20 to Jan-21,35-44,76
+1589,penafiel,Sep-20 to Jan-21,35-44,1187
+1590,penalva do castelo,Sep-20 to Jan-21,35-44,105
+1591,penamacor,Sep-20 to Jan-21,35-44,61
+1592,penedono,Sep-20 to Jan-21,35-44,36
+1593,penela,Sep-20 to Jan-21,35-44,29
+1594,peniche,Sep-20 to Jan-21,35-44,432
+1595,peso da régua,Sep-20 to Jan-21,35-44,429
+1596,pinhel,Sep-20 to Jan-21,35-44,60
+1597,pombal,Sep-20 to Jan-21,35-44,449
+1598,ponte da barca,Sep-20 to Jan-21,35-44,114
+1599,ponte de lima,Sep-20 to Jan-21,35-44,348
+1600,ponte de sôr,Sep-20 to Jan-21,35-44,173
+1601,portalegre,Sep-20 to Jan-21,35-44,268
+1602,portel,Sep-20 to Jan-21,35-44,90
+1603,portimão,Sep-20 to Jan-21,35-44,1810
+1604,porto,Sep-20 to Jan-21,35-44,5202
+1605,porto de mós,Sep-20 to Jan-21,35-44,216
+1606,proença-a-nova,Sep-20 to Jan-21,35-44,47
+1607,póvoa de lanhoso,Sep-20 to Jan-21,35-44,323
+1608,póvoa de varzim,Sep-20 to Jan-21,35-44,995
+1609,redondo,Sep-20 to Jan-21,35-44,106
+1610,reguengos de monsaraz,Sep-20 to Jan-21,35-44,189
+1611,resende,Sep-20 to Jan-21,35-44,244
+1612,ribeira de pena,Sep-20 to Jan-21,35-44,100
+1613,rio maior,Sep-20 to Jan-21,35-44,166
+1614,sabrosa,Sep-20 to Jan-21,35-44,113
+1615,sabugal,Sep-20 to Jan-21,35-44,82
+1616,salvaterra de magos,Sep-20 to Jan-21,35-44,324
+1617,santa comba dão,Sep-20 to Jan-21,35-44,120
+1618,santa maria da feira,Sep-20 to Jan-21,35-44,2184
+1619,santa marta de penaguião,Sep-20 to Jan-21,35-44,170
+1620,santarém,Sep-20 to Jan-21,35-44,610
+1621,santiago do cacém,Sep-20 to Jan-21,35-44,380
+1622,santo tirso,Sep-20 to Jan-21,35-44,997
+1623,sardoal,Sep-20 to Jan-21,35-44,54
+1624,seia,Sep-20 to Jan-21,35-44,241
+1625,seixal,Sep-20 to Jan-21,35-44,2576
+1626,sernancelhe,Sep-20 to Jan-21,35-44,69
+1627,serpa,Sep-20 to Jan-21,35-44,277
+1628,sertã,Sep-20 to Jan-21,35-44,206
+1629,sesimbra,Sep-20 to Jan-21,35-44,662
+1630,setúbal,Sep-20 to Jan-21,35-44,2144
+1631,sever do vouga,Sep-20 to Jan-21,35-44,68
+1632,silves,Sep-20 to Jan-21,35-44,898
+1633,sines,Sep-20 to Jan-21,35-44,375
+1634,sintra,Sep-20 to Jan-21,35-44,6154
+1635,sobral monte agraço,Sep-20 to Jan-21,35-44,103
+1636,soure,Sep-20 to Jan-21,35-44,171
+1637,sousel,Sep-20 to Jan-21,35-44,68
+1638,sátão,Sep-20 to Jan-21,35-44,151
+1639,são brás de alportel,Sep-20 to Jan-21,35-44,134
+1640,são joão da madeira,Sep-20 to Jan-21,35-44,389
+1641,são joão da pesqueira,Sep-20 to Jan-21,35-44,83
+1642,são pedro do sul,Sep-20 to Jan-21,35-44,220
+1643,tabuaço,Sep-20 to Jan-21,35-44,127
+1644,tarouca,Sep-20 to Jan-21,35-44,172
+1645,tavira,Sep-20 to Jan-21,35-44,412
+1646,terras de bouro,Sep-20 to Jan-21,35-44,118
+1647,tomar,Sep-20 to Jan-21,35-44,359
+1648,tondela,Sep-20 to Jan-21,35-44,250
+1649,torre de moncorvo,Sep-20 to Jan-21,35-44,124
+1650,torres novas,Sep-20 to Jan-21,35-44,320
+1651,torres vedras,Sep-20 to Jan-21,35-44,1133
+1652,trancoso,Sep-20 to Jan-21,35-44,62
+1653,trofa,Sep-20 to Jan-21,35-44,519
+1654,tábua,Sep-20 to Jan-21,35-44,143
+1655,vagos,Sep-20 to Jan-21,35-44,207
+1656,vale de cambra,Sep-20 to Jan-21,35-44,179
+1657,valença,Sep-20 to Jan-21,35-44,242
+1658,valongo,Sep-20 to Jan-21,35-44,1982
+1659,valpaços,Sep-20 to Jan-21,35-44,163
+1660,vendas novas,Sep-20 to Jan-21,35-44,122
+1661,viana do alentejo,Sep-20 to Jan-21,35-44,86
+1662,viana do castelo,Sep-20 to Jan-21,35-44,966
+1663,vidigueira,Sep-20 to Jan-21,35-44,100
+1664,vieira do minho,Sep-20 to Jan-21,35-44,249
+1665,vila de rei,Sep-20 to Jan-21,35-44,30
+1666,vila do bispo,Sep-20 to Jan-21,35-44,120
+1667,vila do conde,Sep-20 to Jan-21,35-44,1283
+1668,vila flor,Sep-20 to Jan-21,35-44,139
+1669,vila franca de xira,Sep-20 to Jan-21,35-44,2030
+1670,vila nova da barquinha,Sep-20 to Jan-21,35-44,68
+1671,vila nova de cerveira,Sep-20 to Jan-21,35-44,108
+1672,vila nova de famalicão,Sep-20 to Jan-21,35-44,1880
+1673,vila nova de foz côa,Sep-20 to Jan-21,35-44,96
+1674,vila nova de gaia,Sep-20 to Jan-21,35-44,7401
+1675,vila nova de paiva,Sep-20 to Jan-21,35-44,58
+1676,vila nova de poiares,Sep-20 to Jan-21,35-44,89
+1677,vila pouca de aguiar,Sep-20 to Jan-21,35-44,165
+1678,vila real,Sep-20 to Jan-21,35-44,1010
+1679,vila real de santo antónio,Sep-20 to Jan-21,35-44,453
+1680,vila velha de rodão,Sep-20 to Jan-21,35-44,25
+1681,vila verde,Sep-20 to Jan-21,35-44,525
+1682,vila viçosa,Sep-20 to Jan-21,35-44,88
+1683,vimioso,Sep-20 to Jan-21,35-44,44
+1684,vinhais,Sep-20 to Jan-21,35-44,93
+1685,viseu,Sep-20 to Jan-21,35-44,1369
+1686,vizela,Sep-20 to Jan-21,35-44,382
+1687,vouzela,Sep-20 to Jan-21,35-44,132
+1688,águeda,Sep-20 to Jan-21,35-44,443
+1689,évora,Sep-20 to Jan-21,35-44,844
+1690,ílhavo,Sep-20 to Jan-21,35-44,534
+1691,óbidos,Sep-20 to Jan-21,35-44,133
+1692,abrantes,Sep-19 to Feb-20,55-64,355
+1693,aguiar da beira,Sep-19 to Feb-20,55-64,51
+1694,alandroal,Sep-19 to Feb-20,55-64,39
+1695,albergaria-a-velha,Sep-19 to Feb-20,55-64,113
+1696,albufeira,Sep-19 to Feb-20,55-64,485
+1697,alcanena,Sep-19 to Feb-20,55-64,41
+1698,alcobaça,Sep-19 to Feb-20,55-64,282
+1699,alcochete,Sep-19 to Feb-20,55-64,104
+1700,alcoutim,Sep-19 to Feb-20,55-64,8
+1701,alcácer do sal,Sep-19 to Feb-20,55-64,59
+1702,alenquer,Sep-19 to Feb-20,55-64,206
+1703,alentejo,Sep-19 to Feb-20,55-64,3396
+1704,alfândega da fé,Sep-19 to Feb-20,55-64,58
+1705,alijó,Sep-19 to Feb-20,55-64,190
+1706,aljezur,Sep-19 to Feb-20,55-64,41
+1707,aljustrel,Sep-19 to Feb-20,55-64,50
+1708,almada,Sep-19 to Feb-20,55-64,1416
+1709,almeida,Sep-19 to Feb-20,55-64,47
+1710,almeirim,Sep-19 to Feb-20,55-64,125
+1711,almodôvar,Sep-19 to Feb-20,55-64,68
+1712,alpiarça,Sep-19 to Feb-20,55-64,42
+1713,alter do chão,Sep-19 to Feb-20,55-64,25
+1714,alvaiázere,Sep-19 to Feb-20,55-64,32
+1715,alvito,Sep-19 to Feb-20,55-64,8
+1716,amadora,Sep-19 to Feb-20,55-64,1014
+1717,amarante,Sep-19 to Feb-20,55-64,711
+1718,amares,Sep-19 to Feb-20,55-64,148
+1719,anadia,Sep-19 to Feb-20,55-64,121
+1720,ansião,Sep-19 to Feb-20,55-64,69
+1721,arcos de valdevez,Sep-19 to Feb-20,55-64,169
+1722,arganil,Sep-19 to Feb-20,55-64,124
+1723,armamar,Sep-19 to Feb-20,55-64,77
+1724,arouca,Sep-19 to Feb-20,55-64,177
+1725,arraiolos,Sep-19 to Feb-20,55-64,21
+1726,arronches,Sep-19 to Feb-20,55-64,19
+1727,arruda dos vinhos,Sep-19 to Feb-20,55-64,58
+1728,aveiro,Sep-19 to Feb-20,55-64,649
+1729,avis,Sep-19 to Feb-20,55-64,29
+1730,azambuja,Sep-19 to Feb-20,55-64,94
+1731,baião,Sep-19 to Feb-20,55-64,297
+1732,barcelos,Sep-19 to Feb-20,55-64,718
+1733,barrancos,Sep-19 to Feb-20,55-64,17
+1734,barreiro,Sep-19 to Feb-20,55-64,756
+1735,batalha,Sep-19 to Feb-20,55-64,67
+1736,beja,Sep-19 to Feb-20,55-64,215
+1737,belmonte,Sep-19 to Feb-20,55-64,67
+1738,benavente,Sep-19 to Feb-20,55-64,233
+1739,bombarral,Sep-19 to Feb-20,55-64,73
+1740,borba,Sep-19 to Feb-20,55-64,39
+1741,boticas,Sep-19 to Feb-20,55-64,35
+1742,braga,Sep-19 to Feb-20,55-64,1733
+1743,bragança,Sep-19 to Feb-20,55-64,179
+1744,cabeceiras de basto,Sep-19 to Feb-20,55-64,208
+1745,cadaval,Sep-19 to Feb-20,55-64,66
+1746,caldas da rainha,Sep-19 to Feb-20,55-64,293
+1747,caminha,Sep-19 to Feb-20,55-64,102
+1748,campo maior,Sep-19 to Feb-20,55-64,92
+1749,cantanhede,Sep-19 to Feb-20,55-64,214
+1750,carrazeda de ansiães,Sep-19 to Feb-20,55-64,36
+1751,carregal do sal,Sep-19 to Feb-20,55-64,70
+1752,cartaxo,Sep-19 to Feb-20,55-64,108
+1753,cascais,Sep-19 to Feb-20,55-64,1785
+1754,castanheira de pera,Sep-19 to Feb-20,55-64,28
+1755,castelo branco,Sep-19 to Feb-20,55-64,425
+1756,castelo de paiva,Sep-19 to Feb-20,55-64,181
+1757,castelo de vide,Sep-19 to Feb-20,55-64,18
+1758,castro daire,Sep-19 to Feb-20,55-64,172
+1759,castro marim,Sep-19 to Feb-20,55-64,33
+1760,castro verde,Sep-19 to Feb-20,55-64,37
+1761,celorico da beira,Sep-19 to Feb-20,55-64,54
+1762,celorico de basto,Sep-19 to Feb-20,55-64,253
+1763,centro,Sep-19 to Feb-20,55-64,11624
+1764,chamusca,Sep-19 to Feb-20,55-64,57
+1765,chaves,Sep-19 to Feb-20,55-64,499
+1766,cinfães,Sep-19 to Feb-20,55-64,269
+1767,coimbra,Sep-19 to Feb-20,55-64,875
+1768,condeixa-a-nova,Sep-19 to Feb-20,55-64,81
+1769,constância,Sep-19 to Feb-20,55-64,24
+1770,coruche,Sep-19 to Feb-20,55-64,180
+1771,covilhã,Sep-19 to Feb-20,55-64,470
+1772,crato,Sep-19 to Feb-20,55-64,27
+1773,cuba,Sep-19 to Feb-20,55-64,30
+1774,elvas,Sep-19 to Feb-20,55-64,212
+1775,entroncamento,Sep-19 to Feb-20,55-64,77
+1776,espinho,Sep-19 to Feb-20,55-64,446
+1777,esposende,Sep-19 to Feb-20,55-64,202
+1778,estarreja,Sep-19 to Feb-20,55-64,200
+1779,estremoz,Sep-19 to Feb-20,55-64,60
+1780,fafe,Sep-19 to Feb-20,55-64,695
+1781,faro,Sep-19 to Feb-20,55-64,288
+1782,felgueiras,Sep-19 to Feb-20,55-64,649
+1783,ferreira do alentejo,Sep-19 to Feb-20,55-64,57
+1784,ferreira do zêzere,Sep-19 to Feb-20,55-64,30
+1785,figueira da foz,Sep-19 to Feb-20,55-64,556
+1786,figueira de castelo rodrigo,Sep-19 to Feb-20,55-64,32
+1787,figueiró dos vinhos,Sep-19 to Feb-20,55-64,54
+1788,fornos de algodres,Sep-19 to Feb-20,55-64,42
+1789,freixo espada à cinta,Sep-19 to Feb-20,55-64,34
+1790,fronteira,Sep-19 to Feb-20,55-64,34
+1791,fundão,Sep-19 to Feb-20,55-64,283
+1792,gavião,Sep-19 to Feb-20,55-64,17
+1793,golegã,Sep-19 to Feb-20,55-64,21
+1794,gondomar,Sep-19 to Feb-20,55-64,1591
+1795,gouveia,Sep-19 to Feb-20,55-64,96
+1796,grândola,Sep-19 to Feb-20,55-64,88
+1797,guarda,Sep-19 to Feb-20,55-64,307
+1798,guimarães,Sep-19 to Feb-20,55-64,2188
+1799,góis,Sep-19 to Feb-20,55-64,34
+1800,idanha-a-nova,Sep-19 to Feb-20,55-64,106
+1801,lagoa,Sep-19 to Feb-20,55-64,239
+1802,lagos,Sep-19 to Feb-20,55-64,263
+1803,lamego,Sep-19 to Feb-20,55-64,518
+1804,leiria,Sep-19 to Feb-20,55-64,613
+1805,lisboa,Sep-19 to Feb-20,55-64,4347
+1806,lisboa vt,Sep-19 to Feb-20,55-64,24693
+1807,loulé,Sep-19 to Feb-20,55-64,519
+1808,loures,Sep-19 to Feb-20,55-64,1466
+1809,lourinhã,Sep-19 to Feb-20,55-64,125
+1810,lousada,Sep-19 to Feb-20,55-64,495
+1811,lousã,Sep-19 to Feb-20,55-64,113
+1812,macedo de cavaleiros,Sep-19 to Feb-20,55-64,138
+1813,mafra,Sep-19 to Feb-20,55-64,348
+1814,maia,Sep-19 to Feb-20,55-64,1189
+1815,mangualde,Sep-19 to Feb-20,55-64,188
+1816,manteigas,Sep-19 to Feb-20,55-64,18
+1817,marco de canaveses,Sep-19 to Feb-20,55-64,701
+1818,marinha grande,Sep-19 to Feb-20,55-64,250
+1819,marvão,Sep-19 to Feb-20,55-64,15
+1820,matosinhos,Sep-19 to Feb-20,55-64,2367
+1821,mação,Sep-19 to Feb-20,55-64,44
+1822,mealhada,Sep-19 to Feb-20,55-64,88
+1823,meda,Sep-19 to Feb-20,55-64,12
+1824,melgaço,Sep-19 to Feb-20,55-64,29
+1825,mesão frio,Sep-19 to Feb-20,55-64,94
+1826,mira,Sep-19 to Feb-20,55-64,96
+1827,miranda do corvo,Sep-19 to Feb-20,55-64,64
+1828,miranda do douro,Sep-19 to Feb-20,55-64,40
+1829,mirandela,Sep-19 to Feb-20,55-64,248
+1830,mogadouro,Sep-19 to Feb-20,55-64,102
+1831,moimenta da beira,Sep-19 to Feb-20,55-64,213
+1832,moita,Sep-19 to Feb-20,55-64,621
+1833,monchique,Sep-19 to Feb-20,55-64,66
+1834,mondim de basto,Sep-19 to Feb-20,55-64,86
+1835,monforte,Sep-19 to Feb-20,55-64,28
+1836,montalegre,Sep-19 to Feb-20,55-64,103
+1837,montemor-o-novo,Sep-19 to Feb-20,55-64,60
+1838,montemor-o-velho,Sep-19 to Feb-20,55-64,150
+1839,montijo,Sep-19 to Feb-20,55-64,421
+1840,monção,Sep-19 to Feb-20,55-64,109
+1841,mora,Sep-19 to Feb-20,55-64,16
+1842,mortágua,Sep-19 to Feb-20,55-64,41
+1843,moura,Sep-19 to Feb-20,55-64,198
+1844,mourão,Sep-19 to Feb-20,55-64,29
+1845,murtosa,Sep-19 to Feb-20,55-64,56
+1846,murça,Sep-19 to Feb-20,55-64,121
+1847,mértola,Sep-19 to Feb-20,55-64,64
+1848,nazaré,Sep-19 to Feb-20,55-64,93
+1849,nelas,Sep-19 to Feb-20,55-64,101
+1850,nisa,Sep-19 to Feb-20,55-64,49
+1851,norte,Sep-19 to Feb-20,55-64,40379
+1852,odemira,Sep-19 to Feb-20,55-64,236
+1853,odivelas,Sep-19 to Feb-20,55-64,713
+1854,oeiras,Sep-19 to Feb-20,55-64,1086
+1855,oleiros,Sep-19 to Feb-20,55-64,37
+1856,olhão,Sep-19 to Feb-20,55-64,218
+1857,oliveira de azeméis,Sep-19 to Feb-20,55-64,366
+1858,oliveira de frades,Sep-19 to Feb-20,55-64,102
+1859,oliveira do bairro,Sep-19 to Feb-20,55-64,109
+1860,oliveira do hospital,Sep-19 to Feb-20,55-64,157
+1861,ourique,Sep-19 to Feb-20,55-64,38
+1862,ourém,Sep-19 to Feb-20,55-64,160
+1863,ovar,Sep-19 to Feb-20,55-64,486
+1864,palmela,Sep-19 to Feb-20,55-64,441
+1865,pampilhosa da serra,Sep-19 to Feb-20,55-64,45
+1866,paredes,Sep-19 to Feb-20,55-64,1026
+1867,paredes de coura,Sep-19 to Feb-20,55-64,64
+1868,paços de ferreira,Sep-19 to Feb-20,55-64,658
+1869,pedrógão grande,Sep-19 to Feb-20,55-64,33
+1870,penacova,Sep-19 to Feb-20,55-64,69
+1871,penafiel,Sep-19 to Feb-20,55-64,675
+1872,penalva do castelo,Sep-19 to Feb-20,55-64,67
+1873,penamacor,Sep-19 to Feb-20,55-64,45
+1874,penedono,Sep-19 to Feb-20,55-64,24
+1875,penela,Sep-19 to Feb-20,55-64,31
+1876,peniche,Sep-19 to Feb-20,55-64,167
+1877,peso da régua,Sep-19 to Feb-20,55-64,328
+1878,pinhel,Sep-19 to Feb-20,55-64,33
+1879,pombal,Sep-19 to Feb-20,55-64,268
+1880,ponte da barca,Sep-19 to Feb-20,55-64,73
+1881,ponte de lima,Sep-19 to Feb-20,55-64,179
+1882,ponte de sôr,Sep-19 to Feb-20,55-64,98
+1883,portalegre,Sep-19 to Feb-20,55-64,118
+1884,portel,Sep-19 to Feb-20,55-64,47
+1885,portimão,Sep-19 to Feb-20,55-64,611
+1886,porto,Sep-19 to Feb-20,55-64,3143
+1887,porto de mós,Sep-19 to Feb-20,55-64,117
+1888,proença-a-nova,Sep-19 to Feb-20,55-64,59
+1889,póvoa de lanhoso,Sep-19 to Feb-20,55-64,264
+1890,póvoa de varzim,Sep-19 to Feb-20,55-64,630
+1891,redondo,Sep-19 to Feb-20,55-64,50
+1892,reguengos de monsaraz,Sep-19 to Feb-20,55-64,83
+1893,resende,Sep-19 to Feb-20,55-64,144
+1894,ribeira de pena,Sep-19 to Feb-20,55-64,121
+1895,rio maior,Sep-19 to Feb-20,55-64,64
+1896,sabrosa,Sep-19 to Feb-20,55-64,89
+1897,sabugal,Sep-19 to Feb-20,55-64,62
+1898,salvaterra de magos,Sep-19 to Feb-20,55-64,228
+1899,santa comba dão,Sep-19 to Feb-20,55-64,82
+1900,santa maria da feira,Sep-19 to Feb-20,55-64,1461
+1901,santa marta de penaguião,Sep-19 to Feb-20,55-64,164
+1902,santarém,Sep-19 to Feb-20,55-64,256
+1903,santiago do cacém,Sep-19 to Feb-20,55-64,219
+1904,santo tirso,Sep-19 to Feb-20,55-64,1003
+1905,sardoal,Sep-19 to Feb-20,55-64,38
+1906,seia,Sep-19 to Feb-20,55-64,176
+1907,seixal,Sep-19 to Feb-20,55-64,1047
+1908,sernancelhe,Sep-19 to Feb-20,55-64,56
+1909,serpa,Sep-19 to Feb-20,55-64,136
+1910,sertã,Sep-19 to Feb-20,55-64,85
+1911,sesimbra,Sep-19 to Feb-20,55-64,277
+1912,setúbal,Sep-19 to Feb-20,55-64,1010
+1913,sever do vouga,Sep-19 to Feb-20,55-64,74
+1914,silves,Sep-19 to Feb-20,55-64,262
+1915,sines,Sep-19 to Feb-20,55-64,128
+1916,sintra,Sep-19 to Feb-20,55-64,2425
+1917,sobral monte agraço,Sep-19 to Feb-20,55-64,34
+1918,soure,Sep-19 to Feb-20,55-64,131
+1919,sousel,Sep-19 to Feb-20,55-64,38
+1920,sátão,Sep-19 to Feb-20,55-64,137
+1921,são brás de alportel,Sep-19 to Feb-20,55-64,38
+1922,são joão da madeira,Sep-19 to Feb-20,55-64,194
+1923,são joão da pesqueira,Sep-19 to Feb-20,55-64,54
+1924,são pedro do sul,Sep-19 to Feb-20,55-64,157
+1925,tabuaço,Sep-19 to Feb-20,55-64,130
+1926,tarouca,Sep-19 to Feb-20,55-64,161
+1927,tavira,Sep-19 to Feb-20,55-64,154
+1928,terras de bouro,Sep-19 to Feb-20,55-64,86
+1929,tomar,Sep-19 to Feb-20,55-64,192
+1930,tondela,Sep-19 to Feb-20,55-64,138
+1931,torre de moncorvo,Sep-19 to Feb-20,55-64,110
+1932,torres novas,Sep-19 to Feb-20,55-64,154
+1933,torres vedras,Sep-19 to Feb-20,55-64,480
+1934,trancoso,Sep-19 to Feb-20,55-64,34
+1935,trofa,Sep-19 to Feb-20,55-64,410
+1936,tábua,Sep-19 to Feb-20,55-64,101
+1937,vagos,Sep-19 to Feb-20,55-64,122
+1938,vale de cambra,Sep-19 to Feb-20,55-64,133
+1939,valença,Sep-19 to Feb-20,55-64,112
+1940,valongo,Sep-19 to Feb-20,55-64,1163
+1941,valpaços,Sep-19 to Feb-20,55-64,145
+1942,vendas novas,Sep-19 to Feb-20,55-64,37
+1943,viana do alentejo,Sep-19 to Feb-20,55-64,33
+1944,viana do castelo,Sep-19 to Feb-20,55-64,548
+1945,vidigueira,Sep-19 to Feb-20,55-64,58
+1946,vieira do minho,Sep-19 to Feb-20,55-64,216
+1947,vila de rei,Sep-19 to Feb-20,55-64,13
+1948,vila do bispo,Sep-19 to Feb-20,55-64,43
+1949,vila do conde,Sep-19 to Feb-20,55-64,673
+1950,vila flor,Sep-19 to Feb-20,55-64,65
+1951,vila franca de xira,Sep-19 to Feb-20,55-64,816
+1952,vila nova da barquinha,Sep-19 to Feb-20,55-64,24
+1953,vila nova de cerveira,Sep-19 to Feb-20,55-64,58
+1954,vila nova de famalicão,Sep-19 to Feb-20,55-64,1059
+1955,vila nova de foz côa,Sep-19 to Feb-20,55-64,53
+1956,vila nova de gaia,Sep-19 to Feb-20,55-64,4459
+1957,vila nova de paiva,Sep-19 to Feb-20,55-64,62
+1958,vila nova de poiares,Sep-19 to Feb-20,55-64,54
+1959,vila pouca de aguiar,Sep-19 to Feb-20,55-64,154
+1960,vila real,Sep-19 to Feb-20,55-64,697
+1961,vila real de santo antónio,Sep-19 to Feb-20,55-64,159
+1962,vila velha de rodão,Sep-19 to Feb-20,55-64,24
+1963,vila verde,Sep-19 to Feb-20,55-64,314
+1964,vila viçosa,Sep-19 to Feb-20,55-64,40
+1965,vimioso,Sep-19 to Feb-20,55-64,34
+1966,vinhais,Sep-19 to Feb-20,55-64,94
+1967,viseu,Sep-19 to Feb-20,55-64,719
+1968,vizela,Sep-19 to Feb-20,55-64,353
+1969,vouzela,Sep-19 to Feb-20,55-64,88
+1970,águeda,Sep-19 to Feb-20,55-64,222
+1971,évora,Sep-19 to Feb-20,55-64,296
+1972,ílhavo,Sep-19 to Feb-20,55-64,321
+1973,óbidos,Sep-19 to Feb-20,55-64,57
+1974,abrantes,Sep-20 to Jan-21,55-64,371
+1975,aguiar da beira,Sep-20 to Jan-21,55-64,51
+1976,alandroal,Sep-20 to Jan-21,55-64,39
+1977,albergaria-a-velha,Sep-20 to Jan-21,55-64,138
+1978,albufeira,Sep-20 to Jan-21,55-64,835
+1979,alcanena,Sep-20 to Jan-21,55-64,61
+1980,alcobaça,Sep-20 to Jan-21,55-64,367
+1981,alcochete,Sep-20 to Jan-21,55-64,121
+1982,alcoutim,Sep-20 to Jan-21,55-64,5
+1983,alcácer do sal,Sep-20 to Jan-21,55-64,66
+1984,alenquer,Sep-20 to Jan-21,55-64,303
+1985,alentejo,Sep-20 to Jan-21,55-64,3839
+1986,alfândega da fé,Sep-20 to Jan-21,55-64,58
+1987,alijó,Sep-20 to Jan-21,55-64,217
+1988,aljezur,Sep-20 to Jan-21,55-64,43
+1989,aljustrel,Sep-20 to Jan-21,55-64,68
+1990,almada,Sep-20 to Jan-21,55-64,1337
+1991,almeida,Sep-20 to Jan-21,55-64,55
+1992,almeirim,Sep-20 to Jan-21,55-64,152
+1993,almodôvar,Sep-20 to Jan-21,55-64,64
+1994,alpiarça,Sep-20 to Jan-21,55-64,54
+1995,alter do chão,Sep-20 to Jan-21,55-64,29
+1996,alvaiázere,Sep-20 to Jan-21,55-64,39
+1997,alvito,Sep-20 to Jan-21,55-64,13
+1998,amadora,Sep-20 to Jan-21,55-64,1246
+1999,amarante,Sep-20 to Jan-21,55-64,841
+2000,amares,Sep-20 to Jan-21,55-64,153
+2001,anadia,Sep-20 to Jan-21,55-64,158
+2002,ansião,Sep-20 to Jan-21,55-64,74
+2003,arcos de valdevez,Sep-20 to Jan-21,55-64,162
+2004,arganil,Sep-20 to Jan-21,55-64,129
+2005,armamar,Sep-20 to Jan-21,55-64,84
+2006,arouca,Sep-20 to Jan-21,55-64,211
+2007,arraiolos,Sep-20 to Jan-21,55-64,37
+2008,arronches,Sep-20 to Jan-21,55-64,19
+2009,arruda dos vinhos,Sep-20 to Jan-21,55-64,72
+2010,aveiro,Sep-20 to Jan-21,55-64,727
+2011,avis,Sep-20 to Jan-21,55-64,32
+2012,azambuja,Sep-20 to Jan-21,55-64,131
+2013,baião,Sep-20 to Jan-21,55-64,346
+2014,barcelos,Sep-20 to Jan-21,55-64,831
+2015,barrancos,Sep-20 to Jan-21,55-64,16
+2016,barreiro,Sep-20 to Jan-21,55-64,820
+2017,batalha,Sep-20 to Jan-21,55-64,86
+2018,beja,Sep-20 to Jan-21,55-64,227
+2019,belmonte,Sep-20 to Jan-21,55-64,75
+2020,benavente,Sep-20 to Jan-21,55-64,243
+2021,bombarral,Sep-20 to Jan-21,55-64,97
+2022,borba,Sep-20 to Jan-21,55-64,45
+2023,boticas,Sep-20 to Jan-21,55-64,33
+2024,braga,Sep-20 to Jan-21,55-64,1823
+2025,bragança,Sep-20 to Jan-21,55-64,181
+2026,cabeceiras de basto,Sep-20 to Jan-21,55-64,214
+2027,cadaval,Sep-20 to Jan-21,55-64,93
+2028,caldas da rainha,Sep-20 to Jan-21,55-64,377
+2029,caminha,Sep-20 to Jan-21,55-64,121
+2030,campo maior,Sep-20 to Jan-21,55-64,100
+2031,cantanhede,Sep-20 to Jan-21,55-64,246
+2032,carrazeda de ansiães,Sep-20 to Jan-21,55-64,40
+2033,carregal do sal,Sep-20 to Jan-21,55-64,88
+2034,cartaxo,Sep-20 to Jan-21,55-64,129
+2035,cascais,Sep-20 to Jan-21,55-64,1947
+2036,castanheira de pera,Sep-20 to Jan-21,55-64,20
+2037,castelo branco,Sep-20 to Jan-21,55-64,476
+2038,castelo de paiva,Sep-20 to Jan-21,55-64,234
+2039,castelo de vide,Sep-20 to Jan-21,55-64,17
+2040,castro daire,Sep-20 to Jan-21,55-64,173
+2041,castro marim,Sep-20 to Jan-21,55-64,53
+2042,castro verde,Sep-20 to Jan-21,55-64,60
+2043,celorico da beira,Sep-20 to Jan-21,55-64,58
+2044,celorico de basto,Sep-20 to Jan-21,55-64,294
+2045,centro,Sep-20 to Jan-21,55-64,12916
+2046,chamusca,Sep-20 to Jan-21,55-64,56
+2047,chaves,Sep-20 to Jan-21,55-64,521
+2048,cinfães,Sep-20 to Jan-21,55-64,323
+2049,coimbra,Sep-20 to Jan-21,55-64,994
+2050,condeixa-a-nova,Sep-20 to Jan-21,55-64,84
+2051,constância,Sep-20 to Jan-21,55-64,26
+2052,coruche,Sep-20 to Jan-21,55-64,194
+2053,covilhã,Sep-20 to Jan-21,55-64,477
+2054,crato,Sep-20 to Jan-21,55-64,30
+2055,cuba,Sep-20 to Jan-21,55-64,30
+2056,elvas,Sep-20 to Jan-21,55-64,210
+2057,entroncamento,Sep-20 to Jan-21,55-64,91
+2058,espinho,Sep-20 to Jan-21,55-64,477
+2059,esposende,Sep-20 to Jan-21,55-64,218
+2060,estarreja,Sep-20 to Jan-21,55-64,227
+2061,estremoz,Sep-20 to Jan-21,55-64,67
+2062,fafe,Sep-20 to Jan-21,55-64,734
+2063,faro,Sep-20 to Jan-21,55-64,428
+2064,felgueiras,Sep-20 to Jan-21,55-64,831
+2065,ferreira do alentejo,Sep-20 to Jan-21,55-64,60
+2066,ferreira do zêzere,Sep-20 to Jan-21,55-64,25
+2067,figueira da foz,Sep-20 to Jan-21,55-64,630
+2068,figueira de castelo rodrigo,Sep-20 to Jan-21,55-64,41
+2069,figueiró dos vinhos,Sep-20 to Jan-21,55-64,52
+2070,fornos de algodres,Sep-20 to Jan-21,55-64,31
+2071,freixo espada à cinta,Sep-20 to Jan-21,55-64,39
+2072,fronteira,Sep-20 to Jan-21,55-64,25
+2073,fundão,Sep-20 to Jan-21,55-64,276
+2074,gavião,Sep-20 to Jan-21,55-64,13
+2075,golegã,Sep-20 to Jan-21,55-64,16
+2076,gondomar,Sep-20 to Jan-21,55-64,1914
+2077,gouveia,Sep-20 to Jan-21,55-64,89
+2078,grândola,Sep-20 to Jan-21,55-64,92
+2079,guarda,Sep-20 to Jan-21,55-64,322
+2080,guimarães,Sep-20 to Jan-21,55-64,2361
+2081,góis,Sep-20 to Jan-21,55-64,36
+2082,idanha-a-nova,Sep-20 to Jan-21,55-64,93
+2083,lagoa,Sep-20 to Jan-21,55-64,343
+2084,lagos,Sep-20 to Jan-21,55-64,404
+2085,lamego,Sep-20 to Jan-21,55-64,523
+2086,leiria,Sep-20 to Jan-21,55-64,773
+2087,lisboa,Sep-20 to Jan-21,55-64,4534
+2088,lisboa vt,Sep-20 to Jan-21,55-64,28447
+2089,loulé,Sep-20 to Jan-21,55-64,796
+2090,loures,Sep-20 to Jan-21,55-64,1797
+2091,lourinhã,Sep-20 to Jan-21,55-64,187
+2092,lousada,Sep-20 to Jan-21,55-64,561
+2093,lousã,Sep-20 to Jan-21,55-64,135
+2094,macedo de cavaleiros,Sep-20 to Jan-21,55-64,137
+2095,mafra,Sep-20 to Jan-21,55-64,464
+2096,maia,Sep-20 to Jan-21,55-64,1396
+2097,mangualde,Sep-20 to Jan-21,55-64,201
+2098,manteigas,Sep-20 to Jan-21,55-64,20
+2099,marco de canaveses,Sep-20 to Jan-21,55-64,864
+2100,marinha grande,Sep-20 to Jan-21,55-64,310
+2101,marvão,Sep-20 to Jan-21,55-64,17
+2102,matosinhos,Sep-20 to Jan-21,55-64,2625
+2103,mação,Sep-20 to Jan-21,55-64,41
+2104,mealhada,Sep-20 to Jan-21,55-64,117
+2105,meda,Sep-20 to Jan-21,55-64,16
+2106,melgaço,Sep-20 to Jan-21,55-64,28
+2107,mesão frio,Sep-20 to Jan-21,55-64,98
+2108,mira,Sep-20 to Jan-21,55-64,71
+2109,miranda do corvo,Sep-20 to Jan-21,55-64,73
+2110,miranda do douro,Sep-20 to Jan-21,55-64,43
+2111,mirandela,Sep-20 to Jan-21,55-64,225
+2112,mogadouro,Sep-20 to Jan-21,55-64,89
+2113,moimenta da beira,Sep-20 to Jan-21,55-64,218
+2114,moita,Sep-20 to Jan-21,55-64,684
+2115,monchique,Sep-20 to Jan-21,55-64,69
+2116,mondim de basto,Sep-20 to Jan-21,55-64,93
+2117,monforte,Sep-20 to Jan-21,55-64,28
+2118,montalegre,Sep-20 to Jan-21,55-64,104
+2119,montemor-o-novo,Sep-20 to Jan-21,55-64,69
+2120,montemor-o-velho,Sep-20 to Jan-21,55-64,150
+2121,montijo,Sep-20 to Jan-21,55-64,484
+2122,monção,Sep-20 to Jan-21,55-64,115
+2123,mora,Sep-20 to Jan-21,55-64,23
+2124,mortágua,Sep-20 to Jan-21,55-64,39
+2125,moura,Sep-20 to Jan-21,55-64,192
+2126,mourão,Sep-20 to Jan-21,55-64,26
+2127,murtosa,Sep-20 to Jan-21,55-64,58
+2128,murça,Sep-20 to Jan-21,55-64,133
+2129,mértola,Sep-20 to Jan-21,55-64,78
+2130,nazaré,Sep-20 to Jan-21,55-64,117
+2131,nelas,Sep-20 to Jan-21,55-64,132
+2132,nisa,Sep-20 to Jan-21,55-64,48
+2133,norte,Sep-20 to Jan-21,55-64,44908
+2134,odemira,Sep-20 to Jan-21,55-64,291
+2135,odivelas,Sep-20 to Jan-21,55-64,985
+2136,oeiras,Sep-20 to Jan-21,55-64,1284
+2137,oleiros,Sep-20 to Jan-21,55-64,29
+2138,olhão,Sep-20 to Jan-21,55-64,329
+2139,oliveira de azeméis,Sep-20 to Jan-21,55-64,535
+2140,oliveira de frades,Sep-20 to Jan-21,55-64,104
+2141,oliveira do bairro,Sep-20 to Jan-21,55-64,126
+2142,oliveira do hospital,Sep-20 to Jan-21,55-64,163
+2143,ourique,Sep-20 to Jan-21,55-64,44
+2144,ourém,Sep-20 to Jan-21,55-64,186
+2145,ovar,Sep-20 to Jan-21,55-64,571
+2146,palmela,Sep-20 to Jan-21,55-64,496
+2147,pampilhosa da serra,Sep-20 to Jan-21,55-64,35
+2148,paredes,Sep-20 to Jan-21,55-64,1136
+2149,paredes de coura,Sep-20 to Jan-21,55-64,84
+2150,paços de ferreira,Sep-20 to Jan-21,55-64,704
+2151,pedrógão grande,Sep-20 to Jan-21,55-64,39
+2152,penacova,Sep-20 to Jan-21,55-64,82
+2153,penafiel,Sep-20 to Jan-21,55-64,767
+2154,penalva do castelo,Sep-20 to Jan-21,55-64,78
+2155,penamacor,Sep-20 to Jan-21,55-64,45
+2156,penedono,Sep-20 to Jan-21,55-64,23
+2157,penela,Sep-20 to Jan-21,55-64,29
+2158,peniche,Sep-20 to Jan-21,55-64,222
+2159,peso da régua,Sep-20 to Jan-21,55-64,319
+2160,pinhel,Sep-20 to Jan-21,55-64,40
+2161,pombal,Sep-20 to Jan-21,55-64,293
+2162,ponte da barca,Sep-20 to Jan-21,55-64,62
+2163,ponte de lima,Sep-20 to Jan-21,55-64,220
+2164,ponte de sôr,Sep-20 to Jan-21,55-64,83
+2165,portalegre,Sep-20 to Jan-21,55-64,138
+2166,portel,Sep-20 to Jan-21,55-64,64
+2167,portimão,Sep-20 to Jan-21,55-64,921
+2168,porto,Sep-20 to Jan-21,55-64,3400
+2169,porto de mós,Sep-20 to Jan-21,55-64,134
+2170,proença-a-nova,Sep-20 to Jan-21,55-64,59
+2171,póvoa de lanhoso,Sep-20 to Jan-21,55-64,270
+2172,póvoa de varzim,Sep-20 to Jan-21,55-64,701
+2173,redondo,Sep-20 to Jan-21,55-64,58
+2174,reguengos de monsaraz,Sep-20 to Jan-21,55-64,100
+2175,resende,Sep-20 to Jan-21,55-64,141
+2176,ribeira de pena,Sep-20 to Jan-21,55-64,120
+2177,rio maior,Sep-20 to Jan-21,55-64,78
+2178,sabrosa,Sep-20 to Jan-21,55-64,89
+2179,sabugal,Sep-20 to Jan-21,55-64,72
+2180,salvaterra de magos,Sep-20 to Jan-21,55-64,215
+2181,santa comba dão,Sep-20 to Jan-21,55-64,93
+2182,santa maria da feira,Sep-20 to Jan-21,55-64,1700
+2183,santa marta de penaguião,Sep-20 to Jan-21,55-64,157
+2184,santarém,Sep-20 to Jan-21,55-64,301
+2185,santiago do cacém,Sep-20 to Jan-21,55-64,259
+2186,santo tirso,Sep-20 to Jan-21,55-64,1042
+2187,sardoal,Sep-20 to Jan-21,55-64,40
+2188,seia,Sep-20 to Jan-21,55-64,185
+2189,seixal,Sep-20 to Jan-21,55-64,1231
+2190,sernancelhe,Sep-20 to Jan-21,55-64,68
+2191,serpa,Sep-20 to Jan-21,55-64,148
+2192,sertã,Sep-20 to Jan-21,55-64,112
+2193,sesimbra,Sep-20 to Jan-21,55-64,313
+2194,setúbal,Sep-20 to Jan-21,55-64,1079
+2195,sever do vouga,Sep-20 to Jan-21,55-64,64
+2196,silves,Sep-20 to Jan-21,55-64,414
+2197,sines,Sep-20 to Jan-21,55-64,181
+2198,sintra,Sep-20 to Jan-21,55-64,3095
+2199,sobral monte agraço,Sep-20 to Jan-21,55-64,51
+2200,soure,Sep-20 to Jan-21,55-64,144
+2201,sousel,Sep-20 to Jan-21,55-64,42
+2202,sátão,Sep-20 to Jan-21,55-64,116
+2203,são brás de alportel,Sep-20 to Jan-21,55-64,53
+2204,são joão da madeira,Sep-20 to Jan-21,55-64,267
+2205,são joão da pesqueira,Sep-20 to Jan-21,55-64,60
+2206,são pedro do sul,Sep-20 to Jan-21,55-64,195
+2207,tabuaço,Sep-20 to Jan-21,55-64,120
+2208,tarouca,Sep-20 to Jan-21,55-64,149
+2209,tavira,Sep-20 to Jan-21,55-64,203
+2210,terras de bouro,Sep-20 to Jan-21,55-64,87
+2211,tomar,Sep-20 to Jan-21,55-64,210
+2212,tondela,Sep-20 to Jan-21,55-64,172
+2213,torre de moncorvo,Sep-20 to Jan-21,55-64,122
+2214,torres novas,Sep-20 to Jan-21,55-64,191
+2215,torres vedras,Sep-20 to Jan-21,55-64,543
+2216,trancoso,Sep-20 to Jan-21,55-64,31
+2217,trofa,Sep-20 to Jan-21,55-64,423
+2218,tábua,Sep-20 to Jan-21,55-64,127
+2219,vagos,Sep-20 to Jan-21,55-64,151
+2220,vale de cambra,Sep-20 to Jan-21,55-64,146
+2221,valença,Sep-20 to Jan-21,55-64,135
+2222,valongo,Sep-20 to Jan-21,55-64,1245
+2223,valpaços,Sep-20 to Jan-21,55-64,163
+2224,vendas novas,Sep-20 to Jan-21,55-64,49
+2225,viana do alentejo,Sep-20 to Jan-21,55-64,43
+2226,viana do castelo,Sep-20 to Jan-21,55-64,598
+2227,vidigueira,Sep-20 to Jan-21,55-64,60
+2228,vieira do minho,Sep-20 to Jan-21,55-64,212
+2229,vila de rei,Sep-20 to Jan-21,55-64,18
+2230,vila do bispo,Sep-20 to Jan-21,55-64,52
+2231,vila do conde,Sep-20 to Jan-21,55-64,770
+2232,vila flor,Sep-20 to Jan-21,55-64,82
+2233,vila franca de xira,Sep-20 to Jan-21,55-64,1026
+2234,vila nova da barquinha,Sep-20 to Jan-21,55-64,26
+2235,vila nova de cerveira,Sep-20 to Jan-21,55-64,72
+2236,vila nova de famalicão,Sep-20 to Jan-21,55-64,1376
+2237,vila nova de foz côa,Sep-20 to Jan-21,55-64,57
+2238,vila nova de gaia,Sep-20 to Jan-21,55-64,4961
+2239,vila nova de paiva,Sep-20 to Jan-21,55-64,43
+2240,vila nova de poiares,Sep-20 to Jan-21,55-64,58
+2241,vila pouca de aguiar,Sep-20 to Jan-21,55-64,157
+2242,vila real,Sep-20 to Jan-21,55-64,713
+2243,vila real de santo antónio,Sep-20 to Jan-21,55-64,191
+2244,vila velha de rodão,Sep-20 to Jan-21,55-64,21
+2245,vila verde,Sep-20 to Jan-21,55-64,342
+2246,vila viçosa,Sep-20 to Jan-21,55-64,48
+2247,vimioso,Sep-20 to Jan-21,55-64,40
+2248,vinhais,Sep-20 to Jan-21,55-64,99
+2249,viseu,Sep-20 to Jan-21,55-64,794
+2250,vizela,Sep-20 to Jan-21,55-64,425
+2251,vouzela,Sep-20 to Jan-21,55-64,95
+2252,águeda,Sep-20 to Jan-21,55-64,282
+2253,évora,Sep-20 to Jan-21,55-64,372
+2254,ílhavo,Sep-20 to Jan-21,55-64,372
+2255,óbidos,Sep-20 to Jan-21,55-64,84
+2256,abrantes,Sep-19 to Feb-20,65+,0
+2257,aguiar da beira,Sep-19 to Feb-20,65+,0
+2258,alandroal,Sep-19 to Feb-20,65+,0
+2259,albergaria-a-velha,Sep-19 to Feb-20,65+,0
+2260,albufeira,Sep-19 to Feb-20,65+,0
+2261,alcanena,Sep-19 to Feb-20,65+,0
+2262,alcobaça,Sep-19 to Feb-20,65+,0
+2263,alcochete,Sep-19 to Feb-20,65+,0
+2264,alcoutim,Sep-19 to Feb-20,65+,0
+2265,alcácer do sal,Sep-19 to Feb-20,65+,0
+2266,alenquer,Sep-19 to Feb-20,65+,0
+2267,alentejo,Sep-19 to Feb-20,65+,0
+2268,alfândega da fé,Sep-19 to Feb-20,65+,0
+2269,alijó,Sep-19 to Feb-20,65+,0
+2270,aljezur,Sep-19 to Feb-20,65+,0
+2271,aljustrel,Sep-19 to Feb-20,65+,0
+2272,almada,Sep-19 to Feb-20,65+,0
+2273,almeida,Sep-19 to Feb-20,65+,0
+2274,almeirim,Sep-19 to Feb-20,65+,0
+2275,almodôvar,Sep-19 to Feb-20,65+,0
+2276,alpiarça,Sep-19 to Feb-20,65+,0
+2277,alter do chão,Sep-19 to Feb-20,65+,0
+2278,alvaiázere,Sep-19 to Feb-20,65+,0
+2279,alvito,Sep-19 to Feb-20,65+,0
+2280,amadora,Sep-19 to Feb-20,65+,0
+2281,amarante,Sep-19 to Feb-20,65+,0
+2282,amares,Sep-19 to Feb-20,65+,0
+2283,anadia,Sep-19 to Feb-20,65+,0
+2284,ansião,Sep-19 to Feb-20,65+,0
+2285,arcos de valdevez,Sep-19 to Feb-20,65+,0
+2286,arganil,Sep-19 to Feb-20,65+,0
+2287,armamar,Sep-19 to Feb-20,65+,0
+2288,arouca,Sep-19 to Feb-20,65+,0
+2289,arraiolos,Sep-19 to Feb-20,65+,0
+2290,arronches,Sep-19 to Feb-20,65+,0
+2291,arruda dos vinhos,Sep-19 to Feb-20,65+,0
+2292,aveiro,Sep-19 to Feb-20,65+,0
+2293,avis,Sep-19 to Feb-20,65+,0
+2294,azambuja,Sep-19 to Feb-20,65+,0
+2295,baião,Sep-19 to Feb-20,65+,0
+2296,barcelos,Sep-19 to Feb-20,65+,0
+2297,barrancos,Sep-19 to Feb-20,65+,0
+2298,barreiro,Sep-19 to Feb-20,65+,0
+2299,batalha,Sep-19 to Feb-20,65+,0
+2300,beja,Sep-19 to Feb-20,65+,0
+2301,belmonte,Sep-19 to Feb-20,65+,0
+2302,benavente,Sep-19 to Feb-20,65+,0
+2303,bombarral,Sep-19 to Feb-20,65+,0
+2304,borba,Sep-19 to Feb-20,65+,0
+2305,boticas,Sep-19 to Feb-20,65+,0
+2306,braga,Sep-19 to Feb-20,65+,0
+2307,bragança,Sep-19 to Feb-20,65+,0
+2308,cabeceiras de basto,Sep-19 to Feb-20,65+,0
+2309,cadaval,Sep-19 to Feb-20,65+,0
+2310,caldas da rainha,Sep-19 to Feb-20,65+,0
+2311,caminha,Sep-19 to Feb-20,65+,0
+2312,campo maior,Sep-19 to Feb-20,65+,0
+2313,cantanhede,Sep-19 to Feb-20,65+,0
+2314,carrazeda de ansiães,Sep-19 to Feb-20,65+,0
+2315,carregal do sal,Sep-19 to Feb-20,65+,0
+2316,cartaxo,Sep-19 to Feb-20,65+,0
+2317,cascais,Sep-19 to Feb-20,65+,0
+2318,castanheira de pera,Sep-19 to Feb-20,65+,0
+2319,castelo branco,Sep-19 to Feb-20,65+,0
+2320,castelo de paiva,Sep-19 to Feb-20,65+,0
+2321,castelo de vide,Sep-19 to Feb-20,65+,0
+2322,castro daire,Sep-19 to Feb-20,65+,0
+2323,castro marim,Sep-19 to Feb-20,65+,0
+2324,castro verde,Sep-19 to Feb-20,65+,0
+2325,celorico da beira,Sep-19 to Feb-20,65+,0
+2326,celorico de basto,Sep-19 to Feb-20,65+,0
+2327,centro,Sep-19 to Feb-20,65+,0
+2328,chamusca,Sep-19 to Feb-20,65+,0
+2329,chaves,Sep-19 to Feb-20,65+,0
+2330,cinfães,Sep-19 to Feb-20,65+,0
+2331,coimbra,Sep-19 to Feb-20,65+,0
+2332,condeixa-a-nova,Sep-19 to Feb-20,65+,0
+2333,constância,Sep-19 to Feb-20,65+,0
+2334,coruche,Sep-19 to Feb-20,65+,0
+2335,covilhã,Sep-19 to Feb-20,65+,0
+2336,crato,Sep-19 to Feb-20,65+,0
+2337,cuba,Sep-19 to Feb-20,65+,0
+2338,elvas,Sep-19 to Feb-20,65+,0
+2339,entroncamento,Sep-19 to Feb-20,65+,0
+2340,espinho,Sep-19 to Feb-20,65+,0
+2341,esposende,Sep-19 to Feb-20,65+,0
+2342,estarreja,Sep-19 to Feb-20,65+,0
+2343,estremoz,Sep-19 to Feb-20,65+,0
+2344,fafe,Sep-19 to Feb-20,65+,0
+2345,faro,Sep-19 to Feb-20,65+,0
+2346,felgueiras,Sep-19 to Feb-20,65+,0
+2347,ferreira do alentejo,Sep-19 to Feb-20,65+,0
+2348,ferreira do zêzere,Sep-19 to Feb-20,65+,0
+2349,figueira da foz,Sep-19 to Feb-20,65+,0
+2350,figueira de castelo rodrigo,Sep-19 to Feb-20,65+,0
+2351,figueiró dos vinhos,Sep-19 to Feb-20,65+,0
+2352,fornos de algodres,Sep-19 to Feb-20,65+,0
+2353,freixo espada à cinta,Sep-19 to Feb-20,65+,0
+2354,fronteira,Sep-19 to Feb-20,65+,0
+2355,fundão,Sep-19 to Feb-20,65+,0
+2356,gavião,Sep-19 to Feb-20,65+,0
+2357,golegã,Sep-19 to Feb-20,65+,0
+2358,gondomar,Sep-19 to Feb-20,65+,0
+2359,gouveia,Sep-19 to Feb-20,65+,0
+2360,grândola,Sep-19 to Feb-20,65+,0
+2361,guarda,Sep-19 to Feb-20,65+,0
+2362,guimarães,Sep-19 to Feb-20,65+,0
+2363,góis,Sep-19 to Feb-20,65+,0
+2364,idanha-a-nova,Sep-19 to Feb-20,65+,0
+2365,lagoa,Sep-19 to Feb-20,65+,0
+2366,lagos,Sep-19 to Feb-20,65+,0
+2367,lamego,Sep-19 to Feb-20,65+,0
+2368,leiria,Sep-19 to Feb-20,65+,0
+2369,lisboa,Sep-19 to Feb-20,65+,0
+2370,lisboa vt,Sep-19 to Feb-20,65+,0
+2371,loulé,Sep-19 to Feb-20,65+,0
+2372,loures,Sep-19 to Feb-20,65+,0
+2373,lourinhã,Sep-19 to Feb-20,65+,0
+2374,lousada,Sep-19 to Feb-20,65+,0
+2375,lousã,Sep-19 to Feb-20,65+,0
+2376,macedo de cavaleiros,Sep-19 to Feb-20,65+,0
+2377,mafra,Sep-19 to Feb-20,65+,0
+2378,maia,Sep-19 to Feb-20,65+,0
+2379,mangualde,Sep-19 to Feb-20,65+,0
+2380,manteigas,Sep-19 to Feb-20,65+,0
+2381,marco de canaveses,Sep-19 to Feb-20,65+,0
+2382,marinha grande,Sep-19 to Feb-20,65+,0
+2383,marvão,Sep-19 to Feb-20,65+,0
+2384,matosinhos,Sep-19 to Feb-20,65+,0
+2385,mação,Sep-19 to Feb-20,65+,0
+2386,mealhada,Sep-19 to Feb-20,65+,0
+2387,meda,Sep-19 to Feb-20,65+,0
+2388,melgaço,Sep-19 to Feb-20,65+,0
+2389,mesão frio,Sep-19 to Feb-20,65+,0
+2390,mira,Sep-19 to Feb-20,65+,0
+2391,miranda do corvo,Sep-19 to Feb-20,65+,0
+2392,miranda do douro,Sep-19 to Feb-20,65+,0
+2393,mirandela,Sep-19 to Feb-20,65+,0
+2394,mogadouro,Sep-19 to Feb-20,65+,0
+2395,moimenta da beira,Sep-19 to Feb-20,65+,0
+2396,moita,Sep-19 to Feb-20,65+,0
+2397,monchique,Sep-19 to Feb-20,65+,0
+2398,mondim de basto,Sep-19 to Feb-20,65+,0
+2399,monforte,Sep-19 to Feb-20,65+,0
+2400,montalegre,Sep-19 to Feb-20,65+,0
+2401,montemor-o-novo,Sep-19 to Feb-20,65+,0
+2402,montemor-o-velho,Sep-19 to Feb-20,65+,0
+2403,montijo,Sep-19 to Feb-20,65+,0
+2404,monção,Sep-19 to Feb-20,65+,0
+2405,mora,Sep-19 to Feb-20,65+,0
+2406,mortágua,Sep-19 to Feb-20,65+,0
+2407,moura,Sep-19 to Feb-20,65+,0
+2408,mourão,Sep-19 to Feb-20,65+,0
+2409,murtosa,Sep-19 to Feb-20,65+,0
+2410,murça,Sep-19 to Feb-20,65+,0
+2411,mértola,Sep-19 to Feb-20,65+,0
+2412,nazaré,Sep-19 to Feb-20,65+,0
+2413,nelas,Sep-19 to Feb-20,65+,0
+2414,nisa,Sep-19 to Feb-20,65+,0
+2415,norte,Sep-19 to Feb-20,65+,0
+2416,odemira,Sep-19 to Feb-20,65+,0
+2417,odivelas,Sep-19 to Feb-20,65+,0
+2418,oeiras,Sep-19 to Feb-20,65+,0
+2419,oleiros,Sep-19 to Feb-20,65+,0
+2420,olhão,Sep-19 to Feb-20,65+,0
+2421,oliveira de azeméis,Sep-19 to Feb-20,65+,0
+2422,oliveira de frades,Sep-19 to Feb-20,65+,0
+2423,oliveira do bairro,Sep-19 to Feb-20,65+,0
+2424,oliveira do hospital,Sep-19 to Feb-20,65+,0
+2425,ourique,Sep-19 to Feb-20,65+,0
+2426,ourém,Sep-19 to Feb-20,65+,0
+2427,ovar,Sep-19 to Feb-20,65+,0
+2428,palmela,Sep-19 to Feb-20,65+,0
+2429,pampilhosa da serra,Sep-19 to Feb-20,65+,0
+2430,paredes,Sep-19 to Feb-20,65+,0
+2431,paredes de coura,Sep-19 to Feb-20,65+,0
+2432,paços de ferreira,Sep-19 to Feb-20,65+,0
+2433,pedrógão grande,Sep-19 to Feb-20,65+,0
+2434,penacova,Sep-19 to Feb-20,65+,0
+2435,penafiel,Sep-19 to Feb-20,65+,0
+2436,penalva do castelo,Sep-19 to Feb-20,65+,0
+2437,penamacor,Sep-19 to Feb-20,65+,0
+2438,penedono,Sep-19 to Feb-20,65+,0
+2439,penela,Sep-19 to Feb-20,65+,0
+2440,peniche,Sep-19 to Feb-20,65+,0
+2441,peso da régua,Sep-19 to Feb-20,65+,0
+2442,pinhel,Sep-19 to Feb-20,65+,0
+2443,pombal,Sep-19 to Feb-20,65+,0
+2444,ponte da barca,Sep-19 to Feb-20,65+,0
+2445,ponte de lima,Sep-19 to Feb-20,65+,0
+2446,ponte de sôr,Sep-19 to Feb-20,65+,0
+2447,portalegre,Sep-19 to Feb-20,65+,0
+2448,portel,Sep-19 to Feb-20,65+,0
+2449,portimão,Sep-19 to Feb-20,65+,0
+2450,porto,Sep-19 to Feb-20,65+,0
+2451,porto de mós,Sep-19 to Feb-20,65+,0
+2452,proença-a-nova,Sep-19 to Feb-20,65+,0
+2453,póvoa de lanhoso,Sep-19 to Feb-20,65+,0
+2454,póvoa de varzim,Sep-19 to Feb-20,65+,0
+2455,redondo,Sep-19 to Feb-20,65+,0
+2456,reguengos de monsaraz,Sep-19 to Feb-20,65+,0
+2457,resende,Sep-19 to Feb-20,65+,0
+2458,ribeira de pena,Sep-19 to Feb-20,65+,0
+2459,rio maior,Sep-19 to Feb-20,65+,0
+2460,sabrosa,Sep-19 to Feb-20,65+,0
+2461,sabugal,Sep-19 to Feb-20,65+,0
+2462,salvaterra de magos,Sep-19 to Feb-20,65+,0
+2463,santa comba dão,Sep-19 to Feb-20,65+,0
+2464,santa maria da feira,Sep-19 to Feb-20,65+,0
+2465,santa marta de penaguião,Sep-19 to Feb-20,65+,0
+2466,santarém,Sep-19 to Feb-20,65+,0
+2467,santiago do cacém,Sep-19 to Feb-20,65+,0
+2468,santo tirso,Sep-19 to Feb-20,65+,0
+2469,sardoal,Sep-19 to Feb-20,65+,0
+2470,seia,Sep-19 to Feb-20,65+,0
+2471,seixal,Sep-19 to Feb-20,65+,0
+2472,sernancelhe,Sep-19 to Feb-20,65+,0
+2473,serpa,Sep-19 to Feb-20,65+,0
+2474,sertã,Sep-19 to Feb-20,65+,0
+2475,sesimbra,Sep-19 to Feb-20,65+,0
+2476,setúbal,Sep-19 to Feb-20,65+,0
+2477,sever do vouga,Sep-19 to Feb-20,65+,0
+2478,silves,Sep-19 to Feb-20,65+,0
+2479,sines,Sep-19 to Feb-20,65+,0
+2480,sintra,Sep-19 to Feb-20,65+,0
+2481,sobral monte agraço,Sep-19 to Feb-20,65+,0
+2482,soure,Sep-19 to Feb-20,65+,0
+2483,sousel,Sep-19 to Feb-20,65+,0
+2484,sátão,Sep-19 to Feb-20,65+,0
+2485,são brás de alportel,Sep-19 to Feb-20,65+,0
+2486,são joão da madeira,Sep-19 to Feb-20,65+,0
+2487,são joão da pesqueira,Sep-19 to Feb-20,65+,0
+2488,são pedro do sul,Sep-19 to Feb-20,65+,0
+2489,tabuaço,Sep-19 to Feb-20,65+,0
+2490,tarouca,Sep-19 to Feb-20,65+,0
+2491,tavira,Sep-19 to Feb-20,65+,0
+2492,terras de bouro,Sep-19 to Feb-20,65+,0
+2493,tomar,Sep-19 to Feb-20,65+,0
+2494,tondela,Sep-19 to Feb-20,65+,0
+2495,torre de moncorvo,Sep-19 to Feb-20,65+,0
+2496,torres novas,Sep-19 to Feb-20,65+,0
+2497,torres vedras,Sep-19 to Feb-20,65+,0
+2498,trancoso,Sep-19 to Feb-20,65+,0
+2499,trofa,Sep-19 to Feb-20,65+,0
+2500,tábua,Sep-19 to Feb-20,65+,0
+2501,vagos,Sep-19 to Feb-20,65+,0
+2502,vale de cambra,Sep-19 to Feb-20,65+,0
+2503,valença,Sep-19 to Feb-20,65+,0
+2504,valongo,Sep-19 to Feb-20,65+,0
+2505,valpaços,Sep-19 to Feb-20,65+,0
+2506,vendas novas,Sep-19 to Feb-20,65+,0
+2507,viana do alentejo,Sep-19 to Feb-20,65+,0
+2508,viana do castelo,Sep-19 to Feb-20,65+,0
+2509,vidigueira,Sep-19 to Feb-20,65+,0
+2510,vieira do minho,Sep-19 to Feb-20,65+,0
+2511,vila de rei,Sep-19 to Feb-20,65+,0
+2512,vila do bispo,Sep-19 to Feb-20,65+,0
+2513,vila do conde,Sep-19 to Feb-20,65+,0
+2514,vila flor,Sep-19 to Feb-20,65+,0
+2515,vila franca de xira,Sep-19 to Feb-20,65+,0
+2516,vila nova da barquinha,Sep-19 to Feb-20,65+,0
+2517,vila nova de cerveira,Sep-19 to Feb-20,65+,0
+2518,vila nova de famalicão,Sep-19 to Feb-20,65+,0
+2519,vila nova de foz côa,Sep-19 to Feb-20,65+,0
+2520,vila nova de gaia,Sep-19 to Feb-20,65+,0
+2521,vila nova de paiva,Sep-19 to Feb-20,65+,0
+2522,vila nova de poiares,Sep-19 to Feb-20,65+,0
+2523,vila pouca de aguiar,Sep-19 to Feb-20,65+,0
+2524,vila real,Sep-19 to Feb-20,65+,0
+2525,vila real de santo antónio,Sep-19 to Feb-20,65+,0
+2526,vila velha de rodão,Sep-19 to Feb-20,65+,0
+2527,vila verde,Sep-19 to Feb-20,65+,0
+2528,vila viçosa,Sep-19 to Feb-20,65+,0
+2529,vimioso,Sep-19 to Feb-20,65+,0
+2530,vinhais,Sep-19 to Feb-20,65+,0
+2531,viseu,Sep-19 to Feb-20,65+,0
+2532,vizela,Sep-19 to Feb-20,65+,0
+2533,vouzela,Sep-19 to Feb-20,65+,0
+2534,águeda,Sep-19 to Feb-20,65+,0
+2535,évora,Sep-19 to Feb-20,65+,0
+2536,ílhavo,Sep-19 to Feb-20,65+,0
+2537,óbidos,Sep-19 to Feb-20,65+,0
+2538,abrantes,Sep-20 to Jan-21,65+,0
+2539,aguiar da beira,Sep-20 to Jan-21,65+,0
+2540,alandroal,Sep-20 to Jan-21,65+,0
+2541,albergaria-a-velha,Sep-20 to Jan-21,65+,0
+2542,albufeira,Sep-20 to Jan-21,65+,0
+2543,alcanena,Sep-20 to Jan-21,65+,0
+2544,alcobaça,Sep-20 to Jan-21,65+,0
+2545,alcochete,Sep-20 to Jan-21,65+,0
+2546,alcoutim,Sep-20 to Jan-21,65+,0
+2547,alcácer do sal,Sep-20 to Jan-21,65+,0
+2548,alenquer,Sep-20 to Jan-21,65+,0
+2549,alentejo,Sep-20 to Jan-21,65+,0
+2550,alfândega da fé,Sep-20 to Jan-21,65+,0
+2551,alijó,Sep-20 to Jan-21,65+,0
+2552,aljezur,Sep-20 to Jan-21,65+,0
+2553,aljustrel,Sep-20 to Jan-21,65+,0
+2554,almada,Sep-20 to Jan-21,65+,0
+2555,almeida,Sep-20 to Jan-21,65+,0
+2556,almeirim,Sep-20 to Jan-21,65+,0
+2557,almodôvar,Sep-20 to Jan-21,65+,0
+2558,alpiarça,Sep-20 to Jan-21,65+,0
+2559,alter do chão,Sep-20 to Jan-21,65+,0
+2560,alvaiázere,Sep-20 to Jan-21,65+,0
+2561,alvito,Sep-20 to Jan-21,65+,0
+2562,amadora,Sep-20 to Jan-21,65+,0
+2563,amarante,Sep-20 to Jan-21,65+,0
+2564,amares,Sep-20 to Jan-21,65+,0
+2565,anadia,Sep-20 to Jan-21,65+,0
+2566,ansião,Sep-20 to Jan-21,65+,0
+2567,arcos de valdevez,Sep-20 to Jan-21,65+,0
+2568,arganil,Sep-20 to Jan-21,65+,0
+2569,armamar,Sep-20 to Jan-21,65+,0
+2570,arouca,Sep-20 to Jan-21,65+,0
+2571,arraiolos,Sep-20 to Jan-21,65+,0
+2572,arronches,Sep-20 to Jan-21,65+,0
+2573,arruda dos vinhos,Sep-20 to Jan-21,65+,0
+2574,aveiro,Sep-20 to Jan-21,65+,0
+2575,avis,Sep-20 to Jan-21,65+,0
+2576,azambuja,Sep-20 to Jan-21,65+,0
+2577,baião,Sep-20 to Jan-21,65+,0
+2578,barcelos,Sep-20 to Jan-21,65+,0
+2579,barrancos,Sep-20 to Jan-21,65+,0
+2580,barreiro,Sep-20 to Jan-21,65+,0
+2581,batalha,Sep-20 to Jan-21,65+,0
+2582,beja,Sep-20 to Jan-21,65+,0
+2583,belmonte,Sep-20 to Jan-21,65+,0
+2584,benavente,Sep-20 to Jan-21,65+,0
+2585,bombarral,Sep-20 to Jan-21,65+,0
+2586,borba,Sep-20 to Jan-21,65+,0
+2587,boticas,Sep-20 to Jan-21,65+,0
+2588,braga,Sep-20 to Jan-21,65+,0
+2589,bragança,Sep-20 to Jan-21,65+,0
+2590,cabeceiras de basto,Sep-20 to Jan-21,65+,0
+2591,cadaval,Sep-20 to Jan-21,65+,0
+2592,caldas da rainha,Sep-20 to Jan-21,65+,0
+2593,caminha,Sep-20 to Jan-21,65+,0
+2594,campo maior,Sep-20 to Jan-21,65+,0
+2595,cantanhede,Sep-20 to Jan-21,65+,0
+2596,carrazeda de ansiães,Sep-20 to Jan-21,65+,0
+2597,carregal do sal,Sep-20 to Jan-21,65+,0
+2598,cartaxo,Sep-20 to Jan-21,65+,0
+2599,cascais,Sep-20 to Jan-21,65+,0
+2600,castanheira de pera,Sep-20 to Jan-21,65+,0
+2601,castelo branco,Sep-20 to Jan-21,65+,0
+2602,castelo de paiva,Sep-20 to Jan-21,65+,0
+2603,castelo de vide,Sep-20 to Jan-21,65+,0
+2604,castro daire,Sep-20 to Jan-21,65+,0
+2605,castro marim,Sep-20 to Jan-21,65+,0
+2606,castro verde,Sep-20 to Jan-21,65+,0
+2607,celorico da beira,Sep-20 to Jan-21,65+,0
+2608,celorico de basto,Sep-20 to Jan-21,65+,0
+2609,centro,Sep-20 to Jan-21,65+,0
+2610,chamusca,Sep-20 to Jan-21,65+,0
+2611,chaves,Sep-20 to Jan-21,65+,0
+2612,cinfães,Sep-20 to Jan-21,65+,0
+2613,coimbra,Sep-20 to Jan-21,65+,0
+2614,condeixa-a-nova,Sep-20 to Jan-21,65+,0
+2615,constância,Sep-20 to Jan-21,65+,0
+2616,coruche,Sep-20 to Jan-21,65+,0
+2617,covilhã,Sep-20 to Jan-21,65+,0
+2618,crato,Sep-20 to Jan-21,65+,0
+2619,cuba,Sep-20 to Jan-21,65+,0
+2620,elvas,Sep-20 to Jan-21,65+,0
+2621,entroncamento,Sep-20 to Jan-21,65+,0
+2622,espinho,Sep-20 to Jan-21,65+,0
+2623,esposende,Sep-20 to Jan-21,65+,0
+2624,estarreja,Sep-20 to Jan-21,65+,0
+2625,estremoz,Sep-20 to Jan-21,65+,0
+2626,fafe,Sep-20 to Jan-21,65+,0
+2627,faro,Sep-20 to Jan-21,65+,0
+2628,felgueiras,Sep-20 to Jan-21,65+,0
+2629,ferreira do alentejo,Sep-20 to Jan-21,65+,0
+2630,ferreira do zêzere,Sep-20 to Jan-21,65+,0
+2631,figueira da foz,Sep-20 to Jan-21,65+,0
+2632,figueira de castelo rodrigo,Sep-20 to Jan-21,65+,0
+2633,figueiró dos vinhos,Sep-20 to Jan-21,65+,0
+2634,fornos de algodres,Sep-20 to Jan-21,65+,0
+2635,freixo espada à cinta,Sep-20 to Jan-21,65+,0
+2636,fronteira,Sep-20 to Jan-21,65+,0
+2637,fundão,Sep-20 to Jan-21,65+,0
+2638,gavião,Sep-20 to Jan-21,65+,0
+2639,golegã,Sep-20 to Jan-21,65+,0
+2640,gondomar,Sep-20 to Jan-21,65+,0
+2641,gouveia,Sep-20 to Jan-21,65+,0
+2642,grândola,Sep-20 to Jan-21,65+,0
+2643,guarda,Sep-20 to Jan-21,65+,0
+2644,guimarães,Sep-20 to Jan-21,65+,0
+2645,góis,Sep-20 to Jan-21,65+,0
+2646,idanha-a-nova,Sep-20 to Jan-21,65+,0
+2647,lagoa,Sep-20 to Jan-21,65+,0
+2648,lagos,Sep-20 to Jan-21,65+,0
+2649,lamego,Sep-20 to Jan-21,65+,0
+2650,leiria,Sep-20 to Jan-21,65+,0
+2651,lisboa,Sep-20 to Jan-21,65+,0
+2652,lisboa vt,Sep-20 to Jan-21,65+,0
+2653,loulé,Sep-20 to Jan-21,65+,0
+2654,loures,Sep-20 to Jan-21,65+,0
+2655,lourinhã,Sep-20 to Jan-21,65+,0
+2656,lousada,Sep-20 to Jan-21,65+,0
+2657,lousã,Sep-20 to Jan-21,65+,0
+2658,macedo de cavaleiros,Sep-20 to Jan-21,65+,0
+2659,mafra,Sep-20 to Jan-21,65+,0
+2660,maia,Sep-20 to Jan-21,65+,0
+2661,mangualde,Sep-20 to Jan-21,65+,0
+2662,manteigas,Sep-20 to Jan-21,65+,0
+2663,marco de canaveses,Sep-20 to Jan-21,65+,0
+2664,marinha grande,Sep-20 to Jan-21,65+,0
+2665,marvão,Sep-20 to Jan-21,65+,0
+2666,matosinhos,Sep-20 to Jan-21,65+,0
+2667,mação,Sep-20 to Jan-21,65+,0
+2668,mealhada,Sep-20 to Jan-21,65+,0
+2669,meda,Sep-20 to Jan-21,65+,0
+2670,melgaço,Sep-20 to Jan-21,65+,0
+2671,mesão frio,Sep-20 to Jan-21,65+,0
+2672,mira,Sep-20 to Jan-21,65+,0
+2673,miranda do corvo,Sep-20 to Jan-21,65+,0
+2674,miranda do douro,Sep-20 to Jan-21,65+,0
+2675,mirandela,Sep-20 to Jan-21,65+,0
+2676,mogadouro,Sep-20 to Jan-21,65+,0
+2677,moimenta da beira,Sep-20 to Jan-21,65+,0
+2678,moita,Sep-20 to Jan-21,65+,0
+2679,monchique,Sep-20 to Jan-21,65+,0
+2680,mondim de basto,Sep-20 to Jan-21,65+,0
+2681,monforte,Sep-20 to Jan-21,65+,0
+2682,montalegre,Sep-20 to Jan-21,65+,0
+2683,montemor-o-novo,Sep-20 to Jan-21,65+,0
+2684,montemor-o-velho,Sep-20 to Jan-21,65+,0
+2685,montijo,Sep-20 to Jan-21,65+,0
+2686,monção,Sep-20 to Jan-21,65+,0
+2687,mora,Sep-20 to Jan-21,65+,0
+2688,mortágua,Sep-20 to Jan-21,65+,0
+2689,moura,Sep-20 to Jan-21,65+,0
+2690,mourão,Sep-20 to Jan-21,65+,0
+2691,murtosa,Sep-20 to Jan-21,65+,0
+2692,murça,Sep-20 to Jan-21,65+,0
+2693,mértola,Sep-20 to Jan-21,65+,0
+2694,nazaré,Sep-20 to Jan-21,65+,0
+2695,nelas,Sep-20 to Jan-21,65+,0
+2696,nisa,Sep-20 to Jan-21,65+,0
+2697,norte,Sep-20 to Jan-21,65+,0
+2698,odemira,Sep-20 to Jan-21,65+,0
+2699,odivelas,Sep-20 to Jan-21,65+,0
+2700,oeiras,Sep-20 to Jan-21,65+,0
+2701,oleiros,Sep-20 to Jan-21,65+,0
+2702,olhão,Sep-20 to Jan-21,65+,0
+2703,oliveira de azeméis,Sep-20 to Jan-21,65+,0
+2704,oliveira de frades,Sep-20 to Jan-21,65+,0
+2705,oliveira do bairro,Sep-20 to Jan-21,65+,0
+2706,oliveira do hospital,Sep-20 to Jan-21,65+,0
+2707,ourique,Sep-20 to Jan-21,65+,0
+2708,ourém,Sep-20 to Jan-21,65+,0
+2709,ovar,Sep-20 to Jan-21,65+,0
+2710,palmela,Sep-20 to Jan-21,65+,0
+2711,pampilhosa da serra,Sep-20 to Jan-21,65+,0
+2712,paredes,Sep-20 to Jan-21,65+,0
+2713,paredes de coura,Sep-20 to Jan-21,65+,0
+2714,paços de ferreira,Sep-20 to Jan-21,65+,0
+2715,pedrógão grande,Sep-20 to Jan-21,65+,0
+2716,penacova,Sep-20 to Jan-21,65+,0
+2717,penafiel,Sep-20 to Jan-21,65+,0
+2718,penalva do castelo,Sep-20 to Jan-21,65+,0
+2719,penamacor,Sep-20 to Jan-21,65+,0
+2720,penedono,Sep-20 to Jan-21,65+,0
+2721,penela,Sep-20 to Jan-21,65+,0
+2722,peniche,Sep-20 to Jan-21,65+,0
+2723,peso da régua,Sep-20 to Jan-21,65+,0
+2724,pinhel,Sep-20 to Jan-21,65+,0
+2725,pombal,Sep-20 to Jan-21,65+,0
+2726,ponte da barca,Sep-20 to Jan-21,65+,0
+2727,ponte de lima,Sep-20 to Jan-21,65+,0
+2728,ponte de sôr,Sep-20 to Jan-21,65+,0
+2729,portalegre,Sep-20 to Jan-21,65+,0
+2730,portel,Sep-20 to Jan-21,65+,0
+2731,portimão,Sep-20 to Jan-21,65+,0
+2732,porto,Sep-20 to Jan-21,65+,0
+2733,porto de mós,Sep-20 to Jan-21,65+,0
+2734,proença-a-nova,Sep-20 to Jan-21,65+,0
+2735,póvoa de lanhoso,Sep-20 to Jan-21,65+,0
+2736,póvoa de varzim,Sep-20 to Jan-21,65+,0
+2737,redondo,Sep-20 to Jan-21,65+,0
+2738,reguengos de monsaraz,Sep-20 to Jan-21,65+,0
+2739,resende,Sep-20 to Jan-21,65+,0
+2740,ribeira de pena,Sep-20 to Jan-21,65+,0
+2741,rio maior,Sep-20 to Jan-21,65+,0
+2742,sabrosa,Sep-20 to Jan-21,65+,0
+2743,sabugal,Sep-20 to Jan-21,65+,0
+2744,salvaterra de magos,Sep-20 to Jan-21,65+,0
+2745,santa comba dão,Sep-20 to Jan-21,65+,0
+2746,santa maria da feira,Sep-20 to Jan-21,65+,0
+2747,santa marta de penaguião,Sep-20 to Jan-21,65+,0
+2748,santarém,Sep-20 to Jan-21,65+,0
+2749,santiago do cacém,Sep-20 to Jan-21,65+,0
+2750,santo tirso,Sep-20 to Jan-21,65+,0
+2751,sardoal,Sep-20 to Jan-21,65+,0
+2752,seia,Sep-20 to Jan-21,65+,0
+2753,seixal,Sep-20 to Jan-21,65+,0
+2754,sernancelhe,Sep-20 to Jan-21,65+,0
+2755,serpa,Sep-20 to Jan-21,65+,0
+2756,sertã,Sep-20 to Jan-21,65+,0
+2757,sesimbra,Sep-20 to Jan-21,65+,0
+2758,setúbal,Sep-20 to Jan-21,65+,0
+2759,sever do vouga,Sep-20 to Jan-21,65+,0
+2760,silves,Sep-20 to Jan-21,65+,0
+2761,sines,Sep-20 to Jan-21,65+,0
+2762,sintra,Sep-20 to Jan-21,65+,0
+2763,sobral monte agraço,Sep-20 to Jan-21,65+,0
+2764,soure,Sep-20 to Jan-21,65+,0
+2765,sousel,Sep-20 to Jan-21,65+,0
+2766,sátão,Sep-20 to Jan-21,65+,0
+2767,são brás de alportel,Sep-20 to Jan-21,65+,0
+2768,são joão da madeira,Sep-20 to Jan-21,65+,0
+2769,são joão da pesqueira,Sep-20 to Jan-21,65+,0
+2770,são pedro do sul,Sep-20 to Jan-21,65+,0
+2771,tabuaço,Sep-20 to Jan-21,65+,0
+2772,tarouca,Sep-20 to Jan-21,65+,0
+2773,tavira,Sep-20 to Jan-21,65+,0
+2774,terras de bouro,Sep-20 to Jan-21,65+,0
+2775,tomar,Sep-20 to Jan-21,65+,0
+2776,tondela,Sep-20 to Jan-21,65+,0
+2777,torre de moncorvo,Sep-20 to Jan-21,65+,0
+2778,torres novas,Sep-20 to Jan-21,65+,0
+2779,torres vedras,Sep-20 to Jan-21,65+,0
+2780,trancoso,Sep-20 to Jan-21,65+,0
+2781,trofa,Sep-20 to Jan-21,65+,0
+2782,tábua,Sep-20 to Jan-21,65+,0
+2783,vagos,Sep-20 to Jan-21,65+,0
+2784,vale de cambra,Sep-20 to Jan-21,65+,0
+2785,valença,Sep-20 to Jan-21,65+,0
+2786,valongo,Sep-20 to Jan-21,65+,0
+2787,valpaços,Sep-20 to Jan-21,65+,0
+2788,vendas novas,Sep-20 to Jan-21,65+,0
+2789,viana do alentejo,Sep-20 to Jan-21,65+,0
+2790,viana do castelo,Sep-20 to Jan-21,65+,0
+2791,vidigueira,Sep-20 to Jan-21,65+,0
+2792,vieira do minho,Sep-20 to Jan-21,65+,0
+2793,vila de rei,Sep-20 to Jan-21,65+,0
+2794,vila do bispo,Sep-20 to Jan-21,65+,0
+2795,vila do conde,Sep-20 to Jan-21,65+,0
+2796,vila flor,Sep-20 to Jan-21,65+,0
+2797,vila franca de xira,Sep-20 to Jan-21,65+,0
+2798,vila nova da barquinha,Sep-20 to Jan-21,65+,0
+2799,vila nova de cerveira,Sep-20 to Jan-21,65+,0
+2800,vila nova de famalicão,Sep-20 to Jan-21,65+,0
+2801,vila nova de foz côa,Sep-20 to Jan-21,65+,0
+2802,vila nova de gaia,Sep-20 to Jan-21,65+,0
+2803,vila nova de paiva,Sep-20 to Jan-21,65+,0
+2804,vila nova de poiares,Sep-20 to Jan-21,65+,0
+2805,vila pouca de aguiar,Sep-20 to Jan-21,65+,0
+2806,vila real,Sep-20 to Jan-21,65+,0
+2807,vila real de santo antónio,Sep-20 to Jan-21,65+,0
+2808,vila velha de rodão,Sep-20 to Jan-21,65+,0
+2809,vila verde,Sep-20 to Jan-21,65+,0
+2810,vila viçosa,Sep-20 to Jan-21,65+,0
+2811,vimioso,Sep-20 to Jan-21,65+,0
+2812,vinhais,Sep-20 to Jan-21,65+,0
+2813,viseu,Sep-20 to Jan-21,65+,0
+2814,vizela,Sep-20 to Jan-21,65+,0
+2815,vouzela,Sep-20 to Jan-21,65+,0
+2816,águeda,Sep-20 to Jan-21,65+,0
+2817,évora,Sep-20 to Jan-21,65+,0
+2818,ílhavo,Sep-20 to Jan-21,65+,0
+2819,óbidos,Sep-20 to Jan-21,65+,0
+2820,abrantes,Sep-19 to Feb-20,45-54,145
+2821,aguiar da beira,Sep-19 to Feb-20,45-54,10
+2822,alandroal,Sep-19 to Feb-20,45-54,18
+2823,albergaria-a-velha,Sep-19 to Feb-20,45-54,51
+2824,albufeira,Sep-19 to Feb-20,45-54,319
+2825,alcanena,Sep-19 to Feb-20,45-54,21
+2826,alcobaça,Sep-19 to Feb-20,45-54,87
+2827,alcochete,Sep-19 to Feb-20,45-54,46
+2828,alcoutim,Sep-19 to Feb-20,45-54,2
+2829,alcácer do sal,Sep-19 to Feb-20,45-54,22
+2830,alenquer,Sep-19 to Feb-20,45-54,119
+2831,alentejo,Sep-19 to Feb-20,45-54,1545
+2832,alfândega da fé,Sep-19 to Feb-20,45-54,18
+2833,alijó,Sep-19 to Feb-20,45-54,52
+2834,aljezur,Sep-19 to Feb-20,45-54,17
+2835,aljustrel,Sep-19 to Feb-20,45-54,24
+2836,almada,Sep-19 to Feb-20,45-54,555
+2837,almeida,Sep-19 to Feb-20,45-54,9
+2838,almeirim,Sep-19 to Feb-20,45-54,55
+2839,almodôvar,Sep-19 to Feb-20,45-54,17
+2840,alpiarça,Sep-19 to Feb-20,45-54,13
+2841,alter do chão,Sep-19 to Feb-20,45-54,12
+2842,alvaiázere,Sep-19 to Feb-20,45-54,10
+2843,alvito,Sep-19 to Feb-20,45-54,6
+2844,amadora,Sep-19 to Feb-20,45-54,421
+2845,amarante,Sep-19 to Feb-20,45-54,195
+2846,amares,Sep-19 to Feb-20,45-54,49
+2847,anadia,Sep-19 to Feb-20,45-54,43
+2848,ansião,Sep-19 to Feb-20,45-54,20
+2849,arcos de valdevez,Sep-19 to Feb-20,45-54,40
+2850,arganil,Sep-19 to Feb-20,45-54,30
+2851,armamar,Sep-19 to Feb-20,45-54,22
+2852,arouca,Sep-19 to Feb-20,45-54,41
+2853,arraiolos,Sep-19 to Feb-20,45-54,12
+2854,arronches,Sep-19 to Feb-20,45-54,7
+2855,arruda dos vinhos,Sep-19 to Feb-20,45-54,29
+2856,aveiro,Sep-19 to Feb-20,45-54,248
+2857,avis,Sep-19 to Feb-20,45-54,11
+2858,azambuja,Sep-19 to Feb-20,45-54,47
+2859,baião,Sep-19 to Feb-20,45-54,103
+2860,barcelos,Sep-19 to Feb-20,45-54,197
+2861,barrancos,Sep-19 to Feb-20,45-54,11
+2862,barreiro,Sep-19 to Feb-20,45-54,306
+2863,batalha,Sep-19 to Feb-20,45-54,24
+2864,beja,Sep-19 to Feb-20,45-54,113
+2865,belmonte,Sep-19 to Feb-20,45-54,20
+2866,benavente,Sep-19 to Feb-20,45-54,94
+2867,bombarral,Sep-19 to Feb-20,45-54,21
+2868,borba,Sep-19 to Feb-20,45-54,21
+2869,boticas,Sep-19 to Feb-20,45-54,12
+2870,braga,Sep-19 to Feb-20,45-54,680
+2871,bragança,Sep-19 to Feb-20,45-54,91
+2872,cabeceiras de basto,Sep-19 to Feb-20,45-54,72
+2873,cadaval,Sep-19 to Feb-20,45-54,23
+2874,caldas da rainha,Sep-19 to Feb-20,45-54,112
+2875,caminha,Sep-19 to Feb-20,45-54,31
+2876,campo maior,Sep-19 to Feb-20,45-54,40
+2877,cantanhede,Sep-19 to Feb-20,45-54,67
+2878,carrazeda de ansiães,Sep-19 to Feb-20,45-54,21
+2879,carregal do sal,Sep-19 to Feb-20,45-54,20
+2880,cartaxo,Sep-19 to Feb-20,45-54,52
+2881,cascais,Sep-19 to Feb-20,45-54,619
+2882,castanheira de pera,Sep-19 to Feb-20,45-54,6
+2883,castelo branco,Sep-19 to Feb-20,45-54,137
+2884,castelo de paiva,Sep-19 to Feb-20,45-54,57
+2885,castelo de vide,Sep-19 to Feb-20,45-54,5
+2886,castro daire,Sep-19 to Feb-20,45-54,51
+2887,castro marim,Sep-19 to Feb-20,45-54,15
+2888,castro verde,Sep-19 to Feb-20,45-54,17
+2889,celorico da beira,Sep-19 to Feb-20,45-54,18
+2890,celorico de basto,Sep-19 to Feb-20,45-54,66
+2891,centro,Sep-19 to Feb-20,45-54,4171
+2892,chamusca,Sep-19 to Feb-20,45-54,18
+2893,chaves,Sep-19 to Feb-20,45-54,131
+2894,cinfães,Sep-19 to Feb-20,45-54,83
+2895,coimbra,Sep-19 to Feb-20,45-54,394
+2896,condeixa-a-nova,Sep-19 to Feb-20,45-54,36
+2897,constância,Sep-19 to Feb-20,45-54,12
+2898,coruche,Sep-19 to Feb-20,45-54,54
+2899,covilhã,Sep-19 to Feb-20,45-54,116
+2900,crato,Sep-19 to Feb-20,45-54,10
+2901,cuba,Sep-19 to Feb-20,45-54,17
+2902,elvas,Sep-19 to Feb-20,45-54,104
+2903,entroncamento,Sep-19 to Feb-20,45-54,48
+2904,espinho,Sep-19 to Feb-20,45-54,142
+2905,esposende,Sep-19 to Feb-20,45-54,61
+2906,estarreja,Sep-19 to Feb-20,45-54,68
+2907,estremoz,Sep-19 to Feb-20,45-54,30
+2908,fafe,Sep-19 to Feb-20,45-54,161
+2909,faro,Sep-19 to Feb-20,45-54,144
+2910,felgueiras,Sep-19 to Feb-20,45-54,159
+2911,ferreira do alentejo,Sep-19 to Feb-20,45-54,23
+2912,ferreira do zêzere,Sep-19 to Feb-20,45-54,12
+2913,figueira da foz,Sep-19 to Feb-20,45-54,217
+2914,figueira de castelo rodrigo,Sep-19 to Feb-20,45-54,16
+2915,figueiró dos vinhos,Sep-19 to Feb-20,45-54,17
+2916,fornos de algodres,Sep-19 to Feb-20,45-54,12
+2917,freixo espada à cinta,Sep-19 to Feb-20,45-54,20
+2918,fronteira,Sep-19 to Feb-20,45-54,11
+2919,fundão,Sep-19 to Feb-20,45-54,65
+2920,gavião,Sep-19 to Feb-20,45-54,8
+2921,golegã,Sep-19 to Feb-20,45-54,8
+2922,gondomar,Sep-19 to Feb-20,45-54,629
+2923,gouveia,Sep-19 to Feb-20,45-54,40
+2924,grândola,Sep-19 to Feb-20,45-54,31
+2925,guarda,Sep-19 to Feb-20,45-54,123
+2926,guimarães,Sep-19 to Feb-20,45-54,525
+2927,góis,Sep-19 to Feb-20,45-54,11
+2928,idanha-a-nova,Sep-19 to Feb-20,45-54,31
+2929,lagoa,Sep-19 to Feb-20,45-54,106
+2930,lagos,Sep-19 to Feb-20,45-54,138
+2931,lamego,Sep-19 to Feb-20,45-54,184
+2932,leiria,Sep-19 to Feb-20,45-54,251
+2933,lisboa,Sep-19 to Feb-20,45-54,1706
+2934,lisboa vt,Sep-19 to Feb-20,45-54,9925
+2935,loulé,Sep-19 to Feb-20,45-54,252
+2936,loures,Sep-19 to Feb-20,45-54,533
+2937,lourinhã,Sep-19 to Feb-20,45-54,61
+2938,lousada,Sep-19 to Feb-20,45-54,115
+2939,lousã,Sep-19 to Feb-20,45-54,50
+2940,macedo de cavaleiros,Sep-19 to Feb-20,45-54,57
+2941,mafra,Sep-19 to Feb-20,45-54,186
+2942,maia,Sep-19 to Feb-20,45-54,410
+2943,mangualde,Sep-19 to Feb-20,45-54,54
+2944,manteigas,Sep-19 to Feb-20,45-54,6
+2945,marco de canaveses,Sep-19 to Feb-20,45-54,239
+2946,marinha grande,Sep-19 to Feb-20,45-54,126
+2947,marvão,Sep-19 to Feb-20,45-54,6
+2948,matosinhos,Sep-19 to Feb-20,45-54,659
+2949,mação,Sep-19 to Feb-20,45-54,16
+2950,mealhada,Sep-19 to Feb-20,45-54,39
+2951,meda,Sep-19 to Feb-20,45-54,5
+2952,melgaço,Sep-19 to Feb-20,45-54,9
+2953,mesão frio,Sep-19 to Feb-20,45-54,27
+2954,mira,Sep-19 to Feb-20,45-54,35
+2955,miranda do corvo,Sep-19 to Feb-20,45-54,23
+2956,miranda do douro,Sep-19 to Feb-20,45-54,16
+2957,mirandela,Sep-19 to Feb-20,45-54,90
+2958,mogadouro,Sep-19 to Feb-20,45-54,30
+2959,moimenta da beira,Sep-19 to Feb-20,45-54,65
+2960,moita,Sep-19 to Feb-20,45-54,256
+2961,monchique,Sep-19 to Feb-20,45-54,15
+2962,mondim de basto,Sep-19 to Feb-20,45-54,29
+2963,monforte,Sep-19 to Feb-20,45-54,17
+2964,montalegre,Sep-19 to Feb-20,45-54,26
+2965,montemor-o-novo,Sep-19 to Feb-20,45-54,29
+2966,montemor-o-velho,Sep-19 to Feb-20,45-54,59
+2967,montijo,Sep-19 to Feb-20,45-54,211
+2968,monção,Sep-19 to Feb-20,45-54,31
+2969,mora,Sep-19 to Feb-20,45-54,6
+2970,mortágua,Sep-19 to Feb-20,45-54,10
+2971,moura,Sep-19 to Feb-20,45-54,90
+2972,mourão,Sep-19 to Feb-20,45-54,18
+2973,murtosa,Sep-19 to Feb-20,45-54,21
+2974,murça,Sep-19 to Feb-20,45-54,35
+2975,mértola,Sep-19 to Feb-20,45-54,21
+2976,nazaré,Sep-19 to Feb-20,45-54,32
+2977,nelas,Sep-19 to Feb-20,45-54,37
+2978,nisa,Sep-19 to Feb-20,45-54,15
+2979,norte,Sep-19 to Feb-20,45-54,12679
+2980,odemira,Sep-19 to Feb-20,45-54,109
+2981,odivelas,Sep-19 to Feb-20,45-54,337
+2982,oeiras,Sep-19 to Feb-20,45-54,420
+2983,oleiros,Sep-19 to Feb-20,45-54,5
+2984,olhão,Sep-19 to Feb-20,45-54,102
+2985,oliveira de azeméis,Sep-19 to Feb-20,45-54,130
+2986,oliveira de frades,Sep-19 to Feb-20,45-54,33
+2987,oliveira do bairro,Sep-19 to Feb-20,45-54,47
+2988,oliveira do hospital,Sep-19 to Feb-20,45-54,59
+2989,ourique,Sep-19 to Feb-20,45-54,16
+2990,ourém,Sep-19 to Feb-20,45-54,54
+2991,ovar,Sep-19 to Feb-20,45-54,170
+2992,palmela,Sep-19 to Feb-20,45-54,161
+2993,pampilhosa da serra,Sep-19 to Feb-20,45-54,10
+2994,paredes,Sep-19 to Feb-20,45-54,298
+2995,paredes de coura,Sep-19 to Feb-20,45-54,17
+2996,paços de ferreira,Sep-19 to Feb-20,45-54,150
+2997,pedrógão grande,Sep-19 to Feb-20,45-54,10
+2998,penacova,Sep-19 to Feb-20,45-54,17
+2999,penafiel,Sep-19 to Feb-20,45-54,233
+3000,penalva do castelo,Sep-19 to Feb-20,45-54,21
+3001,penamacor,Sep-19 to Feb-20,45-54,11
+3002,penedono,Sep-19 to Feb-20,45-54,8
+3003,penela,Sep-19 to Feb-20,45-54,6
+3004,peniche,Sep-19 to Feb-20,45-54,83
+3005,peso da régua,Sep-19 to Feb-20,45-54,105
+3006,pinhel,Sep-19 to Feb-20,45-54,13
+3007,pombal,Sep-19 to Feb-20,45-54,92
+3008,ponte da barca,Sep-19 to Feb-20,45-54,24
+3009,ponte de lima,Sep-19 to Feb-20,45-54,51
+3010,ponte de sôr,Sep-19 to Feb-20,45-54,43
+3011,portalegre,Sep-19 to Feb-20,45-54,58
+3012,portel,Sep-19 to Feb-20,45-54,17
+3013,portimão,Sep-19 to Feb-20,45-54,313
+3014,porto,Sep-19 to Feb-20,45-54,1061
+3015,porto de mós,Sep-19 to Feb-20,45-54,35
+3016,proença-a-nova,Sep-19 to Feb-20,45-54,14
+3017,póvoa de lanhoso,Sep-19 to Feb-20,45-54,71
+3018,póvoa de varzim,Sep-19 to Feb-20,45-54,217
+3019,redondo,Sep-19 to Feb-20,45-54,18
+3020,reguengos de monsaraz,Sep-19 to Feb-20,45-54,36
+3021,resende,Sep-19 to Feb-20,45-54,54
+3022,ribeira de pena,Sep-19 to Feb-20,45-54,27
+3023,rio maior,Sep-19 to Feb-20,45-54,38
+3024,sabrosa,Sep-19 to Feb-20,45-54,24
+3025,sabugal,Sep-19 to Feb-20,45-54,24
+3026,salvaterra de magos,Sep-19 to Feb-20,45-54,80
+3027,santa comba dão,Sep-19 to Feb-20,45-54,26
+3028,santa maria da feira,Sep-19 to Feb-20,45-54,439
+3029,santa marta de penaguião,Sep-19 to Feb-20,45-54,45
+3030,santarém,Sep-19 to Feb-20,45-54,134
+3031,santiago do cacém,Sep-19 to Feb-20,45-54,78
+3032,santo tirso,Sep-19 to Feb-20,45-54,234
+3033,sardoal,Sep-19 to Feb-20,45-54,14
+3034,seia,Sep-19 to Feb-20,45-54,54
+3035,seixal,Sep-19 to Feb-20,45-54,447
+3036,sernancelhe,Sep-19 to Feb-20,45-54,15
+3037,serpa,Sep-19 to Feb-20,45-54,61
+3038,sertã,Sep-19 to Feb-20,45-54,42
+3039,sesimbra,Sep-19 to Feb-20,45-54,123
+3040,setúbal,Sep-19 to Feb-20,45-54,392
+3041,sever do vouga,Sep-19 to Feb-20,45-54,19
+3042,silves,Sep-19 to Feb-20,45-54,140
+3043,sines,Sep-19 to Feb-20,45-54,60
+3044,sintra,Sep-19 to Feb-20,45-54,916
+3045,sobral monte agraço,Sep-19 to Feb-20,45-54,21
+3046,soure,Sep-19 to Feb-20,45-54,36
+3047,sousel,Sep-19 to Feb-20,45-54,16
+3048,sátão,Sep-19 to Feb-20,45-54,37
+3049,são brás de alportel,Sep-19 to Feb-20,45-54,23
+3050,são joão da madeira,Sep-19 to Feb-20,45-54,74
+3051,são joão da pesqueira,Sep-19 to Feb-20,45-54,20
+3052,são pedro do sul,Sep-19 to Feb-20,45-54,47
+3053,tabuaço,Sep-19 to Feb-20,45-54,33
+3054,tarouca,Sep-19 to Feb-20,45-54,43
+3055,tavira,Sep-19 to Feb-20,45-54,63
+3056,terras de bouro,Sep-19 to Feb-20,45-54,28
+3057,tomar,Sep-19 to Feb-20,45-54,81
+3058,tondela,Sep-19 to Feb-20,45-54,49
+3059,torre de moncorvo,Sep-19 to Feb-20,45-54,28
+3060,torres novas,Sep-19 to Feb-20,45-54,70
+3061,torres vedras,Sep-19 to Feb-20,45-54,200
+3062,trancoso,Sep-19 to Feb-20,45-54,17
+3063,trofa,Sep-19 to Feb-20,45-54,103
+3064,tábua,Sep-19 to Feb-20,45-54,34
+3065,vagos,Sep-19 to Feb-20,45-54,45
+3066,vale de cambra,Sep-19 to Feb-20,45-54,39
+3067,valença,Sep-19 to Feb-20,45-54,37
+3068,valongo,Sep-19 to Feb-20,45-54,397
+3069,valpaços,Sep-19 to Feb-20,45-54,46
+3070,vendas novas,Sep-19 to Feb-20,45-54,17
+3071,viana do alentejo,Sep-19 to Feb-20,45-54,19
+3072,viana do castelo,Sep-19 to Feb-20,45-54,165
+3073,vidigueira,Sep-19 to Feb-20,45-54,22
+3074,vieira do minho,Sep-19 to Feb-20,45-54,59
+3075,vila de rei,Sep-19 to Feb-20,45-54,5
+3076,vila do bispo,Sep-19 to Feb-20,45-54,20
+3077,vila do conde,Sep-19 to Feb-20,45-54,259
+3078,vila flor,Sep-19 to Feb-20,45-54,28
+3079,vila franca de xira,Sep-19 to Feb-20,45-54,332
+3080,vila nova da barquinha,Sep-19 to Feb-20,45-54,13
+3081,vila nova de cerveira,Sep-19 to Feb-20,45-54,20
+3082,vila nova de famalicão,Sep-19 to Feb-20,45-54,339
+3083,vila nova de foz côa,Sep-19 to Feb-20,45-54,19
+3084,vila nova de gaia,Sep-19 to Feb-20,45-54,1520
+3085,vila nova de paiva,Sep-19 to Feb-20,45-54,20
+3086,vila nova de poiares,Sep-19 to Feb-20,45-54,15
+3087,vila pouca de aguiar,Sep-19 to Feb-20,45-54,42
+3088,vila real,Sep-19 to Feb-20,45-54,248
+3089,vila real de santo antónio,Sep-19 to Feb-20,45-54,70
+3090,vila velha de rodão,Sep-19 to Feb-20,45-54,5
+3091,vila verde,Sep-19 to Feb-20,45-54,114
+3092,vila viçosa,Sep-19 to Feb-20,45-54,24
+3093,vimioso,Sep-19 to Feb-20,45-54,10
+3094,vinhais,Sep-19 to Feb-20,45-54,25
+3095,viseu,Sep-19 to Feb-20,45-54,302
+3096,vizela,Sep-19 to Feb-20,45-54,64
+3097,vouzela,Sep-19 to Feb-20,45-54,28
+3098,águeda,Sep-19 to Feb-20,45-54,87
+3099,évora,Sep-19 to Feb-20,45-54,159
+3100,ílhavo,Sep-19 to Feb-20,45-54,122
+3101,óbidos,Sep-19 to Feb-20,45-54,19
+3102,abrantes,Sep-20 to Jan-21,45-54,149
+3103,aguiar da beira,Sep-20 to Jan-21,45-54,12
+3104,alandroal,Sep-20 to Jan-21,45-54,17
+3105,albergaria-a-velha,Sep-20 to Jan-21,45-54,72
+3106,albufeira,Sep-20 to Jan-21,45-54,571
+3107,alcanena,Sep-20 to Jan-21,45-54,28
+3108,alcobaça,Sep-20 to Jan-21,45-54,130
+3109,alcochete,Sep-20 to Jan-21,45-54,61
+3110,alcoutim,Sep-20 to Jan-21,45-54,4
+3111,alcácer do sal,Sep-20 to Jan-21,45-54,33
+3112,alenquer,Sep-20 to Jan-21,45-54,188
+3113,alentejo,Sep-20 to Jan-21,45-54,1874
+3114,alfândega da fé,Sep-20 to Jan-21,45-54,17
+3115,alijó,Sep-20 to Jan-21,45-54,57
+3116,aljezur,Sep-20 to Jan-21,45-54,21
+3117,aljustrel,Sep-20 to Jan-21,45-54,27
+3118,almada,Sep-20 to Jan-21,45-54,754
+3119,almeida,Sep-20 to Jan-21,45-54,9
+3120,almeirim,Sep-20 to Jan-21,45-54,61
+3121,almodôvar,Sep-20 to Jan-21,45-54,24
+3122,alpiarça,Sep-20 to Jan-21,45-54,14
+3123,alter do chão,Sep-20 to Jan-21,45-54,13
+3124,alvaiázere,Sep-20 to Jan-21,45-54,9
+3125,alvito,Sep-20 to Jan-21,45-54,8
+3126,amadora,Sep-20 to Jan-21,45-54,669
+3127,amarante,Sep-20 to Jan-21,45-54,236
+3128,amares,Sep-20 to Jan-21,45-54,64
+3129,anadia,Sep-20 to Jan-21,45-54,55
+3130,ansião,Sep-20 to Jan-21,45-54,21
+3131,arcos de valdevez,Sep-20 to Jan-21,45-54,54
+3132,arganil,Sep-20 to Jan-21,45-54,33
+3133,armamar,Sep-20 to Jan-21,45-54,23
+3134,arouca,Sep-20 to Jan-21,45-54,51
+3135,arraiolos,Sep-20 to Jan-21,45-54,17
+3136,arronches,Sep-20 to Jan-21,45-54,7
+3137,arruda dos vinhos,Sep-20 to Jan-21,45-54,43
+3138,aveiro,Sep-20 to Jan-21,45-54,286
+3139,avis,Sep-20 to Jan-21,45-54,13
+3140,azambuja,Sep-20 to Jan-21,45-54,64
+3141,baião,Sep-20 to Jan-21,45-54,118
+3142,barcelos,Sep-20 to Jan-21,45-54,255
+3143,barrancos,Sep-20 to Jan-21,45-54,10
+3144,barreiro,Sep-20 to Jan-21,45-54,372
+3145,batalha,Sep-20 to Jan-21,45-54,37
+3146,beja,Sep-20 to Jan-21,45-54,137
+3147,belmonte,Sep-20 to Jan-21,45-54,25
+3148,benavente,Sep-20 to Jan-21,45-54,110
+3149,bombarral,Sep-20 to Jan-21,45-54,39
+3150,borba,Sep-20 to Jan-21,45-54,25
+3151,boticas,Sep-20 to Jan-21,45-54,13
+3152,braga,Sep-20 to Jan-21,45-54,774
+3153,bragança,Sep-20 to Jan-21,45-54,92
+3154,cabeceiras de basto,Sep-20 to Jan-21,45-54,68
+3155,cadaval,Sep-20 to Jan-21,45-54,40
+3156,caldas da rainha,Sep-20 to Jan-21,45-54,183
+3157,caminha,Sep-20 to Jan-21,45-54,40
+3158,campo maior,Sep-20 to Jan-21,45-54,43
+3159,cantanhede,Sep-20 to Jan-21,45-54,87
+3160,carrazeda de ansiães,Sep-20 to Jan-21,45-54,25
+3161,carregal do sal,Sep-20 to Jan-21,45-54,27
+3162,cartaxo,Sep-20 to Jan-21,45-54,63
+3163,cascais,Sep-20 to Jan-21,45-54,877
+3164,castanheira de pera,Sep-20 to Jan-21,45-54,6
+3165,castelo branco,Sep-20 to Jan-21,45-54,156
+3166,castelo de paiva,Sep-20 to Jan-21,45-54,74
+3167,castelo de vide,Sep-20 to Jan-21,45-54,5
+3168,castro daire,Sep-20 to Jan-21,45-54,53
+3169,castro marim,Sep-20 to Jan-21,45-54,26
+3170,castro verde,Sep-20 to Jan-21,45-54,25
+3171,celorico da beira,Sep-20 to Jan-21,45-54,22
+3172,celorico de basto,Sep-20 to Jan-21,45-54,76
+3173,centro,Sep-20 to Jan-21,45-54,4947
+3174,chamusca,Sep-20 to Jan-21,45-54,17
+3175,chaves,Sep-20 to Jan-21,45-54,125
+3176,cinfães,Sep-20 to Jan-21,45-54,108
+3177,coimbra,Sep-20 to Jan-21,45-54,460
+3178,condeixa-a-nova,Sep-20 to Jan-21,45-54,40
+3179,constância,Sep-20 to Jan-21,45-54,14
+3180,coruche,Sep-20 to Jan-21,45-54,61
+3181,covilhã,Sep-20 to Jan-21,45-54,167
+3182,crato,Sep-20 to Jan-21,45-54,12
+3183,cuba,Sep-20 to Jan-21,45-54,19
+3184,elvas,Sep-20 to Jan-21,45-54,116
+3185,entroncamento,Sep-20 to Jan-21,45-54,61
+3186,espinho,Sep-20 to Jan-21,45-54,161
+3187,esposende,Sep-20 to Jan-21,45-54,73
+3188,estarreja,Sep-20 to Jan-21,45-54,81
+3189,estremoz,Sep-20 to Jan-21,45-54,38
+3190,fafe,Sep-20 to Jan-21,45-54,209
+3191,faro,Sep-20 to Jan-21,45-54,273
+3192,felgueiras,Sep-20 to Jan-21,45-54,249
+3193,ferreira do alentejo,Sep-20 to Jan-21,45-54,23
+3194,ferreira do zêzere,Sep-20 to Jan-21,45-54,11
+3195,figueira da foz,Sep-20 to Jan-21,45-54,247
+3196,figueira de castelo rodrigo,Sep-20 to Jan-21,45-54,18
+3197,figueiró dos vinhos,Sep-20 to Jan-21,45-54,12
+3198,fornos de algodres,Sep-20 to Jan-21,45-54,12
+3199,freixo espada à cinta,Sep-20 to Jan-21,45-54,20
+3200,fronteira,Sep-20 to Jan-21,45-54,12
+3201,fundão,Sep-20 to Jan-21,45-54,78
+3202,gavião,Sep-20 to Jan-21,45-54,9
+3203,golegã,Sep-20 to Jan-21,45-54,11
+3204,gondomar,Sep-20 to Jan-21,45-54,829
+3205,gouveia,Sep-20 to Jan-21,45-54,41
+3206,grândola,Sep-20 to Jan-21,45-54,35
+3207,guarda,Sep-20 to Jan-21,45-54,119
+3208,guimarães,Sep-20 to Jan-21,45-54,686
+3209,góis,Sep-20 to Jan-21,45-54,10
+3210,idanha-a-nova,Sep-20 to Jan-21,45-54,35
+3211,lagoa,Sep-20 to Jan-21,45-54,156
+3212,lagos,Sep-20 to Jan-21,45-54,195
+3213,lamego,Sep-20 to Jan-21,45-54,179
+3214,leiria,Sep-20 to Jan-21,45-54,372
+3215,lisboa,Sep-20 to Jan-21,45-54,2300
+3216,lisboa vt,Sep-20 to Jan-21,45-54,14160
+3217,loulé,Sep-20 to Jan-21,45-54,482
+3218,loures,Sep-20 to Jan-21,45-54,871
+3219,lourinhã,Sep-20 to Jan-21,45-54,86
+3220,lousada,Sep-20 to Jan-21,45-54,153
+3221,lousã,Sep-20 to Jan-21,45-54,59
+3222,macedo de cavaleiros,Sep-20 to Jan-21,45-54,48
+3223,mafra,Sep-20 to Jan-21,45-54,263
+3224,maia,Sep-20 to Jan-21,45-54,547
+3225,mangualde,Sep-20 to Jan-21,45-54,69
+3226,manteigas,Sep-20 to Jan-21,45-54,11
+3227,marco de canaveses,Sep-20 to Jan-21,45-54,287
+3228,marinha grande,Sep-20 to Jan-21,45-54,182
+3229,marvão,Sep-20 to Jan-21,45-54,8
+3230,matosinhos,Sep-20 to Jan-21,45-54,781
+3231,mação,Sep-20 to Jan-21,45-54,17
+3232,mealhada,Sep-20 to Jan-21,45-54,46
+3233,meda,Sep-20 to Jan-21,45-54,9
+3234,melgaço,Sep-20 to Jan-21,45-54,11
+3235,mesão frio,Sep-20 to Jan-21,45-54,26
+3236,mira,Sep-20 to Jan-21,45-54,36
+3237,miranda do corvo,Sep-20 to Jan-21,45-54,24
+3238,miranda do douro,Sep-20 to Jan-21,45-54,17
+3239,mirandela,Sep-20 to Jan-21,45-54,82
+3240,mogadouro,Sep-20 to Jan-21,45-54,27
+3241,moimenta da beira,Sep-20 to Jan-21,45-54,65
+3242,moita,Sep-20 to Jan-21,45-54,329
+3243,monchique,Sep-20 to Jan-21,45-54,15
+3244,mondim de basto,Sep-20 to Jan-21,45-54,30
+3245,monforte,Sep-20 to Jan-21,45-54,18
+3246,montalegre,Sep-20 to Jan-21,45-54,23
+3247,montemor-o-novo,Sep-20 to Jan-21,45-54,34
+3248,montemor-o-velho,Sep-20 to Jan-21,45-54,68
+3249,montijo,Sep-20 to Jan-21,45-54,270
+3250,monção,Sep-20 to Jan-21,45-54,45
+3251,mora,Sep-20 to Jan-21,45-54,7
+3252,mortágua,Sep-20 to Jan-21,45-54,13
+3253,moura,Sep-20 to Jan-21,45-54,92
+3254,mourão,Sep-20 to Jan-21,45-54,18
+3255,murtosa,Sep-20 to Jan-21,45-54,23
+3256,murça,Sep-20 to Jan-21,45-54,35
+3257,mértola,Sep-20 to Jan-21,45-54,23
+3258,nazaré,Sep-20 to Jan-21,45-54,52
+3259,nelas,Sep-20 to Jan-21,45-54,46
+3260,nisa,Sep-20 to Jan-21,45-54,18
+3261,norte,Sep-20 to Jan-21,45-54,15384
+3262,odemira,Sep-20 to Jan-21,45-54,163
+3263,odivelas,Sep-20 to Jan-21,45-54,613
+3264,oeiras,Sep-20 to Jan-21,45-54,626
+3265,oleiros,Sep-20 to Jan-21,45-54,5
+3266,olhão,Sep-20 to Jan-21,45-54,177
+3267,oliveira de azeméis,Sep-20 to Jan-21,45-54,178
+3268,oliveira de frades,Sep-20 to Jan-21,45-54,34
+3269,oliveira do bairro,Sep-20 to Jan-21,45-54,62
+3270,oliveira do hospital,Sep-20 to Jan-21,45-54,64
+3271,ourique,Sep-20 to Jan-21,45-54,17
+3272,ourém,Sep-20 to Jan-21,45-54,89
+3273,ovar,Sep-20 to Jan-21,45-54,203
+3274,palmela,Sep-20 to Jan-21,45-54,228
+3275,pampilhosa da serra,Sep-20 to Jan-21,45-54,8
+3276,paredes,Sep-20 to Jan-21,45-54,373
+3277,paredes de coura,Sep-20 to Jan-21,45-54,26
+3278,paços de ferreira,Sep-20 to Jan-21,45-54,192
+3279,pedrógão grande,Sep-20 to Jan-21,45-54,10
+3280,penacova,Sep-20 to Jan-21,45-54,19
+3281,penafiel,Sep-20 to Jan-21,45-54,296
+3282,penalva do castelo,Sep-20 to Jan-21,45-54,26
+3283,penamacor,Sep-20 to Jan-21,45-54,15
+3284,penedono,Sep-20 to Jan-21,45-54,9
+3285,penela,Sep-20 to Jan-21,45-54,7
+3286,peniche,Sep-20 to Jan-21,45-54,108
+3287,peso da régua,Sep-20 to Jan-21,45-54,107
+3288,pinhel,Sep-20 to Jan-21,45-54,15
+3289,pombal,Sep-20 to Jan-21,45-54,112
+3290,ponte da barca,Sep-20 to Jan-21,45-54,28
+3291,ponte de lima,Sep-20 to Jan-21,45-54,87
+3292,ponte de sôr,Sep-20 to Jan-21,45-54,43
+3293,portalegre,Sep-20 to Jan-21,45-54,67
+3294,portel,Sep-20 to Jan-21,45-54,22
+3295,portimão,Sep-20 to Jan-21,45-54,452
+3296,porto,Sep-20 to Jan-21,45-54,1300
+3297,porto de mós,Sep-20 to Jan-21,45-54,54
+3298,proença-a-nova,Sep-20 to Jan-21,45-54,11
+3299,póvoa de lanhoso,Sep-20 to Jan-21,45-54,80
+3300,póvoa de varzim,Sep-20 to Jan-21,45-54,248
+3301,redondo,Sep-20 to Jan-21,45-54,26
+3302,reguengos de monsaraz,Sep-20 to Jan-21,45-54,47
+3303,resende,Sep-20 to Jan-21,45-54,61
+3304,ribeira de pena,Sep-20 to Jan-21,45-54,25
+3305,rio maior,Sep-20 to Jan-21,45-54,41
+3306,sabrosa,Sep-20 to Jan-21,45-54,28
+3307,sabugal,Sep-20 to Jan-21,45-54,20
+3308,salvaterra de magos,Sep-20 to Jan-21,45-54,81
+3309,santa comba dão,Sep-20 to Jan-21,45-54,30
+3310,santa maria da feira,Sep-20 to Jan-21,45-54,546
+3311,santa marta de penaguião,Sep-20 to Jan-21,45-54,42
+3312,santarém,Sep-20 to Jan-21,45-54,152
+3313,santiago do cacém,Sep-20 to Jan-21,45-54,95
+3314,santo tirso,Sep-20 to Jan-21,45-54,249
+3315,sardoal,Sep-20 to Jan-21,45-54,13
+3316,seia,Sep-20 to Jan-21,45-54,60
+3317,seixal,Sep-20 to Jan-21,45-54,644
+3318,sernancelhe,Sep-20 to Jan-21,45-54,17
+3319,serpa,Sep-20 to Jan-21,45-54,69
+3320,sertã,Sep-20 to Jan-21,45-54,51
+3321,sesimbra,Sep-20 to Jan-21,45-54,165
+3322,setúbal,Sep-20 to Jan-21,45-54,536
+3323,sever do vouga,Sep-20 to Jan-21,45-54,17
+3324,silves,Sep-20 to Jan-21,45-54,224
+3325,sines,Sep-20 to Jan-21,45-54,93
+3326,sintra,Sep-20 to Jan-21,45-54,1538
+3327,sobral monte agraço,Sep-20 to Jan-21,45-54,25
+3328,soure,Sep-20 to Jan-21,45-54,42
+3329,sousel,Sep-20 to Jan-21,45-54,17
+3330,sátão,Sep-20 to Jan-21,45-54,37
+3331,são brás de alportel,Sep-20 to Jan-21,45-54,33
+3332,são joão da madeira,Sep-20 to Jan-21,45-54,97
+3333,são joão da pesqueira,Sep-20 to Jan-21,45-54,20
+3334,são pedro do sul,Sep-20 to Jan-21,45-54,55
+3335,tabuaço,Sep-20 to Jan-21,45-54,31
+3336,tarouca,Sep-20 to Jan-21,45-54,43
+3337,tavira,Sep-20 to Jan-21,45-54,103
+3338,terras de bouro,Sep-20 to Jan-21,45-54,29
+3339,tomar,Sep-20 to Jan-21,45-54,89
+3340,tondela,Sep-20 to Jan-21,45-54,62
+3341,torre de moncorvo,Sep-20 to Jan-21,45-54,31
+3342,torres novas,Sep-20 to Jan-21,45-54,80
+3343,torres vedras,Sep-20 to Jan-21,45-54,283
+3344,trancoso,Sep-20 to Jan-21,45-54,15
+3345,trofa,Sep-20 to Jan-21,45-54,129
+3346,tábua,Sep-20 to Jan-21,45-54,35
+3347,vagos,Sep-20 to Jan-21,45-54,51
+3348,vale de cambra,Sep-20 to Jan-21,45-54,44
+3349,valença,Sep-20 to Jan-21,45-54,60
+3350,valongo,Sep-20 to Jan-21,45-54,495
+3351,valpaços,Sep-20 to Jan-21,45-54,40
+3352,vendas novas,Sep-20 to Jan-21,45-54,30
+3353,viana do alentejo,Sep-20 to Jan-21,45-54,21
+3354,viana do castelo,Sep-20 to Jan-21,45-54,241
+3355,vidigueira,Sep-20 to Jan-21,45-54,25
+3356,vieira do minho,Sep-20 to Jan-21,45-54,62
+3357,vila de rei,Sep-20 to Jan-21,45-54,7
+3358,vila do bispo,Sep-20 to Jan-21,45-54,30
+3359,vila do conde,Sep-20 to Jan-21,45-54,320
+3360,vila flor,Sep-20 to Jan-21,45-54,34
+3361,vila franca de xira,Sep-20 to Jan-21,45-54,507
+3362,vila nova da barquinha,Sep-20 to Jan-21,45-54,17
+3363,vila nova de cerveira,Sep-20 to Jan-21,45-54,27
+3364,vila nova de famalicão,Sep-20 to Jan-21,45-54,470
+3365,vila nova de foz côa,Sep-20 to Jan-21,45-54,24
+3366,vila nova de gaia,Sep-20 to Jan-21,45-54,1850
+3367,vila nova de paiva,Sep-20 to Jan-21,45-54,14
+3368,vila nova de poiares,Sep-20 to Jan-21,45-54,22
+3369,vila pouca de aguiar,Sep-20 to Jan-21,45-54,41
+3370,vila real,Sep-20 to Jan-21,45-54,252
+3371,vila real de santo antónio,Sep-20 to Jan-21,45-54,113
+3372,vila velha de rodão,Sep-20 to Jan-21,45-54,6
+3373,vila verde,Sep-20 to Jan-21,45-54,131
+3374,vila viçosa,Sep-20 to Jan-21,45-54,22
+3375,vimioso,Sep-20 to Jan-21,45-54,11
+3376,vinhais,Sep-20 to Jan-21,45-54,23
+3377,viseu,Sep-20 to Jan-21,45-54,342
+3378,vizela,Sep-20 to Jan-21,45-54,95
+3379,vouzela,Sep-20 to Jan-21,45-54,33
+3380,águeda,Sep-20 to Jan-21,45-54,110
+3381,évora,Sep-20 to Jan-21,45-54,211
+3382,ílhavo,Sep-20 to Jan-21,45-54,133
+3383,óbidos,Sep-20 to Jan-21,45-54,33
