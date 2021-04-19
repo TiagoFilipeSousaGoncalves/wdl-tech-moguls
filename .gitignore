@@ -131,3 +131,6 @@ dmypy.json
 # macOS
 .DS_Store
 *.DS_Store
+
+stage-2/data
+stage-2/data/air_quality_2021.csv
