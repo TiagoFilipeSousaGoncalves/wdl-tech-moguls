@@ -132,5 +132,7 @@ dmypy.json
 .DS_Store
 *.DS_Store
 
+# Directories
+data/
 stage-2/data
 stage-2/data/air_quality_2021.csv
