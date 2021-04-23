@@ -134,3 +134,5 @@ dmypy.json
 
 # Directories
 data/
+stage-2/data
+stage-2/data/air_quality_2021.csv
