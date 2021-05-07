@@ -1,3 +1,5 @@
+# Credits: https://towardsdatascience.com/count-number-of-cars-in-less-than-10-lines-of-code-using-python-40208b173554
+
 # Imports
 import cv2
 import matplotlib.pyplot as plt
