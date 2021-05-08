@@ -14,37 +14,46 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.applications import MobileNetV2
 from keras_preprocessing.image import ImageDataGenerator
 import pandas as pd
+import numpy as np
 
 
 ##################################
 ### chose what model you want to train: 'irrelevante_check', 'multitask'or 'quality'
 
-what_to_train='multitask'
+what_to_train='irrelevante_check'
+EPOCHS = 3
+
+
 ####################################
-
-
 
 
 ############################## Data Loader #############################
 
-traindf = pd.read_csv("annotations_train.csv")
+#divide in train / test
+df = pd.read_csv("anotations_full.csv")
+
+msk = np.random.rand(len(df)) < 0.8
+
+train = df[msk]
+
+test = df[~msk]
+
+
 
 datagen=ImageDataGenerator(rescale=1./255.,
-    validation_split=0.2,
     rotation_range=10,
     width_shift_range=0.1,
     height_shift_range=0.1)
 
-test_datagen = ImageDataGenerator(rescale=1./255,validation_split=0.2)
-#use as class_type multi_output for multitask
+test_datagen = ImageDataGenerator(rescale=1./255)
+
 
 def train_generator(images="image_name", y_true="irrelevant_image", class_type="raw"):
     train_gen=datagen.flow_from_dataframe(
-    dataframe=traindf,
+    dataframe=train,
     directory="images/",
     x_col=images,
     y_col=y_true,
-    subset="training",
     batch_size=32,
     seed=42,
     shuffle=True,
@@ -53,16 +62,15 @@ def train_generator(images="image_name", y_true="irrelevant_image", class_type="
     
     return train_gen
 
-def test_generator(images="image_name", y_true="irrelevant_image", class_type="raw"):
+def test_generator(images="image_name", y_true="irrelevant_image", class_type="raw", BS=32):
     test_gen=test_datagen.flow_from_dataframe(
-    dataframe=traindf,
+    dataframe=test,
     directory="images/",
     x_col=images,
     y_col=y_true,
-    subset="validation",
-    batch_size=32,
+    batch_size=BS,
     seed=42,
-    shuffle=True,
+    shuffle=False,
     class_mode=class_type,
     target_size=(224,224))
     return test_gen
@@ -114,11 +122,14 @@ if what_to_train=='irrelevante_check':
 
 
 elif what_to_train=='multitask':
-    train_gen=train_generator(y_true=["irrelevant_image","single_car"],class_type="multi_output")
-    test_gen=test_generator(y_true=["irrelevant_image","single_car"],class_type="multi_output")
+    train_gen=train_generator(y_true=["single_car","pavement"],class_type="multi_output")
+    test_gen=test_generator(y_true=["irrelevant_image","pavement"],class_type="multi_output")
     model=model(lr=0.0001 ,model_name = 'multitask')
 
-
+elif what_to_train=='quality':
+    train_gen=train_generator()
+    test_gen=test_generator()
+    model=model(lr=0.0001)
 
 #train cycle
 
@@ -129,9 +140,9 @@ history = model.fit_generator(generator=train_gen,
                     steps_per_epoch=STEP_SIZE_TRAIN,
                     validation_data=test_gen,
                     validation_steps=STEP_SIZE_VALID,
-                    epochs=50
+                    epochs=EPOCHS
 )
 
-y_hat= model.evaluate(test_gen)
+y_hat= model.evaluate(test_gen(BS=1))
 
-
+y_true=test['irrelevant_image']
