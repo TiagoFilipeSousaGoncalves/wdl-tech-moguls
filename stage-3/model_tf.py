@@ -27,10 +27,11 @@ EPOCHS = 100
 #read dataframe
 df = pd.read_csv("annotations_final.csv")
 
-new = df["image"]= df["image"].str.split("/", n = 3, expand = True)
-df["image"] = new[3]
+# new = df["image"]= df["image"].str.split("/", n = 3, expand = True)
+# df["image"] = new[3]
+df["image"] = df["image"].str.split("/", n = 3, expand = True)[3]
 
-df['irrelevant_infer']=(df['street_width']=='irrelevant_image')*1
+df['irrelevant_infer'] = (df['street_width']=='irrelevant_image')*1
 
 #change dataframe for every specific task
 if what_to_train=='quality':
@@ -44,15 +45,16 @@ elif what_to_train=='multitask':
     df['street_width'][df['street_width']=='single_car']=0
     df['street_width'][df['street_width']=='double_car_or_more']=1
     
-def multitask_generator(data ,batch_size=32):
+def multitask_generator(data, batch_size=32):
 
         imagePath = "images/"
+        # imagePath = "data/Competition/images/"
 
         swID = len(data.street_width.unique())
         ptID = len(data.pavement_type.unique())
         images, sws,pts = [], [], []
         while True:
-            for i in range(0,data.shape[0]):
+            for i in range(0, data.shape[0]):
                 r = data.iloc[i]
                 name, sw, pt = r['image'], r['street_width'], r['pavement_type']
                 im = Image.open(imagePath+name)
@@ -62,6 +64,7 @@ def multitask_generator(data ,batch_size=32):
                 sws.append(tf.keras.utils.to_categorical(sw, swID))
                 pts.append(tf.keras.utils.to_categorical(pt, ptID))
                 if len(images) >= batch_size:
+                    print(np.shape(images), np.shape(sws), np.shape(pts))
                     yield np.array(images), [np.array(sws), np.array(pts)]
                     images, sws, pts = [], [], []
 
@@ -144,10 +147,14 @@ def model(lr=0.0001, input_shape=(224, 224, 3), base_model_trainable=False, mode
         
     model = Model(inputs = base_model.input, outputs = out)
     optimizer = Adam(learning_rate=lr)
+    model.compile(optimizer, loss, metrics=['accuracy'])
+
+    """
     model.compile(optimizer, loss, metrics=[
         'accuracy',
         metrics.AUC(name='AUC'),
     ])
+    """
 
     return model
 
