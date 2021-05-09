@@ -118,8 +118,13 @@ if what_to_train=='irrelevante_check':
 
 
 elif what_to_train=='multitask':
-    train_gen=train_generator(y_true=["irrelevant_image","single_car"],class_type="multi_output")
-    test_gen=test_generator(y_true=["irrelevant_image","single_car"],class_type="multi_output")
+    # Shouldn't it be "street_width, single_car"
+    # train_gen=train_generator(y_true=["irrelevant_image","single_car"],class_type="multi_output")
+    # test_gen=test_generator(y_true=["irrelevant_image","single_car"],class_type="multi_output")
+    
+    # Where street_width only has two possible values: single or double car
+    train_gen=train_generator(y_true=["street_width","single_car"],class_type="multi_output")
+    test_gen=test_generator(y_true=["street_width","single_car"],class_type="multi_output")
     model=model(lr=0.0001 ,model_name = 'multitask')
 
 
