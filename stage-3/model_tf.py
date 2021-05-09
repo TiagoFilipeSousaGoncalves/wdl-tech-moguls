@@ -101,19 +101,24 @@ def model(lr=0.0001, input_shape=(224, 224, 3), base_model_trainable=False, mode
     if model_name == 'irrelevant_vs_relevant':
         out = Dense(1, activation="sigmoid", name='irrelevant')(x)
         loss = losses.binary_crossentropy
-        
+
+    
     elif model_name == 'multitask':
         out_width = Dense(1, activation="sigmoid", name='single_car')(x)
-        out_pavement = Dense(3, activation="softmax", name='pavement')(x)
-        loss=[losses.binary_crossentropy, losses.categorical_crossentropy]
+
         
-        out=[out_width,out_pavement]
+        # Changed this to 3, because, using softmax we need one neuron to each class
+        # out_pavement = Dense(1, activation="softmax", name='pavement')(x)
+        out_pavement = Dense(3, activation="softmax", name='pavement')(x)
+        loss = [losses.binary_crossentropy, losses.categorical_crossentropy]
+        
+        out = [out_width, out_pavement]
         
     elif model_name == 'quality':
         out = Dense(3, activation='softmax', name='quality')(x)
-        loss=losses.categorical_crossentropy
+        loss = losses.categorical_crossentropy
         
-    model = Model(inputs=base_model.input, outputs=out)
+    model = Model(inputs = base_model.input, outputs = out)
     optimizer = Adam(learning_rate=lr)
     model.compile(optimizer, loss, metrics=[
         'accuracy',
