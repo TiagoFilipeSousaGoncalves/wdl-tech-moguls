@@ -1,5 +1,5 @@
 
-# import tensorflow as tf
+import tensorflow as tf
 from tensorflow.keras import utils, callbacks, models, regularizers, Input, losses, metrics
 from tensorflow.keras.layers import Dense, Activation, Flatten, Dropout, BatchNormalization, GlobalAveragePooling2D
 from tensorflow.keras.optimizers import Adam
@@ -9,6 +9,7 @@ from keras_preprocessing.image import ImageDataGenerator
 from sklearn.preprocessing import LabelEncoder
 from sklearn import preprocessing
 from sklearn.model_selection import GroupShuffleSplit
+from PIL import Image
 
 import pandas as pd
 import numpy as np
@@ -37,12 +38,39 @@ if what_to_train=='quality':
 
 elif what_to_train=='multitask':
     df = df[df['pavement_type'].notna()]
+    df['pavement_type'][df['pavement_type']=='alcatrao']=0
+    df['pavement_type'][df['pavement_type']=='terra_batida']=1
+    df['pavement_type'][df['pavement_type']=='paralelo']=2
+    df['street_width'][df['street_width']=='single_car']=0
+    df['street_width'][df['street_width']=='double_car_or_more']=1
+    
+def multitask_generator(data ,batch_size=32):
+
+        imagePath = "images/"
+
+        swID = len(data.street_width.unique())
+        ptID = len(data.pavement_type.unique())
+        images, sws,pts = [], [], []
+        while True:
+            for i in range(0,data.shape[0]):
+                r = data.iloc[i]
+                name, sw, pt = r['image'], r['street_width'], r['pavement_type']
+                im = Image.open(imagePath+name)
+                im = im.resize((224, 224))
+                im = np.array(im) / 255.0
+                images.append(im)
+                sws.append(tf.keras.utils.to_categorical(sw, swID))
+                pts.append(tf.keras.utils.to_categorical(pt, ptID))
+                if len(images) >= batch_size:
+                    yield np.array(images), [np.array(sws), np.array(pts)]
+                    images, sws, pts = [], [], []
 
 
 
 #Train vs test division of dataframe by group of images 
 df = df[df['image'].notna()]
 df['image_group'] = df.image.str.extract(r"(image\d{1,})")
+
 train_inds, test_inds = next(GroupShuffleSplit(test_size=.20, n_splits=2, random_state =42).split(df, groups=df['image_group']))
 train = df.iloc[train_inds]
 test = df.iloc[test_inds]
@@ -104,11 +132,7 @@ def model(lr=0.0001, input_shape=(224, 224, 3), base_model_trainable=False, mode
 
     
     elif model_name == 'multitask':
-        out_width = Dense(1, activation="sigmoid", name='single_car')(x)
-
-        
-        # Changed this to 3, because, using softmax we need one neuron to each class
-        # out_pavement = Dense(1, activation="softmax", name='pavement')(x)
+        out_width = Dense(1, activation="sigmoid", name='number_cars')(x)
         out_pavement = Dense(3, activation="softmax", name='pavement')(x)
         loss = [losses.binary_crossentropy, losses.categorical_crossentropy]
         
@@ -137,11 +161,16 @@ if what_to_train=='irrelevante_check':
 
 
 elif what_to_train=='multitask':
-    train_gen=train_generator(y_true=["street_width","pavement_type"],class_type="multi_output")
-    test_gen=test_generator(y_true=["street_width","pavement_type"],class_type="multi_output")
+
+    # train_gen=train_generator(y_true=["street_width","pavement_type"],class_type="multi_output")
+    # test_gen=test_generator(y_true=["street_width","pavement_type"],class_type="multi_output")
+
+    # model=model(lr=0.0001 ,model_name = 'multitask')
+
+    train_gen  = multitask_generator(train, batch_size=32)
+    test_gen  = multitask_generator(test, batch_size=32)
     model=model(lr=0.0001 ,model_name = 'multitask')
-
-
+    
 elif what_to_train=='quality':
     train_gen=train_generator(y_true="pavement_quality",class_type="categorical")
     test_gen=test_generator(y_true="pavement_quality",class_type="categorical")
@@ -150,8 +179,11 @@ elif what_to_train=='quality':
 
 #train cycle
 
-STEP_SIZE_TRAIN=train_gen.n//train_gen.batch_size
-STEP_SIZE_VALID=test_gen.n//test_gen.batch_size
+# STEP_SIZE_TRAIN=train_gen.n//train_gen.batch_size
+# STEP_SIZE_VALID=test_gen.n//test_gen.batch_size
+
+STEP_SIZE_TRAIN=len(train)//32
+STEP_SIZE_VALID=len(test)//32
 
 history = model.fit_generator(generator=train_gen,
                     steps_per_epoch=STEP_SIZE_TRAIN,
@@ -162,7 +194,7 @@ history = model.fit_generator(generator=train_gen,
 
 
 ########### Test ##############
-y_hat= model.predict_generator(test_generator(BS=1))
+# y_hat= model.predict_generator(test_generator(BS=1))
 # y_pred = (y_hat > 0.5)*1
 # y_true=test['irrelevant_infer']
 
