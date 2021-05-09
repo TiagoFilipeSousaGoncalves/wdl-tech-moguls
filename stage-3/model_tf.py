@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  6 10:02:12 2021
-
-@author: albu
-"""
-
 
 # import tensorflow as tf
 from tensorflow.keras import utils, callbacks, models, regularizers, Input, losses, metrics
@@ -13,30 +6,46 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.models import Model
 from tensorflow.keras.applications import MobileNetV2
 from keras_preprocessing.image import ImageDataGenerator
+from sklearn.preprocessing import LabelEncoder
+from sklearn import preprocessing
+from sklearn.model_selection import GroupShuffleSplit
+
 import pandas as pd
 import numpy as np
 
 
 ##################################
-### chose what model you want to train: 'irrelevante_check', 'multitask'or 'quality'
+# chose what model you want to train: 'irrelevante_check', 'multitask'or 'quality'
 
-what_to_train='irrelevante_check'
-EPOCHS = 3
-
-
-####################################
+what_to_train='multitask'
+EPOCHS = 100
 
 
 ############################## Data Loader #############################
 
-#divide in train / test
-df = pd.read_csv("anotations_full.csv")
+#read dataframe
+df = pd.read_csv("annotations_final.csv")
 
-msk = np.random.rand(len(df)) < 0.8
+new = df["image"]= df["image"].str.split("/", n = 3, expand = True)
+df["image"] = new[3]
 
-train = df[msk]
+df['irrelevant_infer']=(df['street_width']=='irrelevant_image')*1
 
-test = df[~msk]
+#change dataframe for every specific task
+if what_to_train=='quality':
+    df = df[df['pavement_quality'].notna()]
+
+elif what_to_train=='multitask':
+    df = df[df['pavement_type'].notna()]
+
+
+
+#Train vs test division of dataframe by group of images 
+df = df[df['image'].notna()]
+df['image_group'] = df.image.str.extract(r"(image\d{1,})")
+train_inds, test_inds = next(GroupShuffleSplit(test_size=.20, n_splits=2, random_state =42).split(df, groups=df['image_group']))
+train = df.iloc[train_inds]
+test = df.iloc[test_inds]
 
 
 
@@ -48,7 +57,7 @@ datagen=ImageDataGenerator(rescale=1./255.,
 test_datagen = ImageDataGenerator(rescale=1./255)
 
 
-def train_generator(images="image_name", y_true="irrelevant_image", class_type="raw"):
+def train_generator(images="image", y_true="irrelevant_infer", class_type="raw"):
     train_gen=datagen.flow_from_dataframe(
     dataframe=train,
     directory="images/",
@@ -62,7 +71,7 @@ def train_generator(images="image_name", y_true="irrelevant_image", class_type="
     
     return train_gen
 
-def test_generator(images="image_name", y_true="irrelevant_image", class_type="raw", BS=32):
+def test_generator(images="image", y_true="irrelevant_infer", class_type="raw", BS=32):
     test_gen=test_datagen.flow_from_dataframe(
     dataframe=test,
     directory="images/",
@@ -74,6 +83,7 @@ def test_generator(images="image_name", y_true="irrelevant_image", class_type="r
     class_mode=class_type,
     target_size=(224,224))
     return test_gen
+
 
 ################################# Model ###############################
 
@@ -91,9 +101,10 @@ def model(lr=0.0001, input_shape=(224, 224, 3), base_model_trainable=False, mode
     if model_name == 'irrelevant_vs_relevant':
         out = Dense(1, activation="sigmoid", name='irrelevant')(x)
         loss = losses.binary_crossentropy
+        
     elif model_name == 'multitask':
         out_width = Dense(1, activation="sigmoid", name='single_car')(x)
-        out_pavement = Dense(1, activation="softmax", name='pavement')(x)
+        out_pavement = Dense(3, activation="softmax", name='pavement')(x)
         loss=[losses.binary_crossentropy, losses.categorical_crossentropy]
         
         out=[out_width,out_pavement]
@@ -115,21 +126,22 @@ def model(lr=0.0001, input_shape=(224, 224, 3), base_model_trainable=False, mode
 ############################ Train ####################################
 
 if what_to_train=='irrelevante_check':
-    
     train_gen=train_generator()
     test_gen=test_generator()
     model=model(lr=0.0001)
 
 
 elif what_to_train=='multitask':
-    train_gen=train_generator(y_true=["single_car","pavement"],class_type="multi_output")
-    test_gen=test_generator(y_true=["irrelevant_image","pavement"],class_type="multi_output")
+    train_gen=train_generator(y_true=["street_width","pavement_type"],class_type="multi_output")
+    test_gen=test_generator(y_true=["street_width","pavement_type"],class_type="multi_output")
     model=model(lr=0.0001 ,model_name = 'multitask')
 
+
 elif what_to_train=='quality':
-    train_gen=train_generator()
-    test_gen=test_generator()
-    model=model(lr=0.0001)
+    train_gen=train_generator(y_true="pavement_quality",class_type="categorical")
+    test_gen=test_generator(y_true="pavement_quality",class_type="categorical")
+    model=model(lr=0.0001, model_name ='quality')
+
 
 #train cycle
 
@@ -143,6 +155,11 @@ history = model.fit_generator(generator=train_gen,
                     epochs=EPOCHS
 )
 
-y_hat= model.evaluate(test_gen(BS=1))
 
-y_true=test['irrelevant_image']
+########### Test ##############
+y_hat= model.predict_generator(test_generator(BS=1))
+# y_pred = (y_hat > 0.5)*1
+# y_true=test['irrelevant_infer']
+
+# from sklearn.metrics import confusion_matrix
+# print(confusion_matrix(y_true,y_pred))
