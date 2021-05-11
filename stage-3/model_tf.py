@@ -13,19 +13,20 @@ from PIL import Image
 
 import pandas as pd
 import numpy as np
-
+import math
 
 ##################################
-# chose what model you want to train: 'irrelevante_check', 'multitask'or 'quality'
+# chose what model you want to train: 'irrelevante_check', 'multitask' or 'quality'
 
 what_to_train='multitask'
 EPOCHS = 100
-
+batch_size=32
+LR=0.0001
 
 ############################## Data Loader #############################
 
 #read dataframe
-df = pd.read_csv("annotations_final.csv")
+df = pd.read_csv("annotations.csv")
 
 # new = df["image"]= df["image"].str.split("/", n = 3, expand = True)
 # df["image"] = new[3]
@@ -45,8 +46,20 @@ elif what_to_train=='multitask':
     df['street_width'][df['street_width']=='single_car']=0
     df['street_width'][df['street_width']=='double_car_or_more']=1
     
-def multitask_generator(data, batch_size=32):
 
+
+
+
+#Train vs test division of dataframe by group of images 
+df = df[df['image'].notna()]
+df['image_group'] = df.image.str.extract(r"(image\d{1,})")
+
+train_inds, test_inds = next(GroupShuffleSplit(test_size=.20, n_splits=2, random_state =42).split(df, groups=df['image_group']))
+train = df.iloc[train_inds]
+test = df.iloc[test_inds]
+
+#images generator for multitask 
+def multitask_generator(data, batch_size=32):
         imagePath = "images/"
         # imagePath = "data/Competition/images/"
 
@@ -64,20 +77,8 @@ def multitask_generator(data, batch_size=32):
                 sws.append(tf.keras.utils.to_categorical(sw, swID))
                 pts.append(tf.keras.utils.to_categorical(pt, ptID))
                 if len(images) >= batch_size:
-                    print(np.shape(images), np.shape(sws), np.shape(pts))
                     yield np.array(images), [np.array(sws), np.array(pts)]
                     images, sws, pts = [], [], []
-
-
-
-#Train vs test division of dataframe by group of images 
-df = df[df['image'].notna()]
-df['image_group'] = df.image.str.extract(r"(image\d{1,})")
-
-train_inds, test_inds = next(GroupShuffleSplit(test_size=.20, n_splits=2, random_state =42).split(df, groups=df['image_group']))
-train = df.iloc[train_inds]
-test = df.iloc[test_inds]
-
 
 
 datagen=ImageDataGenerator(rescale=1./255.,
@@ -149,13 +150,6 @@ def model(lr=0.0001, input_shape=(224, 224, 3), base_model_trainable=False, mode
     optimizer = Adam(learning_rate=lr)
     model.compile(optimizer, loss, metrics=['accuracy'])
 
-    """
-    model.compile(optimizer, loss, metrics=[
-        'accuracy',
-        metrics.AUC(name='AUC'),
-    ])
-    """
-
     return model
 
 
@@ -164,40 +158,48 @@ def model(lr=0.0001, input_shape=(224, 224, 3), base_model_trainable=False, mode
 if what_to_train=='irrelevante_check':
     train_gen=train_generator()
     test_gen=test_generator()
-    model=model(lr=0.0001)
+    model=model(lr=LR)
+    monitor_check='val_loss'
 
 
 elif what_to_train=='multitask':
-
-    # train_gen=train_generator(y_true=["street_width","pavement_type"],class_type="multi_output")
-    # test_gen=test_generator(y_true=["street_width","pavement_type"],class_type="multi_output")
-
-    # model=model(lr=0.0001 ,model_name = 'multitask')
-
-    train_gen  = multitask_generator(train, batch_size=32)
-    test_gen  = multitask_generator(test, batch_size=32)
-    model=model(lr=0.0001 ,model_name = 'multitask')
+    train_gen  = multitask_generator(train, batch_size=batch_size)
+    test_gen  = multitask_generator(test, batch_size=batch_size)
+    model=model(lr=LR ,model_name = 'multitask')
+    monitor_check='val_pavement_loss'
     
 elif what_to_train=='quality':
     train_gen=train_generator(y_true="pavement_quality",class_type="categorical")
     test_gen=test_generator(y_true="pavement_quality",class_type="categorical")
-    model=model(lr=0.0001, model_name ='quality')
+    model=model(lr=LR, model_name ='quality')
+    monitor_check='val_loss'
 
 
 #train cycle
 
-# STEP_SIZE_TRAIN=train_gen.n//train_gen.batch_size
-# STEP_SIZE_VALID=test_gen.n//test_gen.batch_size
+STEP_SIZE_TRAIN=len(train)//batch_size
+STEP_SIZE_VALID=len(test)//batch_size
 
-STEP_SIZE_TRAIN=len(train)//32
-STEP_SIZE_VALID=len(test)//32
+
+
+checkpoint_filepath = what_to_train+'.h5'
+
+model_checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
+    filepath=checkpoint_filepath,
+    save_weights_only=True,
+    monitor=monitor_check,
+    mode='min',
+    save_best_only=True,
+    verbose=1)
 
 history = model.fit_generator(generator=train_gen,
                     steps_per_epoch=STEP_SIZE_TRAIN,
                     validation_data=test_gen,
                     validation_steps=STEP_SIZE_VALID,
-                    epochs=EPOCHS
+                    epochs=EPOCHS,
+                    callbacks=[model_checkpoint_callback]
 )
+
 
 
 ########### Test ##############
