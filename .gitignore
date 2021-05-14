@@ -134,7 +134,8 @@ dmypy.json
 
 # Directories
 results/
-data/
+stage-3/data/coordinates
+stage-3/data/images
 stage-2/data
 stage-2/data/air_quality_2021.csv
 stage-3/annotations.csv

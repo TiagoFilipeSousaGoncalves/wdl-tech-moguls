@@ -12,7 +12,7 @@ what_to_test='multitask'
 def model_to_results(model_to_test):
     
     #read the results from model test subset
-    filename=model_to_test+'_results.csv'
+    filename='intermediary_data/' + model_to_test+'_results.csv'
     results=pd.read_csv(filename)
     
     if model_to_test=='irrelevant_check':
