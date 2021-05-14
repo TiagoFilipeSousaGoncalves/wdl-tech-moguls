@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#imports for the fucntion
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -6,7 +6,12 @@ from sklearn.metrics import accuracy_score, roc_auc_score, confusion_matrix
 from plot_confusion_matrix import plot_confusion_matrix
 
 
-what_to_test='multitask'
+"""
+    This function prints Accuracy and AUC results for test subset. It also plot the confusion matrix for each model.
+   
+    Return: AUC(%),Accuracy(%), Confusion Matrix 
+    
+"""
 
 
 def model_to_results(model_to_test):
@@ -79,6 +84,3 @@ def model_to_results(model_to_test):
         plt.show()
             
         
-
-
-model_to_results(what_to_test)
