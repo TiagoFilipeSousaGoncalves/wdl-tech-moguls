@@ -6,7 +6,7 @@ from PIL import Image
 import numpy as np
 import tensorflow as tf
 
-def train_generator(datagen, images="image", y_true="irrelevant_infer", class_type="raw"):
+def train_generator(datagen, train, images="image", y_true="irrelevant_infer", class_type="raw"):
     train_gen=datagen.flow_from_dataframe(
     dataframe=train,
     directory="data/images/",
@@ -20,7 +20,7 @@ def train_generator(datagen, images="image", y_true="irrelevant_infer", class_ty
     
     return train_gen
 
-def test_generator(test_datagen, images="image", y_true="irrelevant_infer", class_type="raw", BS=32):
+def test_generator(test_datagen, test, images="image", y_true="irrelevant_infer", class_type="raw", BS=32):
     test_gen=test_datagen.flow_from_dataframe(
     dataframe=test,
     directory="data/images/",
@@ -35,7 +35,7 @@ def test_generator(test_datagen, images="image", y_true="irrelevant_infer", clas
 
 #images generator for multitask 
 def multitask_generator(data, batch_size=32):
-        imagePath = "images/"
+        imagePath = "data/images/"
 
         swID = len(data.street_width.unique())
         ptID = len(data.pavement_type.unique())
