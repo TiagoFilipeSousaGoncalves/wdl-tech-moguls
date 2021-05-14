@@ -1,21 +1,21 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  9 21:35:14 2020
-confusion matrix
-@author: albu
-"""
-
+#imports for the function
 import matplotlib.pyplot as plt
 import numpy as np
+
+
+"""
+This function prints and plots the confusion matrix.
+Normalization can be applied by setting `normalize=True`.
+
+Returns:
+    a plot of the confusion matrix
+"""
 
 def plot_confusion_matrix(cm, classes,
                           normalize=False,
                           title='Confusion matrix',
                           cmap=plt.cm.Blues):
-    """
-    This function prints and plots the confusion matrix.
-    Normalization can be applied by setting `normalize=True`.
-    """
+
     import itertools
     if normalize:
         cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
