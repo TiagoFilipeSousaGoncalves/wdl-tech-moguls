@@ -6,7 +6,15 @@ from PIL import Image
 import numpy as np
 import tensorflow as tf
 
-def train_generator(datagen, train, images="image", y_true="irrelevant_infer", class_type="raw"):
+
+"""
+This function generates data from our dataframe/images to feed the train of our deep learning models.
+    
+Returns:
+    generator:  a list of images with the true label
+"""
+
+def train_generator(datagen,train, images="image", y_true="irrelevant_infer", class_type="raw"):
     train_gen=datagen.flow_from_dataframe(
     dataframe=train,
     directory="data/images/",
@@ -20,7 +28,15 @@ def train_generator(datagen, train, images="image", y_true="irrelevant_infer", c
     
     return train_gen
 
-def test_generator(test_datagen, test, images="image", y_true="irrelevant_infer", class_type="raw", BS=32):
+
+"""
+This function generates data from our dataframe/images to feed the test of our deep learning models.
+    
+Returns:
+    generator:  a list of images with the true label
+"""
+
+def test_generator(test_datagen,test, images="image", y_true="irrelevant_infer", class_type="raw", BS=32):
     test_gen=test_datagen.flow_from_dataframe(
     dataframe=test,
     directory="data/images/",
@@ -33,9 +49,15 @@ def test_generator(test_datagen, test, images="image", y_true="irrelevant_infer"
     target_size=(224,224))
     return test_gen
 
-#images generator for multitask 
+
+"""
+This function generates multitask data from our dataframe/images to feed the train and test of our deep learning models.
+    
+Returns:
+    generator:  a list of images with the true label for both tasks.
+"""
 def multitask_generator(data, batch_size=32):
-        imagePath = "data/images/"
+        imagePath = "images/"
 
         swID = len(data.street_width.unique())
         ptID = len(data.pavement_type.unique())
