@@ -144,3 +144,5 @@ stage-3/cache/fe7fc056e7179222d938cae6215331822b67dd9e.json
 stage-4/data/reverse_loc.pickle
 __MACOSX/
 *.pickle
+
+finals/data/
